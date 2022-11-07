@@ -1,0 +1,287 @@
+first.protein.accession,first.protein.species.scientific.name,first.protein.species.common.name,first.protein.species.category.corrected,first.protein.species.is.mammals.info,R,is.in.first.round
+ACT66275.1,Rhinolophus sinicus,Chinese rufous horseshoe bat,bats,Mammals,0.21289390696343,TRUE
+NP_001012006.1,Rattus norvegicus,Norway rat,rodents,Mammals,0.0636690798693773,FALSE
+NP_001019673.2,Bos taurus,cattle,even-toed ungulates,Mammals,1.14612803567824,TRUE
+NP_001034545.1,Felis catus,domestic cat,carnivores,Mammals,0.457816099524276,TRUE
+NP_001116542.1,Sus scrofa,pig,even-toed ungulates,Mammals,0.301029995663981,TRUE
+NP_001123985.1,Mus musculus,house mouse,rodents,Mammals,0.245727187197076,TRUE
+NP_001124604.1,Pongo abelii,Sumatran orangutan,primates,Mammals,0.834632606336092,FALSE
+NP_001129168.1,Macaca mulatta,Rhesus monkey,primates,Mammals,1.31175386105575,TRUE
+NP_001158732.1,Canis lupus familiaris,dog,carnivores,Mammals,0.423875742766437,TRUE
+NP_001269290.1,Chinchilla lanigera,long-tailed chinchilla,rodents,Mammals,0.0766340570337449,FALSE
+NP_001277036.1,Capra hircus,goat,even-toed ungulates,Mammals,1.13987908640124,TRUE
+NP_001297119.1,Mustela putorius furo,domestic ferret,carnivores,Mammals,0.386201605400793,FALSE
+NP_001358344.1,Homo sapiens,human,primates,Mammals,0.414973347970818,FALSE
+NP_001373188.1,Homo sapiens,human,primates,Mammals,0.231394067522587,FALSE
+NP_001373189.1,Homo sapiens,human,primates,Mammals,0.179296398930893,FALSE
+NP_001375381.1,Homo sapiens,human,primates,Mammals,0.0436645010548313,FALSE
+NP_001376331.1,Homo sapiens,human,primates,Mammals,0.179296398930893,FALSE
+NP_068576.1,Homo sapiens,human,primates,Mammals,0.414973347970818,TRUE
+NP_081562.2,Mus musculus,house mouse,rodents,Mammals,0.245727187197076,FALSE
+XP_001490241.1,Equus caballus,horse,other placentals,Mammals,0.287241711178348,TRUE
+XP_001515597.2,Ornithorhynchus anatinus,platypus,other placentals,Mammals,0.0344555093655017,FALSE
+XP_002719891.1,Oryctolagus cuniculus,rabbit,other placentals,Mammals,0.209949526316649,TRUE
+XP_002930657.1,Ailuropoda melanoleuca,Giant panda,carnivores,Mammals,1.27300127206374,FALSE
+XP_003261132.2,Nomascus leucogenys,northern white-cheeked gibbon,primates,Mammals,0.834632606336092,FALSE
+XP_003503283.1,Cricetulus griseus,Chinese hamster,rodents,Mammals,0.0945561076145791,TRUE
+XP_003791912.1,Otolemur garnettii,small-eared galago,primates,Mammals,0.0791812460476248,FALSE
+XP_004269705.1,Orcinus orca,killer whale,whales and dolphins,Mammals,0.342422680822206,FALSE
+XP_004386381.1,Trichechus manatus latirostris,Florida manatee,other placentals,Mammals,0.163646439601424,FALSE
+XP_004415448.1,Odobenus rosmarus divergens,Pacific walrus,carnivores,Mammals,0.420505836570779,FALSE
+XP_004435206.1,Ceratotherium simum simum,southern white rhinoceros,other placentals,Mammals,0.285790029107244,FALSE
+XP_004449124.1,Dasypus novemcinctus,nine-banded armadillo,other placentals,Mammals,0.113943352306837,FALSE
+XP_004597549.3,Ochotona princeps,American pika,other placentals,Mammals,0.288440868355961,FALSE
+XP_004612266.1,Sorex araneus,European shrew,other placentals,Mammals,0.040904987766263,FALSE
+XP_004671523.1,Jaculus jaculus,lesser Egyptian jerboa,rodents,Mammals,0.227243781503063,FALSE
+XP_004710002.1,Echinops telfairi,small Madagascar hedgehog,other placentals,Mammals,0.0585947152658473,FALSE
+XP_004758942.1,Mustela putorius furo,domestic ferret,carnivores,Mammals,0.386201605400793,FALSE
+XP_004758943.1,Mustela putorius furo,domestic ferret,carnivores,Mammals,0.386201605400793,FALSE
+XP_004866157.1,Heterocephalus glaber,naked mole-rat,rodents,Mammals,0.0693264913759679,FALSE
+XP_005074266.1,Mesocricetus auratus,golden hamster,rodents,Mammals,0.529509324179351,FALSE
+XP_005228485.1,Bos taurus,cattle,even-toed ungulates,Mammals,0.631218220069176,FALSE
+XP_005228486.1,Bos taurus,cattle,even-toed ungulates,Mammals,1.14612803567824,FALSE
+XP_005316051.3,Ictidomys tridecemlineatus,thirteen-lined ground squirrel,rodents,Mammals,0.117113399096343,FALSE
+XP_005358818.1,Microtus ochrogaster,prairie vole,rodents,Mammals,0.385350881364017,FALSE
+XP_005593094.1,Macaca fascicularis,crab-eating macaque,primates,Mammals,1.29003461136252,TRUE
+XP_005701129.2,Capra hircus,goat,even-toed ungulates,Mammals,1.06069784035361,FALSE
+XP_005903173.1,Bos mutus,wild yak,even-toed ungulates,Mammals,Inf,FALSE
+XP_006041602.1,Bubalus bubalis,water buffalo,even-toed ungulates,Mammals,1.38620160540079,FALSE
+XP_006164754.1,Tupaia chinensis,Chinese tree shrew,other placentals,Mammals,0.0770151842911171,FALSE
+XP_006194263.1,Camelus ferus,Wild Bactrian camel,even-toed ungulates,Mammals,0.374137093999413,TRUE
+XP_006212709.1,Vicugna pacos,alpaca,even-toed ungulates,Mammals,0.966141732739033,FALSE
+XP_006775273.1,Myotis davidii,"",bats,Mammals,-0.23847449199934,FALSE
+XP_006835673.1,Chrysochloris asiatica,Cape golden mole,other placentals,Mammals,0.107783043602018,FALSE
+XP_006892457.1,Elephantulus edwardii,Cape elephant shrew,other placentals,Mammals,0.109804993479243,FALSE
+XP_006911709.1,Pteropus alecto,black flying fox,bats,Mammals,0.255272505103306,FALSE
+XP_006973269.1,Peromyscus maniculatus bairdii,prairie deer mouse,rodents,Mammals,0.264817823009536,FALSE
+XP_007090142.2,Panthera tigris,tiger,carnivores,Mammals,1.51188336097887,FALSE
+XP_007466389.1,Lipotes vexillifer,Yangtze River dolphin,whales and dolphins,Mammals,0.380211241711606,FALSE
+XP_007500935.1,Monodelphis domestica,gray short-tailed opossum,marsupials,Mammals,-0.141619747977538,FALSE
+XP_007500936.1,Monodelphis domestica,gray short-tailed opossum,marsupials,Mammals,-0.141619747977538,FALSE
+XP_007500937.1,Monodelphis domestica,gray short-tailed opossum,marsupials,Mammals,-0.141619747977538,FALSE
+XP_007500938.1,Monodelphis domestica,gray short-tailed opossum,marsupials,Mammals,-0.141619747977538,FALSE
+XP_007500939.1,Monodelphis domestica,gray short-tailed opossum,marsupials,Mammals,-0.141619747977538,FALSE
+XP_007500940.1,Monodelphis domestica,gray short-tailed opossum,marsupials,Mammals,-0.141619747977538,FALSE
+XP_007500941.1,Monodelphis domestica,gray short-tailed opossum,marsupials,Mammals,-0.127399335155957,FALSE
+XP_007500942.1,Monodelphis domestica,gray short-tailed opossum,marsupials,Mammals,-0.0969100130080564,FALSE
+XP_007538670.1,Erinaceus europaeus,western European hedgehog,other placentals,Mammals,0.136476650002057,FALSE
+XP_007951028.1,Orycteropus afer afer,"",other placentals,Mammals,0.173630660508024,FALSE
+XP_007989304.1,Chlorocebus sabaeus,green monkey,primates,Mammals,1.27875360095283,TRUE
+XP_007989304.2,Chlorocebus sabaeus,green monkey,primates,Mammals,1.09108046934733,FALSE
+XP_008062810.1,Carlito syrichta,Philippine tarsier,primates,Mammals,0.0953834930465839,FALSE
+XP_008153150.1,Eptesicus fuscus,big brown bat,bats,Mammals,0.126465256569772,FALSE
+XP_008542995.1,Equus przewalskii,Przewalski's horse,other placentals,Mammals,Inf,FALSE
+XP_008694637.2,Ursus maritimus,polar bear,carnivores,Mammals,1.86923171973098,FALSE
+XP_008839098.1,Nannospalax galili,Upper Galilee mountains blind mole rat,rodents,Mammals,0.20242019777803,FALSE
+XP_008972428.2,Pan paniscus,pygmy chimpanzee,primates,Mammals,0.989004615698537,FALSE
+XP_008972437.2,Pan paniscus,pygmy chimpanzee,primates,Mammals,0.276206411938949,FALSE
+XP_008987241.1,Callithrix jacchus,white-tufted-ear marmoset,primates,Mammals,0.32870142226184,TRUE
+XP_010334925.1,Saimiri boliviensis boliviensis,Bolivian squirrel monkey,primates,Mammals,-0.329058719264225,FALSE
+XP_010334925.2,Saimiri boliviensis,Bolivian squirrel monkey,primates,Mammals,-0.345233658156035,FALSE
+XP_010364367.2,Rhinopithecus roxellana,golden snub-nosed monkey,primates,Mammals,0.808114473761087,FALSE
+XP_010643477.1,Fukomys damarensis,Damara mole-rat,rodents,Mammals,0.10408859763518,FALSE
+XP_010833001.1,Bison bison bison,"",even-toed ungulates,Mammals,0.17095161940327,FALSE
+XP_010966303.1,Camelus bactrianus,Bactrian camel,even-toed ungulates,Mammals,Inf,FALSE
+XP_010991717.1,Camelus dromedarius,Arabian camel,even-toed ungulates,Mammals,Inf,FALSE
+XP_011361275.1,Pteropus vampyrus,large flying fox,bats,Mammals,0.245982429333076,FALSE
+XP_011733505.1,Macaca nemestrina,pig-tailed macaque,primates,Mammals,Inf,FALSE
+XP_011733506.1,Macaca nemestrina,pig-tailed macaque,primates,Mammals,Inf,FALSE
+XP_011850923.1,Mandrillus leucophaeus,drill,primates,Mammals,1.01072386539177,FALSE
+XP_011891198.1,Cercocebus atys,sooty mangabey,primates,Mammals,1,FALSE
+XP_011891199.1,Cercocebus atys,sooty mangabey,primates,Mammals,1,FALSE
+XP_011891200.1,Cercocebus atys,sooty mangabey,primates,Mammals,1,FALSE
+XP_011891201.1,Cercocebus atys,sooty mangabey,primates,Mammals,1,FALSE
+XP_011961657.1,Ovis aries,sheep,even-toed ungulates,Mammals,1.13987908640124,FALSE
+XP_012290105.1,Aotus nancymaae,Ma's night monkey,primates,Mammals,-0.449969008676048,FALSE
+XP_012494185.1,Propithecus coquereli,Coquerel's sifaka,primates,Mammals,0.165872093873995,FALSE
+XP_012494186.1,Propithecus coquereli,Coquerel's sifaka,primates,Mammals,0.165872093873995,FALSE
+XP_012585871.1,Condylura cristata,star-nosed mole,other placentals,Mammals,0.067751784266843,FALSE
+XP_012887572.1,Dipodomys ordii,Ord's kangaroo rat,rodents,Mammals,0.136582717772008,FALSE
+XP_012887573.1,Dipodomys ordii,Ord's kangaroo rat,rodents,Mammals,0.110071459066027,FALSE
+XP_013362428.1,Chinchilla lanigera,long-tailed chinchilla,rodents,Mammals,0.0754210971743181,FALSE
+XP_013362429.1,Chinchilla lanigera,long-tailed chinchilla,rodents,Mammals,0.0754210971743181,FALSE
+XP_014399780.1,Myotis brandtii,Brandt's bat,bats,Mammals,-0.301029995663981,FALSE
+XP_014399781.1,Myotis brandtii,Brandt's bat,bats,Mammals,-0.301029995663981,FALSE
+XP_014399782.1,Myotis brandtii,Brandt's bat,bats,Mammals,-0.369911285071794,FALSE
+XP_014399783.1,Myotis brandtii,Brandt's bat,bats,Mammals,-0.268029735561056,FALSE
+XP_014713133.1,Equus asinus,ass,other placentals,Mammals,0.916453948549925,FALSE
+XP_014982444.2,Macaca mulatta,Rhesus monkey,primates,Mammals,Inf,FALSE
+XP_015317271.1,Bos taurus,cattle,even-toed ungulates,Mammals,0.427562475278838,FALSE
+XP_015343540.1,Marmota marmota marmota,Alpine marmot,rodents,Mammals,0.11997531707675,FALSE
+XP_015426918.1,Myotis davidii,"",bats,Mammals,-0.23847449199934,FALSE
+XP_015426919.1,Myotis davidii,"",bats,Mammals,-0.306859539324705,FALSE
+XP_015974412.1,Rousettus aegyptiacus,Egyptian rousette,bats,Mammals,0.204119982655925,FALSE
+XP_015974412.2,Rousettus aegyptiacus,Egyptian rousette,bats,Mammals,0.207431011261928,FALSE
+XP_016058453.1,Miniopterus natalensis,"",bats,Mammals,-0.0791812460476248,FALSE
+XP_016798468.1,Pan troglodytes,chimpanzee,primates,Mammals,0.977723605288848,FALSE
+XP_016798469.1,Pan troglodytes,chimpanzee,primates,Mammals,0.269772301933539,FALSE
+XP_017367865.1,Cebus imitator,Panamanian white-faced capuchin,primates,Mammals,-0.435728569561437,FALSE
+XP_017367866.1,Cebus imitator,Panamanian white-faced capuchin,primates,Mammals,-0.435728569561437,FALSE
+XP_017505746.1,Manis javanica,Malayan pangolin,other placental mammals,Mammals,0.231138825386587,FALSE
+XP_017505752.1,Manis javanica,Malayan pangolin,other placentals,Mammals,0.231138825386587,TRUE
+XP_017744069.1,Rhinopithecus bieti,black snub-nosed monkey,primates,Mammals,0.307978855619309,FALSE
+XP_017744070.1,Rhinopithecus bieti,black snub-nosed monkey,primates,Mammals,0.307978855619309,FALSE
+XP_017899103.1,Capra hircus,goat,even-toed ungulates,Mammals,0.57139117156151,FALSE
+XP_018874749.1,Gorilla gorilla,western gorilla,primates,Mammals,0.989004615698537,FALSE
+XP_019273508.1,Panthera pardus,leopard,carnivores,Mammals,1.51188336097887,FALSE
+XP_019273509.1,Panthera pardus,leopard,carnivores,Mammals,1.51188336097887,FALSE
+XP_019273510.1,Panthera pardus,leopard,carnivores,Mammals,0.330319371765969,FALSE
+XP_019522936.1,Hipposideros armiger,great roundleaf bat,bats,Mammals,0.170696227168975,FALSE
+XP_019522943.1,Hipposideros armiger,great roundleaf bat,bats,Mammals,0.170696227168975,FALSE
+XP_019522954.1,Hipposideros armiger,great roundleaf bat,bats,Mammals,0.170696227168975,FALSE
+XP_019781177.1,Tursiops truncatus,Common bottlenose dolphin,whales and dolphins,Mammals,0.356547323513813,FALSE
+XP_019781177.2,Tursiops truncatus,common bottlenose dolphin,whales and dolphins,Mammals,0.349334675238536,FALSE
+XP_019811719.1,Bos indicus,zebu cattle,even-toed ungulates,Mammals,0.716003343634799,FALSE
+XP_019811720.1,Bos indicus,zebu cattle,even-toed ungulates,Mammals,1.55022835305509,FALSE
+XP_020140826.1,Microcebus murinus,gray mouse lemur,primates,Mammals,0.111973759443932,FALSE
+XP_020768965.1,Odocoileus virginianus texanus,"",even-toed ungulates,Mammals,0.286943534385376,FALSE
+XP_020863153.1,Phascolarctos cinereus,koala,marsupials,Mammals,0.0211892990699381,TRUE
+XP_020935033.1,Sus scrofa,pig,even-toed ungulates,Mammals,0.301029995663981,FALSE
+XP_020935034.1,Sus scrofa,pig,even-toed ungulates,Mammals,0.2498774732166,FALSE
+XP_020935035.1,Sus scrofa,pig,even-toed ungulates,Mammals,0.154262821560009,FALSE
+XP_020935036.1,Sus scrofa,pig,even-toed ungulates,Mammals,0.154262821560009,FALSE
+XP_021009138.1,Mus caroli,Ryukyu mouse,rodents,Mammals,-0.602059991327962,FALSE
+XP_021043935.1,Mus pahari,shrew mouse,rodents,Mammals,-0.248641926204293,FALSE
+XP_021536480.1,Neomonachus schauinslandi,Hawaiian monk seal,carnivores,Mammals,0.367976785294594,FALSE
+XP_021536486.1,Neomonachus schauinslandi,Hawaiian monk seal,carnivores,Mammals,0.31231100607367,FALSE
+XP_021788732.1,Papio anubis,olive baboon,primates,Mammals,1.1249387366083,FALSE
+XP_021788733.1,Papio anubis,olive baboon,primates,Mammals,1.1249387366083,FALSE
+XP_022374078.1,Enhydra lutris kenyoni,"",carnivores,Mammals,0.347487396902983,FALSE
+XP_022374079.1,Enhydra lutris kenyoni,"",carnivores,Mammals,0.347487396902983,FALSE
+XP_022418360.1,Delphinapterus leucas,beluga whale,whales and dolphins,Mammals,0.325853579389013,FALSE
+XP_023054821.1,Piliocolobus tephrosceles,Ugandan red Colobus,primates,Mammals,0.934498451243568,FALSE
+XP_023104564.1,Felis catus,domestic cat,carnivores,Mammals,0.44586356098922,FALSE
+XP_023410960.1,Loxodonta africana,African savanna elephant,other placentals,Mammals,0.226928275145631,FALSE
+XP_023417808.1,Cavia porcellus,domestic guinea pig,rodents,Mammals,0.0679002356379358,FALSE
+XP_023575315.1,Octodon degus,degu,rodents,Mammals,0.153976944765109,FALSE
+XP_023575316.1,Octodon degus,degu,rodents,Mammals,0.153976944765109,FALSE
+XP_023609437.1,Myotis lucifugus,little brown bat,bats,Mammals,-0.282546589969968,FALSE
+XP_023609438.1,Myotis lucifugus,little brown bat,bats,Mammals,-0.282546589969968,FALSE
+XP_023609439.1,Myotis lucifugus,little brown bat,bats,Mammals,-0.35817288180055,FALSE
+XP_023971279.1,Physeter catodon,sperm whale,whales and dolphins,Mammals,0.413734275855269,FALSE
+XP_024096013.1,Pongo abelii,Sumatran orangutan,primates,Mammals,0.903089986991944,FALSE
+XP_024425698.1,Desmodus rotundus,common vampire bat,bats,Mammals,0.103344123013466,FALSE
+XP_024425699.1,Desmodus rotundus,common vampire bat,bats,Mammals,0.0934216851622351,FALSE
+XP_024599894.1,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,whales and dolphins,Mammals,0.348026558340205,FALSE
+XP_024647450.1,Macaca nemestrina,pig-tailed macaque,primates,Mammals,Inf,FALSE
+XP_024843618.1,Bos taurus,cattle,even-toed ungulates,Mammals,0.631218220069176,FALSE
+XP_025227847.1,Theropithecus gelada,gelada,primates,Mammals,1.1249387366083,FALSE
+XP_025292925.2,Canis lupus dingo,dingo,carnivores,Mammals,1.23044892137827,FALSE
+XP_025292934.2,Canis lupus dingo,dingo,carnivores,Mammals,1.23044892137827,FALSE
+XP_025713397.1,Callorhinus ursinus,northern fur seal,carnivores,Mammals,0.49008623188403,FALSE
+XP_025790417.1,Puma concolor,puma,carnivores,Mammals,1.81291335664286,FALSE
+XP_025842512.1,Vulpes vulpes,red fox,carnivores,Mammals,1.13987908640124,FALSE
+XP_025842513.1,Vulpes vulpes,red fox,carnivores,Mammals,1.13987908640124,FALSE
+XP_026252505.1,Urocitellus parryii,Arctic ground squirrel,rodents,Mammals,0.129959537983351,FALSE
+XP_026252506.1,Urocitellus parryii,Arctic ground squirrel,rodents,Mammals,0.105343180544919,FALSE
+XP_026333865.1,Ursus arctos horribilis,"",carnivores,Mammals,0.471291711058939,TRUE
+XP_026333866.1,Ursus arctos horribilis,"",carnivores,Mammals,0.471291711058939,FALSE
+XP_026910297.1,Acinonyx jubatus,cheetah,carnivores,Mammals,1.81291335664286,FALSE
+XP_026910298.1,Acinonyx jubatus,cheetah,carnivores,Mammals,1.81291335664286,FALSE
+XP_026910299.1,Acinonyx jubatus,cheetah,carnivores,Mammals,0.656041803794208,FALSE
+XP_026910300.1,Acinonyx jubatus,cheetah,carnivores,Mammals,0.340538536947655,FALSE
+XP_026910301.1,Acinonyx jubatus,cheetah,carnivores,Mammals,0.340538536947655,FALSE
+XP_026951598.1,Lagenorhynchus obliquidens,Pacific white-sided dolphin,whales and dolphins,Mammals,0.349334675238536,FALSE
+XP_026951599.1,Lagenorhynchus obliquidens,Pacific white-sided dolphin,whales and dolphins,Mammals,0.349334675238536,FALSE
+XP_027288607.1,Cricetulus griseus,Chinese hamster,rodents,Mammals,0.103896133868722,FALSE
+XP_027389727.1,Bos indicus x Bos taurus,hybrid cattle,even-toed ungulates,Mammals,0.740362689494244,FALSE
+XP_027389728.1,Bos indicus x Bos taurus,hybrid cattle,even-toed ungulates,Mammals,0.740362689494244,FALSE
+XP_027389729.1,Bos indicus x Bos taurus,hybrid cattle,even-toed ungulates,Mammals,1.84509804001426,FALSE
+XP_027389730.1,Bos indicus x Bos taurus,hybrid cattle,even-toed ungulates,Mammals,0.477121254719662,FALSE
+XP_027465353.1,Zalophus californianus,California sea lion,carnivores,Mammals,0.489530512701482,FALSE
+XP_027465354.1,Zalophus californianus,California sea lion,carnivores,Mammals,0.489530512701482,FALSE
+XP_027691156.1,Vombatus ursinus,common wombat,marsupials,Mammals,-0.537119184394948,FALSE
+XP_027802308.1,Marmota flaviventris,yellow-bellied marmot,rodents,Mammals,0.117639497866801,FALSE
+XP_027970822.1,Eumetopias jubatus,Steller sea lion,carnivores,Mammals,0.516629796003336,FALSE
+XP_027986092.1,Eptesicus fuscus,big brown bat,bats,Mammals,0.119186407719209,TRUE
+XP_028020351.1,Balaenoptera acutorostrata scammoni,"",whales and dolphins,Mammals,0.45229767099463,FALSE
+XP_028617961.1,Grammomys surdaster,"",rodents,Mammals,-0.0469965626762236,FALSE
+XP_028617962.1,Grammomys surdaster,"",rodents,Mammals,-0.0469965626762236,FALSE
+XP_028697658.1,Macaca mulatta,Rhesus monkey,primates,Mammals,Inf,FALSE
+XP_028743609.1,Peromyscus leucopus,white-footed mouse,rodents,Mammals,0.24073409377673,FALSE
+XP_029095804.1,Monodon monoceros,narwhal,whales and dolphins,Mammals,0.338818556553381,FALSE
+XP_029095805.1,Monodon monoceros,narwhal,whales and dolphins,Mammals,0.338818556553381,FALSE
+XP_029095806.1,Monodon monoceros,narwhal,whales and dolphins,Mammals,0.338818556553381,FALSE
+XP_029095807.1,Monodon monoceros,narwhal,whales and dolphins,Mammals,0.338818556553381,FALSE
+XP_029095808.1,Monodon monoceros,narwhal,whales and dolphins,Mammals,0.338818556553381,FALSE
+XP_029786256.1,Suricata suricatta,meerkat,carnivores,Mammals,0.397940008672038,FALSE
+XP_030160839.1,Lynx canadensis,Canada lynx,carnivores,Mammals,1.81291335664286,FALSE
+XP_030703991.1,Globicephala melas,long-finned pilot whale,whales and dolphins,Mammals,0.342422680822206,FALSE
+XP_030886750.1,Leptonychotes weddellii,Weddell seal,carnivores,Mammals,0.0145262531965965,FALSE
+XP_031226742.1,Mastomys coucha,southern multimammate mouse,rodents,Mammals,-0.0939045028683312,FALSE
+XP_031301717.1,Camelus dromedarius,Arabian camel,even-toed ungulates,Mammals,Inf,FALSE
+XP_031814825.1,Sarcophilus harrisii,Tasmanian devil,marsupials,Mammals,-0.195794593871794,FALSE
+XP_032141854.1,Sapajus apella,tufted capuchin,primates,Mammals,-0.435728569561437,FALSE
+XP_032141855.1,Sapajus apella,tufted capuchin,primates,Mammals,-0.435728569561437,FALSE
+XP_032187677.1,Mustela erminea,ermine,carnivores,Mammals,0.388860350820119,FALSE
+XP_032187678.1,Mustela erminea,ermine,carnivores,Mammals,0.388860350820119,FALSE
+XP_032187679.1,Mustela erminea,ermine,carnivores,Mammals,0.388860350820119,FALSE
+XP_032245506.1,Phoca vitulina,harbor seal,carnivores,Mammals,0.404100317376856,FALSE
+XP_032476001.1,Phocoena sinus,vaquita,whales and dolphins,Mammals,0.360615685648225,FALSE
+XP_032476002.1,Phocoena sinus,vaquita,whales and dolphins,Mammals,0.360615685648225,FALSE
+XP_032476004.1,Phocoena sinus,vaquita,whales and dolphins,Mammals,0.360615685648225,FALSE
+XP_032476005.1,Phocoena sinus,vaquita,whales and dolphins,Mammals,0.14197207590708,FALSE
+XP_032612508.1,Hylobates moloch,silvery gibbon,primates,Mammals,0.730378468587643,FALSE
+XP_032736028.1,Lontra canadensis,Northern American river otter,carnivores,Mammals,0.380211241711606,FALSE
+XP_032736029.1,Lontra canadensis,Northern American river otter,carnivores,Mammals,0.380211241711606,FALSE
+XP_032746145.1,Rattus rattus,black rat,rodents,Mammals,0.0684573806558517,FALSE
+XP_032963186.1,Rhinolophus ferrumequinum,greater horseshoe bat,bats,Mammals,0.499687082618404,FALSE
+XP_033056809.1,Trachypithecus francoisi,Francois's langur,primates,Mammals,0.648803394870289,FALSE
+XP_033283817.1,Orcinus orca,killer whale,whales and dolphins,Mammals,0.342422680822206,FALSE
+XP_033283819.1,Orcinus orca,killer whale,whales and dolphins,Mammals,0.342422680822206,FALSE
+XP_034341939.1,Arvicanthis niloticus,African grass rat,rodents,Mammals,-0.0457574905606751,FALSE
+XP_034505781.1,Ailuropoda melanoleuca,giant panda,carnivores,Mammals,0.51952510327275,FALSE
+XP_034852450.1,Mirounga leonina,Southern elephant seal,carnivores,Mammals,0.404100317376856,FALSE
+XP_035872276.1,Phyllostomus discolor,pale spear-nosed bat,bats,Mammals,0.0835460514500749,FALSE
+XP_035963182.1,Halichoerus grypus,gray seal,carnivores,Mammals,0.342422680822206,FALSE
+XP_036030683.1,Onychomys torridus,southern grasshopper mouse,rodents,Mammals,0.29104577475738,FALSE
+XP_036127492.1,Molossus molossus,Pallas's mastiff bat,bats,Mammals,-0.0193051551953866,FALSE
+XP_036127493.1,Molossus molossus,Pallas's mastiff bat,bats,Mammals,-0.0193051551953866,FALSE
+XP_036127494.1,Molossus molossus,Pallas's mastiff bat,bats,Mammals,-0.0566154181488835,FALSE
+XP_036161734.1,Myotis myotis,"",bats,Mammals,-0.198045834943732,FALSE
+XP_036161735.1,Myotis myotis,"",bats,Mammals,-0.262277406671965,FALSE
+XP_036295422.1,Pipistrellus kuhlii,Kuhl's pipistrelle,bats,Mammals,-0.207431011261928,FALSE
+XP_036600738.1,Trichosurus vulpecula,common brushtail,marsupials,Mammals,-0.253106443346798,FALSE
+XP_036696352.1,Balaenoptera musculus,Blue whale,whales and dolphins,Mammals,0.458637849025649,FALSE
+XP_036696353.1,Balaenoptera musculus,Blue whale,whales and dolphins,Mammals,0.458637849025649,FALSE
+XP_036768816.1,Manis pentadactyla,Chinese pangolin,other placentals,Mammals,1.79934054945358,FALSE
+XP_036902241.1,Sturnira hondurensis,"",bats,Mammals,0.0914471173065543,FALSE
+XP_036902242.1,Sturnira hondurensis,"",bats,Mammals,0.0914471173065543,FALSE
+XP_037013451.1,Artibeus jamaicensis,Jamaican fruit-eating bat,bats,Mammals,0.0725506671486118,FALSE
+XP_037369021.1,Talpa occidentalis,Iberian mole,other placentals,Mammals,0.0852432814065687,FALSE
+XP_037678579.1,Choloepus didactylus,southern two-toed sloth,other placentals,Mammals,0.170487381537683,FALSE
+XP_037678580.1,Choloepus didactylus,southern two-toed sloth,other placentals,Mammals,0.0465121292942567,FALSE
+XP_037678581.1,Choloepus didactylus,southern two-toed sloth,other placentals,Mammals,0.0471790776954693,FALSE
+XP_037842285.1,Chlorocebus sabaeus,green monkey,primates,Mammals,1.09108046934733,FALSE
+XP_038172229.1,Arvicola amphibius,Eurasian water vole,rodents,Mammals,0.301029995663981,FALSE
+XP_038172230.1,Arvicola amphibius,Eurasian water vole,rodents,Mammals,0.0696359281413945,FALSE
+XP_038612998.1,Tachyglossus aculeatus,Australian echidna,other placentals,Mammals,0.0391521239621482,FALSE
+XP_038955582.1,Rattus norvegicus,Norway rat,rodents,Mammals,0.0636690798693773,FALSE
+XP_038955583.1,Rattus norvegicus,Norway rat,rodents,Mammals,0.0636690798693773,FALSE
+XP_039089862.1,Hyaena hyaena,striped hyena,carnivores,Mammals,0.463757293161681,FALSE
+XP_039089863.1,Hyaena hyaena,striped hyena,carnivores,Mammals,0.463757293161681,FALSE
+XP_039089864.1,Hyaena hyaena,striped hyena,carnivores,Mammals,0.325853579389013,FALSE
+XP_039331290.1,Saimiri boliviensis,Bolivian squirrel monkey,primates,Mammals,-0.191885526238913,FALSE
+XP_039729365.1,Pteropus giganteus,Indian flying fox,bats,Mammals,0.260193741692576,FALSE
+XP_040122515.1,Oryx dammah,scimitar-horned oryx,even-toed ungulates,Mammals,1,FALSE
+XP_040146272.1,Ictidomys tridecemlineatus,thirteen-lined ground squirrel,rodents,Mammals,0.117113399096343,FALSE
+XP_040146332.1,Ictidomys tridecemlineatus,thirteen-lined ground squirrel,rodents,Mammals,0.0848215134003175,FALSE
+XP_040324138.1,Puma yagouaroundi,jaguarundi,carnivores,Mammals,1.51851393987789,FALSE
+XP_040324139.1,Puma yagouaroundi,jaguarundi,carnivores,Mammals,1.51851393987789,FALSE
+XP_040324140.1,Puma yagouaroundi,jaguarundi,carnivores,Mammals,0.636822097587174,FALSE
+XP_040324141.1,Puma yagouaroundi,jaguarundi,carnivores,Mammals,0.335014492974349,FALSE
+XP_040324142.1,Puma yagouaroundi,jaguarundi,carnivores,Mammals,0.335014492974349,FALSE
+XP_040490052.1,Ursus maritimus,polar bear,carnivores,Mammals,1.86923171973098,FALSE
+XP_040490056.1,Ursus maritimus,polar bear,carnivores,Mammals,0.445273887467668,FALSE
+XP_040857138.1,Ochotona curzoniae,black-lipped pika,other placentals,Mammals,0.28879553924697,FALSE
+XP_041495910.1,Microtus oregoni,creeping vole,rodents,Mammals,0.335792101923193,FALSE
+XP_041597788.1,Vulpes lagopus,Arctic fox,carnivores,Mammals,1.05435766232259,FALSE
+XP_041597789.1,Vulpes lagopus,Arctic fox,carnivores,Mammals,1.05435766232259,FALSE
+XP_041597790.1,Vulpes lagopus,Arctic fox,carnivores,Mammals,0.301029995663981,FALSE
+XP_042098228.1,Ovis aries,sheep,even-toed ungulates,Mammals,0.625541087177485,FALSE
+XP_042098229.1,Ovis aries,sheep,even-toed ungulates,Mammals,0.425968732272281,FALSE
+XP_042536455.1,Dipodomys spectabilis,banner-tailed kangaroo rat,rodents,Mammals,0.120293831562536,FALSE
+XP_042536456.1,Dipodomys spectabilis,banner-tailed kangaroo rat,rodents,Mammals,0.120293831562536,FALSE
+XP_042830021.1,Panthera tigris,tiger,carnivores,Mammals,1.51188336097887,FALSE
+XP_042830022.1,Panthera tigris,tiger,carnivores,Mammals,0.111574775050319,FALSE
+AAX63775.1,Paguma larvata,masked palm civet,carnivores,Mammals,0.464346966683234,TRUE

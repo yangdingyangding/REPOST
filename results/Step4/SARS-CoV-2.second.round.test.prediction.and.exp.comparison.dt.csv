@@ -1,0 +1,12 @@
+first.protein.accession,first.protein.species.scientific.name,first.protein.species.common.name,first.protein.species.category.corrected,first.protein.species.is.mammals.info,R,is.in.first.round,exp.result
+XP_007500936.1,Monodelphis domestica,gray short-tailed opossum,marsupials,Mammals,-0.141619747977538,FALSE,non-permissive
+XP_012290105.1,Aotus nancymaae,Ma's night monkey,primates,Mammals,-0.449969008676048,FALSE,non-permissive
+XP_014399781.1,Myotis brandtii,Brandt's bat,bats,Mammals,-0.301029995663981,FALSE,permissive
+XP_016058453.1,Miniopterus natalensis,"",bats,Mammals,-0.0791812460476248,FALSE,non-permissive
+XP_017367866.1,Cebus imitator,Panamanian white-faced capuchin,primates,Mammals,-0.435728569561437,FALSE,non-permissive
+XP_021009138.1,Mus caroli,Ryukyu mouse,rodents,Mammals,-0.602059991327962,FALSE,non-permissive
+XP_021043935.1,Mus pahari,shrew mouse,rodents,Mammals,-0.248641926204293,FALSE,non-permissive
+XP_023609438.1,Myotis lucifugus,little brown bat,bats,Mammals,-0.282546589969968,FALSE,permissive
+XP_027691156.1,Vombatus ursinus,common wombat,marsupials,Mammals,-0.537119184394948,FALSE,non-permissive
+XP_031226742.1,Mastomys coucha,southern multimammate mouse,rodents,Mammals,-0.0939045028683312,FALSE,non-permissive
+XP_031814825.1,Sarcophilus harrisii,Tasmanian devil,marsupials,Mammals,-0.195794593871794,FALSE,non-permissive

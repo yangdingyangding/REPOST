@@ -1,0 +1,1939 @@
+variant.name,colname,rowindex,value,label,species.name,species.name.ordered,colindex,variant.name.ordered,"[100,499]","[2500,4999]","[500,2499]","[5000,7499]","[7500,Inf)",best.split.at,best.split.abs.diff,label.fixed
+A344S,V14,1,0.631,"[7500,Inf)",Human,Human,14,A344S,13,11,11,9,1,"[7500,Inf)",1,permissive
+A344S,V14,2,0.631,"[7500,Inf)",Monkey,Monkey,14,A344S,13,11,11,9,1,"[7500,Inf)",1,permissive
+A344S,V14,3,0.631,"[7500,Inf)",Hamster,Hamster,14,A344S,13,11,11,9,1,"[7500,Inf)",1,permissive
+A344S,V14,4,0.631,"[7500,Inf)",Rabbit,Rabbit,14,A344S,13,11,11,9,1,"[7500,Inf)",1,permissive
+A344S,V14,5,0.969,"[5000,7499]",Cat,Cat,14,A344S,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+A344S,V14,6,0.631,"[7500,Inf)",Pig,Pig,14,A344S,13,11,11,9,1,"[7500,Inf)",1,permissive
+A344S,V14,7,0.631,"[7500,Inf)",Puma,Puma,14,A344S,13,11,11,9,1,"[7500,Inf)",1,permissive
+A344S,V14,8,0.969,"[5000,7499]",Pangolin,Pangolin,14,A344S,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+A344S,V14,9,0.631,"[7500,Inf)",Dog,Dog,14,A344S,13,11,11,9,1,"[7500,Inf)",1,permissive
+A344S,V14,10,0.631,"[7500,Inf)",Horse,Horse,14,A344S,13,11,11,9,1,"[7500,Inf)",1,permissive
+A344S,V14,11,0.969,"[5000,7499]",Camel,Camel,14,A344S,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+A344S,V14,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,14,A344S,13,11,11,9,1,"[7500,Inf)",1,permissive
+A344S,V14,13,0.969,"[5000,7499]",Whale,Whale,14,A344S,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+A344S,V14,14,0.996,"[2500,4999]",Ferret,Ferret,14,A344S,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+A344S,V14,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,14,A344S,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+A344S,V14,16,0.341,"[0,99]",Mouse,Mouse,14,A344S,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+A344S,V14,17,0.78,"[100,499]",Tupaia,Tupaia,14,A344S,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+A348S,V16,1,0.631,"[7500,Inf)",Human,Human,16,A348S,15,9,11,9,3,"[7500,Inf)",3,permissive
+A348S,V16,2,0.631,"[7500,Inf)",Monkey,Monkey,16,A348S,15,9,11,9,3,"[7500,Inf)",3,permissive
+A348S,V16,3,0.631,"[7500,Inf)",Hamster,Hamster,16,A348S,15,9,11,9,3,"[7500,Inf)",3,permissive
+A348S,V16,4,0.631,"[7500,Inf)",Rabbit,Rabbit,16,A348S,15,9,11,9,3,"[7500,Inf)",3,permissive
+A348S,V16,5,0.969,"[5000,7499]",Cat,Cat,16,A348S,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+A348S,V16,6,0.631,"[7500,Inf)",Pig,Pig,16,A348S,15,9,11,9,3,"[7500,Inf)",3,permissive
+A348S,V16,7,0.631,"[7500,Inf)",Puma,Puma,16,A348S,15,9,11,9,3,"[7500,Inf)",3,permissive
+A348S,V16,8,0.969,"[5000,7499]",Pangolin,Pangolin,16,A348S,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+A348S,V16,9,0.631,"[7500,Inf)",Dog,Dog,16,A348S,15,9,11,9,3,"[7500,Inf)",3,permissive
+A348S,V16,10,0.969,"[5000,7499]",Horse,Horse,16,A348S,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+A348S,V16,11,0.631,"[7500,Inf)",Camel,Camel,16,A348S,15,9,11,9,3,"[7500,Inf)",3,permissive
+A348S,V16,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,16,A348S,15,9,11,9,3,"[7500,Inf)",3,permissive
+A348S,V16,13,0.631,"[7500,Inf)",Whale,Whale,16,A348S,15,9,11,9,3,"[7500,Inf)",3,permissive
+A348S,V16,14,1,"[500,2499]",Ferret,Ferret,16,A348S,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+A348S,V16,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,16,A348S,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+A348S,V16,16,0.341,"[0,99]",Mouse,Mouse,16,A348S,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+A348S,V16,17,0.78,"[100,499]",Tupaia,Tupaia,16,A348S,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+A352S,V17,1,0.631,"[7500,Inf)",Human,Human,17,A352S,13,11,11,9,3,"[7500,Inf)",3,permissive
+A352S,V17,2,0.631,"[7500,Inf)",Monkey,Monkey,17,A352S,13,11,11,9,3,"[7500,Inf)",3,permissive
+A352S,V17,3,0.631,"[7500,Inf)",Hamster,Hamster,17,A352S,13,11,11,9,3,"[7500,Inf)",3,permissive
+A352S,V17,4,0.631,"[7500,Inf)",Rabbit,Rabbit,17,A352S,13,11,11,9,3,"[7500,Inf)",3,permissive
+A352S,V17,5,0.969,"[5000,7499]",Cat,Cat,17,A352S,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+A352S,V17,6,0.631,"[7500,Inf)",Pig,Pig,17,A352S,13,11,11,9,3,"[7500,Inf)",3,permissive
+A352S,V17,7,0.631,"[7500,Inf)",Puma,Puma,17,A352S,13,11,11,9,3,"[7500,Inf)",3,permissive
+A352S,V17,8,0.969,"[5000,7499]",Pangolin,Pangolin,17,A352S,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+A352S,V17,9,0.631,"[7500,Inf)",Dog,Dog,17,A352S,13,11,11,9,3,"[7500,Inf)",3,permissive
+A352S,V17,10,0.631,"[7500,Inf)",Horse,Horse,17,A352S,13,11,11,9,3,"[7500,Inf)",3,permissive
+A352S,V17,11,0.631,"[7500,Inf)",Camel,Camel,17,A352S,13,11,11,9,3,"[7500,Inf)",3,permissive
+A352S,V17,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,17,A352S,13,11,11,9,3,"[7500,Inf)",3,permissive
+A352S,V17,13,0.969,"[5000,7499]",Whale,Whale,17,A352S,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+A352S,V17,14,0.996,"[2500,4999]",Ferret,Ferret,17,A352S,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+A352S,V17,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,17,A352S,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+A352S,V17,16,0.341,"[0,99]",Mouse,Mouse,17,A352S,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+A352S,V17,17,0.341,"[0,99]",Tupaia,Tupaia,17,A352S,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+A411S,V33,1,0.631,"[7500,Inf)",Human,Human,33,A411S,13,11,11,7,1,"[7500,Inf)",1,permissive
+A411S,V33,2,0.631,"[7500,Inf)",Monkey,Monkey,33,A411S,13,11,11,7,1,"[7500,Inf)",1,permissive
+A411S,V33,3,0.631,"[7500,Inf)",Hamster,Hamster,33,A411S,13,11,11,7,1,"[7500,Inf)",1,permissive
+A411S,V33,4,0.631,"[7500,Inf)",Rabbit,Rabbit,33,A411S,13,11,11,7,1,"[7500,Inf)",1,permissive
+A411S,V33,5,0.969,"[5000,7499]",Cat,Cat,33,A411S,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+A411S,V33,6,0.631,"[7500,Inf)",Pig,Pig,33,A411S,13,11,11,7,1,"[7500,Inf)",1,permissive
+A411S,V33,7,0.631,"[7500,Inf)",Puma,Puma,33,A411S,13,11,11,7,1,"[7500,Inf)",1,permissive
+A411S,V33,8,0.969,"[5000,7499]",Pangolin,Pangolin,33,A411S,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+A411S,V33,9,0.631,"[7500,Inf)",Dog,Dog,33,A411S,13,11,11,7,1,"[7500,Inf)",1,permissive
+A411S,V33,10,0.631,"[7500,Inf)",Horse,Horse,33,A411S,13,11,11,7,1,"[7500,Inf)",1,permissive
+A411S,V33,11,0.969,"[5000,7499]",Camel,Camel,33,A411S,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+A411S,V33,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,33,A411S,13,11,11,7,1,"[7500,Inf)",1,permissive
+A411S,V33,13,0.996,"[2500,4999]",Whale,Whale,33,A411S,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+A411S,V33,14,0.996,"[2500,4999]",Ferret,Ferret,33,A411S,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+A411S,V33,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,33,A411S,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+A411S,V33,16,0.341,"[0,99]",Mouse,Mouse,33,A411S,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+A411S,V33,17,0.78,"[100,499]",Tupaia,Tupaia,33,A411S,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+A435S,V40,1,0.631,"[7500,Inf)",Human,Human,40,A435S,15,11,11,9,3,"[7500,Inf)",3,permissive
+A435S,V40,2,0.631,"[7500,Inf)",Monkey,Monkey,40,A435S,15,11,11,9,3,"[7500,Inf)",3,permissive
+A435S,V40,3,0.631,"[7500,Inf)",Hamster,Hamster,40,A435S,15,11,11,9,3,"[7500,Inf)",3,permissive
+A435S,V40,4,0.631,"[7500,Inf)",Rabbit,Rabbit,40,A435S,15,11,11,9,3,"[7500,Inf)",3,permissive
+A435S,V40,5,0.969,"[5000,7499]",Cat,Cat,40,A435S,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+A435S,V40,6,0.631,"[7500,Inf)",Pig,Pig,40,A435S,15,11,11,9,3,"[7500,Inf)",3,permissive
+A435S,V40,7,0.631,"[7500,Inf)",Puma,Puma,40,A435S,15,11,11,9,3,"[7500,Inf)",3,permissive
+A435S,V40,8,0.969,"[5000,7499]",Pangolin,Pangolin,40,A435S,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+A435S,V40,9,0.631,"[7500,Inf)",Dog,Dog,40,A435S,15,11,11,9,3,"[7500,Inf)",3,permissive
+A435S,V40,10,0.631,"[7500,Inf)",Horse,Horse,40,A435S,15,11,11,9,3,"[7500,Inf)",3,permissive
+A435S,V40,11,0.631,"[7500,Inf)",Camel,Camel,40,A435S,15,11,11,9,3,"[7500,Inf)",3,permissive
+A435S,V40,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,40,A435S,15,11,11,9,3,"[7500,Inf)",3,permissive
+A435S,V40,13,0.969,"[5000,7499]",Whale,Whale,40,A435S,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+A435S,V40,14,0.996,"[2500,4999]",Ferret,Ferret,40,A435S,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+A435S,V40,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,40,A435S,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+A435S,V40,16,0.341,"[0,99]",Mouse,Mouse,40,A435S,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+A435S,V40,17,0.78,"[100,499]",Tupaia,Tupaia,40,A435S,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+A475V,V70,1,0.631,"[7500,Inf)",Human,Human,70,A475V,15,9,11,9,3,"[7500,Inf)",3,permissive
+A475V,V70,2,0.631,"[7500,Inf)",Monkey,Monkey,70,A475V,15,9,11,9,3,"[7500,Inf)",3,permissive
+A475V,V70,3,0.631,"[7500,Inf)",Hamster,Hamster,70,A475V,15,9,11,9,3,"[7500,Inf)",3,permissive
+A475V,V70,4,0.631,"[7500,Inf)",Rabbit,Rabbit,70,A475V,15,9,11,9,3,"[7500,Inf)",3,permissive
+A475V,V70,5,0.969,"[5000,7499]",Cat,Cat,70,A475V,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+A475V,V70,6,0.631,"[7500,Inf)",Pig,Pig,70,A475V,15,9,11,9,3,"[7500,Inf)",3,permissive
+A475V,V70,7,0.631,"[7500,Inf)",Puma,Puma,70,A475V,15,9,11,9,3,"[7500,Inf)",3,permissive
+A475V,V70,8,0.969,"[5000,7499]",Pangolin,Pangolin,70,A475V,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+A475V,V70,9,0.631,"[7500,Inf)",Dog,Dog,70,A475V,15,9,11,9,3,"[7500,Inf)",3,permissive
+A475V,V70,10,0.631,"[7500,Inf)",Horse,Horse,70,A475V,15,9,11,9,3,"[7500,Inf)",3,permissive
+A475V,V70,11,0.969,"[5000,7499]",Camel,Camel,70,A475V,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+A475V,V70,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,70,A475V,15,9,11,9,3,"[7500,Inf)",3,permissive
+A475V,V70,13,0.631,"[7500,Inf)",Whale,Whale,70,A475V,15,9,11,9,3,"[7500,Inf)",3,permissive
+A475V,V70,14,1,"[500,2499]",Ferret,Ferret,70,A475V,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+A475V,V70,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,70,A475V,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+A475V,V70,16,0.78,"[100,499]",Mouse,Mouse,70,A475V,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+A475V,V70,17,0.78,"[100,499]",Tupaia,Tupaia,70,A475V,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+A520S,V100,1,0.631,"[7500,Inf)",Human,Human,100,A520S,15,11,11,11,3,"[7500,Inf)",3,permissive
+A520S,V100,2,0.631,"[7500,Inf)",Monkey,Monkey,100,A520S,15,11,11,11,3,"[7500,Inf)",3,permissive
+A520S,V100,3,0.631,"[7500,Inf)",Hamster,Hamster,100,A520S,15,11,11,11,3,"[7500,Inf)",3,permissive
+A520S,V100,4,0.631,"[7500,Inf)",Rabbit,Rabbit,100,A520S,15,11,11,11,3,"[7500,Inf)",3,permissive
+A520S,V100,5,0.969,"[5000,7499]",Cat,Cat,100,A520S,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+A520S,V100,6,0.631,"[7500,Inf)",Pig,Pig,100,A520S,15,11,11,11,3,"[7500,Inf)",3,permissive
+A520S,V100,7,0.631,"[7500,Inf)",Puma,Puma,100,A520S,15,11,11,11,3,"[7500,Inf)",3,permissive
+A520S,V100,8,0.969,"[5000,7499]",Pangolin,Pangolin,100,A520S,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+A520S,V100,9,0.631,"[7500,Inf)",Dog,Dog,100,A520S,15,11,11,11,3,"[7500,Inf)",3,permissive
+A520S,V100,10,0.631,"[7500,Inf)",Horse,Horse,100,A520S,15,11,11,11,3,"[7500,Inf)",3,permissive
+A520S,V100,11,0.631,"[7500,Inf)",Camel,Camel,100,A520S,15,11,11,11,3,"[7500,Inf)",3,permissive
+A520S,V100,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,100,A520S,15,11,11,11,3,"[7500,Inf)",3,permissive
+A520S,V100,13,0.969,"[5000,7499]",Whale,Whale,100,A520S,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+A520S,V100,14,0.969,"[5000,7499]",Ferret,Ferret,100,A520S,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+A520S,V100,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,100,A520S,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+A520S,V100,16,0.341,"[0,99]",Mouse,Mouse,100,A520S,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+A520S,V100,17,0.78,"[100,499]",Tupaia,Tupaia,100,A520S,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+A520V,V101,1,0.996,"[2500,4999]",Human,Human,101,A520V,15,7,11,1,15,"[5000,7499]",1,non-permissive
+A520V,V101,2,0.996,"[2500,4999]",Monkey,Monkey,101,A520V,15,7,11,1,15,"[5000,7499]",1,non-permissive
+A520V,V101,3,0.996,"[2500,4999]",Hamster,Hamster,101,A520V,15,7,11,1,15,"[5000,7499]",1,non-permissive
+A520V,V101,4,0.969,"[5000,7499]",Rabbit,Rabbit,101,A520V,15,7,11,1,15,"[5000,7499]",1,permissive
+A520V,V101,5,0.969,"[5000,7499]",Cat,Cat,101,A520V,15,7,11,1,15,"[5000,7499]",1,permissive
+A520V,V101,6,0.969,"[5000,7499]",Pig,Pig,101,A520V,15,7,11,1,15,"[5000,7499]",1,permissive
+A520V,V101,7,0.969,"[5000,7499]",Puma,Puma,101,A520V,15,7,11,1,15,"[5000,7499]",1,permissive
+A520V,V101,8,0.996,"[2500,4999]",Pangolin,Pangolin,101,A520V,15,7,11,1,15,"[5000,7499]",1,non-permissive
+A520V,V101,9,0.631,"[7500,Inf)",Dog,Dog,101,A520V,15,7,11,1,15,"[5000,7499]",1,permissive
+A520V,V101,10,0.969,"[5000,7499]",Horse,Horse,101,A520V,15,7,11,1,15,"[5000,7499]",1,permissive
+A520V,V101,11,0.969,"[5000,7499]",Camel,Camel,101,A520V,15,7,11,1,15,"[5000,7499]",1,permissive
+A520V,V101,12,0.969,"[5000,7499]",Sea Lion,Sea Lion,101,A520V,15,7,11,1,15,"[5000,7499]",1,permissive
+A520V,V101,13,1,"[500,2499]",Whale,Whale,101,A520V,15,7,11,1,15,"[5000,7499]",1,non-permissive
+A520V,V101,14,1,"[500,2499]",Ferret,Ferret,101,A520V,15,7,11,1,15,"[5000,7499]",1,non-permissive
+A520V,V101,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,101,A520V,15,7,11,1,15,"[5000,7499]",1,non-permissive
+A520V,V101,16,0.341,"[0,99]",Mouse,Mouse,101,A520V,15,7,11,1,15,"[5000,7499]",1,non-permissive
+A520V,V101,17,0.78,"[100,499]",Tupaia,Tupaia,101,A520V,15,7,11,1,15,"[5000,7499]",1,non-permissive
+A522S,V104,1,0.631,"[7500,Inf)",Human,Human,104,A522S,15,11,13,9,3,"[7500,Inf)",3,permissive
+A522S,V104,2,0.631,"[7500,Inf)",Monkey,Monkey,104,A522S,15,11,13,9,3,"[7500,Inf)",3,permissive
+A522S,V104,3,0.631,"[7500,Inf)",Hamster,Hamster,104,A522S,15,11,13,9,3,"[7500,Inf)",3,permissive
+A522S,V104,4,0.631,"[7500,Inf)",Rabbit,Rabbit,104,A522S,15,11,13,9,3,"[7500,Inf)",3,permissive
+A522S,V104,5,0.969,"[5000,7499]",Cat,Cat,104,A522S,15,11,13,9,3,"[7500,Inf)",3,non-permissive
+A522S,V104,6,0.631,"[7500,Inf)",Pig,Pig,104,A522S,15,11,13,9,3,"[7500,Inf)",3,permissive
+A522S,V104,7,0.631,"[7500,Inf)",Puma,Puma,104,A522S,15,11,13,9,3,"[7500,Inf)",3,permissive
+A522S,V104,8,0.969,"[5000,7499]",Pangolin,Pangolin,104,A522S,15,11,13,9,3,"[7500,Inf)",3,non-permissive
+A522S,V104,9,0.631,"[7500,Inf)",Dog,Dog,104,A522S,15,11,13,9,3,"[7500,Inf)",3,permissive
+A522S,V104,10,0.631,"[7500,Inf)",Horse,Horse,104,A522S,15,11,13,9,3,"[7500,Inf)",3,permissive
+A522S,V104,11,0.631,"[7500,Inf)",Camel,Camel,104,A522S,15,11,13,9,3,"[7500,Inf)",3,permissive
+A522S,V104,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,104,A522S,15,11,13,9,3,"[7500,Inf)",3,permissive
+A522S,V104,13,0.969,"[5000,7499]",Whale,Whale,104,A522S,15,11,13,9,3,"[7500,Inf)",3,non-permissive
+A522S,V104,14,0.996,"[2500,4999]",Ferret,Ferret,104,A522S,15,11,13,9,3,"[7500,Inf)",3,non-permissive
+A522S,V104,15,1,"[500,2499]",Horseshoe bat,Horseshoe bat,104,A522S,15,11,13,9,3,"[7500,Inf)",3,non-permissive
+A522S,V104,16,0.341,"[0,99]",Mouse,Mouse,104,A522S,15,11,13,9,3,"[7500,Inf)",3,non-permissive
+A522S,V104,17,0.78,"[100,499]",Tupaia,Tupaia,104,A522S,15,11,13,9,3,"[7500,Inf)",3,non-permissive
+A522V,V105,1,0.631,"[7500,Inf)",Human,Human,105,A522V,13,9,11,9,3,"[7500,Inf)",3,permissive
+A522V,V105,2,0.631,"[7500,Inf)",Monkey,Monkey,105,A522V,13,9,11,9,3,"[7500,Inf)",3,permissive
+A522V,V105,3,0.631,"[7500,Inf)",Hamster,Hamster,105,A522V,13,9,11,9,3,"[7500,Inf)",3,permissive
+A522V,V105,4,0.631,"[7500,Inf)",Rabbit,Rabbit,105,A522V,13,9,11,9,3,"[7500,Inf)",3,permissive
+A522V,V105,5,0.969,"[5000,7499]",Cat,Cat,105,A522V,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+A522V,V105,6,0.631,"[7500,Inf)",Pig,Pig,105,A522V,13,9,11,9,3,"[7500,Inf)",3,permissive
+A522V,V105,7,0.631,"[7500,Inf)",Puma,Puma,105,A522V,13,9,11,9,3,"[7500,Inf)",3,permissive
+A522V,V105,8,0.969,"[5000,7499]",Pangolin,Pangolin,105,A522V,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+A522V,V105,9,0.631,"[7500,Inf)",Dog,Dog,105,A522V,13,9,11,9,3,"[7500,Inf)",3,permissive
+A522V,V105,10,0.631,"[7500,Inf)",Horse,Horse,105,A522V,13,9,11,9,3,"[7500,Inf)",3,permissive
+A522V,V105,11,0.631,"[7500,Inf)",Camel,Camel,105,A522V,13,9,11,9,3,"[7500,Inf)",3,permissive
+A522V,V105,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,105,A522V,13,9,11,9,3,"[7500,Inf)",3,permissive
+A522V,V105,13,0.969,"[5000,7499]",Whale,Whale,105,A522V,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+A522V,V105,14,1,"[500,2499]",Ferret,Ferret,105,A522V,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+A522V,V105,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,105,A522V,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+A522V,V105,16,0.341,"[0,99]",Mouse,Mouse,105,A522V,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+A522V,V105,17,0.341,"[0,99]",Tupaia,Tupaia,105,A522V,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+D427Y,V39,1,0.969,"[5000,7499]",Human,Human,39,D427Y,11,9,11,9,3,"[7500,Inf)",3,non-permissive
+D427Y,V39,2,0.631,"[7500,Inf)",Monkey,Monkey,39,D427Y,11,9,11,9,3,"[7500,Inf)",3,permissive
+D427Y,V39,3,0.631,"[7500,Inf)",Hamster,Hamster,39,D427Y,11,9,11,9,3,"[7500,Inf)",3,permissive
+D427Y,V39,4,0.631,"[7500,Inf)",Rabbit,Rabbit,39,D427Y,11,9,11,9,3,"[7500,Inf)",3,permissive
+D427Y,V39,5,0.969,"[5000,7499]",Cat,Cat,39,D427Y,11,9,11,9,3,"[7500,Inf)",3,non-permissive
+D427Y,V39,6,0.631,"[7500,Inf)",Pig,Pig,39,D427Y,11,9,11,9,3,"[7500,Inf)",3,permissive
+D427Y,V39,7,0.631,"[7500,Inf)",Puma,Puma,39,D427Y,11,9,11,9,3,"[7500,Inf)",3,permissive
+D427Y,V39,8,0.969,"[5000,7499]",Pangolin,Pangolin,39,D427Y,11,9,11,9,3,"[7500,Inf)",3,non-permissive
+D427Y,V39,9,0.631,"[7500,Inf)",Dog,Dog,39,D427Y,11,9,11,9,3,"[7500,Inf)",3,permissive
+D427Y,V39,10,0.631,"[7500,Inf)",Horse,Horse,39,D427Y,11,9,11,9,3,"[7500,Inf)",3,permissive
+D427Y,V39,11,0.631,"[7500,Inf)",Camel,Camel,39,D427Y,11,9,11,9,3,"[7500,Inf)",3,permissive
+D427Y,V39,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,39,D427Y,11,9,11,9,3,"[7500,Inf)",3,permissive
+D427Y,V39,13,0.631,"[7500,Inf)",Whale,Whale,39,D427Y,11,9,11,9,3,"[7500,Inf)",3,permissive
+D427Y,V39,14,1,"[500,2499]",Ferret,Ferret,39,D427Y,11,9,11,9,3,"[7500,Inf)",3,non-permissive
+D427Y,V39,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,39,D427Y,11,9,11,9,3,"[7500,Inf)",3,non-permissive
+D427Y,V39,16,0.341,"[0,99]",Mouse,Mouse,39,D427Y,11,9,11,9,3,"[7500,Inf)",3,non-permissive
+D427Y,V39,17,0.341,"[0,99]",Tupaia,Tupaia,39,D427Y,11,9,11,9,3,"[7500,Inf)",3,non-permissive
+E340K,V12,1,0.631,"[7500,Inf)",Human,Human,12,E340K,13,11,11,9,3,"[7500,Inf)",3,permissive
+E340K,V12,2,0.631,"[7500,Inf)",Monkey,Monkey,12,E340K,13,11,11,9,3,"[7500,Inf)",3,permissive
+E340K,V12,3,0.631,"[7500,Inf)",Hamster,Hamster,12,E340K,13,11,11,9,3,"[7500,Inf)",3,permissive
+E340K,V12,4,0.631,"[7500,Inf)",Rabbit,Rabbit,12,E340K,13,11,11,9,3,"[7500,Inf)",3,permissive
+E340K,V12,5,0.969,"[5000,7499]",Cat,Cat,12,E340K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+E340K,V12,6,0.631,"[7500,Inf)",Pig,Pig,12,E340K,13,11,11,9,3,"[7500,Inf)",3,permissive
+E340K,V12,7,0.631,"[7500,Inf)",Puma,Puma,12,E340K,13,11,11,9,3,"[7500,Inf)",3,permissive
+E340K,V12,8,0.969,"[5000,7499]",Pangolin,Pangolin,12,E340K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+E340K,V12,9,0.631,"[7500,Inf)",Dog,Dog,12,E340K,13,11,11,9,3,"[7500,Inf)",3,permissive
+E340K,V12,10,0.631,"[7500,Inf)",Horse,Horse,12,E340K,13,11,11,9,3,"[7500,Inf)",3,permissive
+E340K,V12,11,0.631,"[7500,Inf)",Camel,Camel,12,E340K,13,11,11,9,3,"[7500,Inf)",3,permissive
+E340K,V12,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,12,E340K,13,11,11,9,3,"[7500,Inf)",3,permissive
+E340K,V12,13,0.969,"[5000,7499]",Whale,Whale,12,E340K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+E340K,V12,14,0.996,"[2500,4999]",Ferret,Ferret,12,E340K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+E340K,V12,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,12,E340K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+E340K,V12,16,0.341,"[0,99]",Mouse,Mouse,12,E340K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+E340K,V12,17,0.341,"[0,99]",Tupaia,Tupaia,12,E340K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+E465G,V61,1,0.631,"[7500,Inf)",Human,Human,61,E465G,13,11,11,9,1,"[7500,Inf)",1,permissive
+E465G,V61,2,0.631,"[7500,Inf)",Monkey,Monkey,61,E465G,13,11,11,9,1,"[7500,Inf)",1,permissive
+E465G,V61,3,0.631,"[7500,Inf)",Hamster,Hamster,61,E465G,13,11,11,9,1,"[7500,Inf)",1,permissive
+E465G,V61,4,0.631,"[7500,Inf)",Rabbit,Rabbit,61,E465G,13,11,11,9,1,"[7500,Inf)",1,permissive
+E465G,V61,5,0.969,"[5000,7499]",Cat,Cat,61,E465G,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+E465G,V61,6,0.631,"[7500,Inf)",Pig,Pig,61,E465G,13,11,11,9,1,"[7500,Inf)",1,permissive
+E465G,V61,7,0.631,"[7500,Inf)",Puma,Puma,61,E465G,13,11,11,9,1,"[7500,Inf)",1,permissive
+E465G,V61,8,0.969,"[5000,7499]",Pangolin,Pangolin,61,E465G,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+E465G,V61,9,0.631,"[7500,Inf)",Dog,Dog,61,E465G,13,11,11,9,1,"[7500,Inf)",1,permissive
+E465G,V61,10,0.969,"[5000,7499]",Horse,Horse,61,E465G,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+E465G,V61,11,0.631,"[7500,Inf)",Camel,Camel,61,E465G,13,11,11,9,1,"[7500,Inf)",1,permissive
+E465G,V61,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,61,E465G,13,11,11,9,1,"[7500,Inf)",1,permissive
+E465G,V61,13,0.969,"[5000,7499]",Whale,Whale,61,E465G,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+E465G,V61,14,0.996,"[2500,4999]",Ferret,Ferret,61,E465G,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+E465G,V61,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,61,E465G,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+E465G,V61,16,0.341,"[0,99]",Mouse,Mouse,61,E465G,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+E465G,V61,17,0.78,"[100,499]",Tupaia,Tupaia,61,E465G,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+E471D,V66,1,0.631,"[7500,Inf)",Human,Human,66,E471D,15,11,13,11,5,"[7500,Inf)",5,permissive
+E471D,V66,2,0.631,"[7500,Inf)",Monkey,Monkey,66,E471D,15,11,13,11,5,"[7500,Inf)",5,permissive
+E471D,V66,3,0.631,"[7500,Inf)",Hamster,Hamster,66,E471D,15,11,13,11,5,"[7500,Inf)",5,permissive
+E471D,V66,4,0.631,"[7500,Inf)",Rabbit,Rabbit,66,E471D,15,11,13,11,5,"[7500,Inf)",5,permissive
+E471D,V66,5,0.969,"[5000,7499]",Cat,Cat,66,E471D,15,11,13,11,5,"[7500,Inf)",5,non-permissive
+E471D,V66,6,0.631,"[7500,Inf)",Pig,Pig,66,E471D,15,11,13,11,5,"[7500,Inf)",5,permissive
+E471D,V66,7,0.631,"[7500,Inf)",Puma,Puma,66,E471D,15,11,13,11,5,"[7500,Inf)",5,permissive
+E471D,V66,8,0.969,"[5000,7499]",Pangolin,Pangolin,66,E471D,15,11,13,11,5,"[7500,Inf)",5,non-permissive
+E471D,V66,9,0.631,"[7500,Inf)",Dog,Dog,66,E471D,15,11,13,11,5,"[7500,Inf)",5,permissive
+E471D,V66,10,0.631,"[7500,Inf)",Horse,Horse,66,E471D,15,11,13,11,5,"[7500,Inf)",5,permissive
+E471D,V66,11,0.631,"[7500,Inf)",Camel,Camel,66,E471D,15,11,13,11,5,"[7500,Inf)",5,permissive
+E471D,V66,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,66,E471D,15,11,13,11,5,"[7500,Inf)",5,permissive
+E471D,V66,13,0.631,"[7500,Inf)",Whale,Whale,66,E471D,15,11,13,11,5,"[7500,Inf)",5,permissive
+E471D,V66,14,0.969,"[5000,7499]",Ferret,Ferret,66,E471D,15,11,13,11,5,"[7500,Inf)",5,non-permissive
+E471D,V66,15,1,"[500,2499]",Horseshoe bat,Horseshoe bat,66,E471D,15,11,13,11,5,"[7500,Inf)",5,non-permissive
+E471D,V66,16,0.341,"[0,99]",Mouse,Mouse,66,E471D,15,11,13,11,5,"[7500,Inf)",5,non-permissive
+E471D,V66,17,0.78,"[100,499]",Tupaia,Tupaia,66,E471D,15,11,13,11,5,"[7500,Inf)",5,non-permissive
+E471K,V65,1,0.969,"[5000,7499]",Human,Human,65,E471K,13,9,11,3,,"[5000,7499]",3,permissive
+E471K,V65,2,0.969,"[5000,7499]",Monkey,Monkey,65,E471K,13,9,11,3,,"[5000,7499]",3,permissive
+E471K,V65,3,0.996,"[2500,4999]",Hamster,Hamster,65,E471K,13,9,11,3,,"[5000,7499]",3,non-permissive
+E471K,V65,4,0.996,"[2500,4999]",Rabbit,Rabbit,65,E471K,13,9,11,3,,"[5000,7499]",3,non-permissive
+E471K,V65,5,0.969,"[5000,7499]",Cat,Cat,65,E471K,13,9,11,3,,"[5000,7499]",3,permissive
+E471K,V65,6,0.996,"[2500,4999]",Pig,Pig,65,E471K,13,9,11,3,,"[5000,7499]",3,non-permissive
+E471K,V65,7,0.969,"[5000,7499]",Puma,Puma,65,E471K,13,9,11,3,,"[5000,7499]",3,permissive
+E471K,V65,8,0.996,"[2500,4999]",Pangolin,Pangolin,65,E471K,13,9,11,3,,"[5000,7499]",3,non-permissive
+E471K,V65,9,0.969,"[5000,7499]",Dog,Dog,65,E471K,13,9,11,3,,"[5000,7499]",3,permissive
+E471K,V65,10,0.996,"[2500,4999]",Horse,Horse,65,E471K,13,9,11,3,,"[5000,7499]",3,non-permissive
+E471K,V65,11,0.969,"[5000,7499]",Camel,Camel,65,E471K,13,9,11,3,,"[5000,7499]",3,permissive
+E471K,V65,12,0.996,"[2500,4999]",Sea Lion,Sea Lion,65,E471K,13,9,11,3,,"[5000,7499]",3,non-permissive
+E471K,V65,13,0.969,"[5000,7499]",Whale,Whale,65,E471K,13,9,11,3,,"[5000,7499]",3,permissive
+E471K,V65,14,1,"[500,2499]",Ferret,Ferret,65,E471K,13,9,11,3,,"[5000,7499]",3,non-permissive
+E471K,V65,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,65,E471K,13,9,11,3,,"[5000,7499]",3,non-permissive
+E471K,V65,16,0.341,"[0,99]",Mouse,Mouse,65,E471K,13,9,11,3,,"[5000,7499]",3,non-permissive
+E471K,V65,17,0.341,"[0,99]",Tupaia,Tupaia,65,E471K,13,9,11,3,,"[5000,7499]",3,non-permissive
+E471Q,V67,1,0.631,"[7500,Inf)",Human,Human,67,E471Q,11,11,11,9,3,"[7500,Inf)",3,permissive
+E471Q,V67,2,0.631,"[7500,Inf)",Monkey,Monkey,67,E471Q,11,11,11,9,3,"[7500,Inf)",3,permissive
+E471Q,V67,3,0.631,"[7500,Inf)",Hamster,Hamster,67,E471Q,11,11,11,9,3,"[7500,Inf)",3,permissive
+E471Q,V67,4,0.631,"[7500,Inf)",Rabbit,Rabbit,67,E471Q,11,11,11,9,3,"[7500,Inf)",3,permissive
+E471Q,V67,5,0.969,"[5000,7499]",Cat,Cat,67,E471Q,11,11,11,9,3,"[7500,Inf)",3,non-permissive
+E471Q,V67,6,0.631,"[7500,Inf)",Pig,Pig,67,E471Q,11,11,11,9,3,"[7500,Inf)",3,permissive
+E471Q,V67,7,0.631,"[7500,Inf)",Puma,Puma,67,E471Q,11,11,11,9,3,"[7500,Inf)",3,permissive
+E471Q,V67,8,0.969,"[5000,7499]",Pangolin,Pangolin,67,E471Q,11,11,11,9,3,"[7500,Inf)",3,non-permissive
+E471Q,V67,9,0.631,"[7500,Inf)",Dog,Dog,67,E471Q,11,11,11,9,3,"[7500,Inf)",3,permissive
+E471Q,V67,10,0.631,"[7500,Inf)",Horse,Horse,67,E471Q,11,11,11,9,3,"[7500,Inf)",3,permissive
+E471Q,V67,11,0.631,"[7500,Inf)",Camel,Camel,67,E471Q,11,11,11,9,3,"[7500,Inf)",3,permissive
+E471Q,V67,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,67,E471Q,11,11,11,9,3,"[7500,Inf)",3,permissive
+E471Q,V67,13,0.969,"[5000,7499]",Whale,Whale,67,E471Q,11,11,11,9,3,"[7500,Inf)",3,non-permissive
+E471Q,V67,14,0.996,"[2500,4999]",Ferret,Ferret,67,E471Q,11,11,11,9,3,"[7500,Inf)",3,non-permissive
+E471Q,V67,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,67,E471Q,11,11,11,9,3,"[7500,Inf)",3,non-permissive
+E471Q,V67,16,0.341,"[0,99]",Mouse,Mouse,67,E471Q,11,11,11,9,3,"[7500,Inf)",3,non-permissive
+E471Q,V67,17,0.341,"[0,99]",Tupaia,Tupaia,67,E471Q,11,11,11,9,3,"[7500,Inf)",3,non-permissive
+E484A,V84,1,0.631,"[7500,Inf)",Human,Human,84,E484A,15,11,11,9,3,"[7500,Inf)",3,permissive
+E484A,V84,2,0.631,"[7500,Inf)",Monkey,Monkey,84,E484A,15,11,11,9,3,"[7500,Inf)",3,permissive
+E484A,V84,3,0.631,"[7500,Inf)",Hamster,Hamster,84,E484A,15,11,11,9,3,"[7500,Inf)",3,permissive
+E484A,V84,4,0.969,"[5000,7499]",Rabbit,Rabbit,84,E484A,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+E484A,V84,5,0.969,"[5000,7499]",Cat,Cat,84,E484A,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+E484A,V84,6,0.969,"[5000,7499]",Pig,Pig,84,E484A,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+E484A,V84,7,0.631,"[7500,Inf)",Puma,Puma,84,E484A,15,11,11,9,3,"[7500,Inf)",3,permissive
+E484A,V84,8,0.969,"[5000,7499]",Pangolin,Pangolin,84,E484A,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+E484A,V84,9,0.631,"[7500,Inf)",Dog,Dog,84,E484A,15,11,11,9,3,"[7500,Inf)",3,permissive
+E484A,V84,10,0.969,"[5000,7499]",Horse,Horse,84,E484A,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+E484A,V84,11,0.631,"[7500,Inf)",Camel,Camel,84,E484A,15,11,11,9,3,"[7500,Inf)",3,permissive
+E484A,V84,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,84,E484A,15,11,11,9,3,"[7500,Inf)",3,permissive
+E484A,V84,13,0.996,"[2500,4999]",Whale,Whale,84,E484A,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+E484A,V84,14,0.969,"[5000,7499]",Ferret,Ferret,84,E484A,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+E484A,V84,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,84,E484A,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+E484A,V84,16,0.341,"[0,99]",Mouse,Mouse,84,E484A,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+E484A,V84,17,0.78,"[100,499]",Tupaia,Tupaia,84,E484A,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+E484D,V85,1,0.969,"[5000,7499]",Human,Human,85,E484D,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+E484D,V85,2,0.631,"[7500,Inf)",Monkey,Monkey,85,E484D,13,11,11,9,1,"[7500,Inf)",1,permissive
+E484D,V85,3,0.631,"[7500,Inf)",Hamster,Hamster,85,E484D,13,11,11,9,1,"[7500,Inf)",1,permissive
+E484D,V85,4,0.631,"[7500,Inf)",Rabbit,Rabbit,85,E484D,13,11,11,9,1,"[7500,Inf)",1,permissive
+E484D,V85,5,0.969,"[5000,7499]",Cat,Cat,85,E484D,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+E484D,V85,6,0.631,"[7500,Inf)",Pig,Pig,85,E484D,13,11,11,9,1,"[7500,Inf)",1,permissive
+E484D,V85,7,0.631,"[7500,Inf)",Puma,Puma,85,E484D,13,11,11,9,1,"[7500,Inf)",1,permissive
+E484D,V85,8,0.969,"[5000,7499]",Pangolin,Pangolin,85,E484D,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+E484D,V85,9,0.631,"[7500,Inf)",Dog,Dog,85,E484D,13,11,11,9,1,"[7500,Inf)",1,permissive
+E484D,V85,10,0.631,"[7500,Inf)",Horse,Horse,85,E484D,13,11,11,9,1,"[7500,Inf)",1,permissive
+E484D,V85,11,0.631,"[7500,Inf)",Camel,Camel,85,E484D,13,11,11,9,1,"[7500,Inf)",1,permissive
+E484D,V85,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,85,E484D,13,11,11,9,1,"[7500,Inf)",1,permissive
+E484D,V85,13,0.969,"[5000,7499]",Whale,Whale,85,E484D,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+E484D,V85,14,0.996,"[2500,4999]",Ferret,Ferret,85,E484D,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+E484D,V85,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,85,E484D,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+E484D,V85,16,0.341,"[0,99]",Mouse,Mouse,85,E484D,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+E484D,V85,17,0.78,"[100,499]",Tupaia,Tupaia,85,E484D,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+E484K,V82,1,0.631,"[7500,Inf)",Human,Human,82,E484K,,15,15,11,9,"[7500,Inf)",9,permissive
+E484K,V82,2,0.631,"[7500,Inf)",Monkey,Monkey,82,E484K,,15,15,11,9,"[7500,Inf)",9,permissive
+E484K,V82,3,0.631,"[7500,Inf)",Hamster,Hamster,82,E484K,,15,15,11,9,"[7500,Inf)",9,permissive
+E484K,V82,4,0.631,"[7500,Inf)",Rabbit,Rabbit,82,E484K,,15,15,11,9,"[7500,Inf)",9,permissive
+E484K,V82,5,0.631,"[7500,Inf)",Cat,Cat,82,E484K,,15,15,11,9,"[7500,Inf)",9,permissive
+E484K,V82,6,0.631,"[7500,Inf)",Pig,Pig,82,E484K,,15,15,11,9,"[7500,Inf)",9,permissive
+E484K,V82,7,0.631,"[7500,Inf)",Puma,Puma,82,E484K,,15,15,11,9,"[7500,Inf)",9,permissive
+E484K,V82,8,0.631,"[7500,Inf)",Pangolin,Pangolin,82,E484K,,15,15,11,9,"[7500,Inf)",9,permissive
+E484K,V82,9,0.631,"[7500,Inf)",Dog,Dog,82,E484K,,15,15,11,9,"[7500,Inf)",9,permissive
+E484K,V82,10,0.631,"[7500,Inf)",Horse,Horse,82,E484K,,15,15,11,9,"[7500,Inf)",9,permissive
+E484K,V82,11,0.631,"[7500,Inf)",Camel,Camel,82,E484K,,15,15,11,9,"[7500,Inf)",9,permissive
+E484K,V82,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,82,E484K,,15,15,11,9,"[7500,Inf)",9,permissive
+E484K,V82,13,0.631,"[7500,Inf)",Whale,Whale,82,E484K,,15,15,11,9,"[7500,Inf)",9,permissive
+E484K,V82,14,0.969,"[5000,7499]",Ferret,Ferret,82,E484K,,15,15,11,9,"[7500,Inf)",9,non-permissive
+E484K,V82,15,0.996,"[2500,4999]",Horseshoe bat,Horseshoe bat,82,E484K,,15,15,11,9,"[7500,Inf)",9,non-permissive
+E484K,V82,16,0.996,"[2500,4999]",Mouse,Mouse,82,E484K,,15,15,11,9,"[7500,Inf)",9,non-permissive
+E484K,V82,17,0.78,"[100,499]",Tupaia,Tupaia,82,E484K,,15,15,11,9,"[7500,Inf)",9,non-permissive
+E484Q,V83,1,0.969,"[5000,7499]",Human,Human,83,E484Q,13,11,11,11,5,"[7500,Inf)",5,non-permissive
+E484Q,V83,2,0.969,"[5000,7499]",Monkey,Monkey,83,E484Q,13,11,11,11,5,"[7500,Inf)",5,non-permissive
+E484Q,V83,3,0.969,"[5000,7499]",Hamster,Hamster,83,E484Q,13,11,11,11,5,"[7500,Inf)",5,non-permissive
+E484Q,V83,4,0.631,"[7500,Inf)",Rabbit,Rabbit,83,E484Q,13,11,11,11,5,"[7500,Inf)",5,permissive
+E484Q,V83,5,0.969,"[5000,7499]",Cat,Cat,83,E484Q,13,11,11,11,5,"[7500,Inf)",5,non-permissive
+E484Q,V83,6,0.631,"[7500,Inf)",Pig,Pig,83,E484Q,13,11,11,11,5,"[7500,Inf)",5,permissive
+E484Q,V83,7,0.631,"[7500,Inf)",Puma,Puma,83,E484Q,13,11,11,11,5,"[7500,Inf)",5,permissive
+E484Q,V83,8,0.969,"[5000,7499]",Pangolin,Pangolin,83,E484Q,13,11,11,11,5,"[7500,Inf)",5,non-permissive
+E484Q,V83,9,0.631,"[7500,Inf)",Dog,Dog,83,E484Q,13,11,11,11,5,"[7500,Inf)",5,permissive
+E484Q,V83,10,0.631,"[7500,Inf)",Horse,Horse,83,E484Q,13,11,11,11,5,"[7500,Inf)",5,permissive
+E484Q,V83,11,0.969,"[5000,7499]",Camel,Camel,83,E484Q,13,11,11,11,5,"[7500,Inf)",5,non-permissive
+E484Q,V83,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,83,E484Q,13,11,11,11,5,"[7500,Inf)",5,permissive
+E484Q,V83,13,0.969,"[5000,7499]",Whale,Whale,83,E484Q,13,11,11,11,5,"[7500,Inf)",5,non-permissive
+E484Q,V83,14,0.969,"[5000,7499]",Ferret,Ferret,83,E484Q,13,11,11,11,5,"[7500,Inf)",5,non-permissive
+E484Q,V83,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,83,E484Q,13,11,11,11,5,"[7500,Inf)",5,non-permissive
+E484Q,V83,16,0.341,"[0,99]",Mouse,Mouse,83,E484Q,13,11,11,11,5,"[7500,Inf)",5,non-permissive
+E484Q,V83,17,0.78,"[100,499]",Tupaia,Tupaia,83,E484Q,13,11,11,11,5,"[7500,Inf)",5,non-permissive
+F318L,V1,1,0.969,"[5000,7499]",Human,Human,1,F318L,11,9,9,5,9,"[5000,7499]",5,permissive
+F318L,V1,2,0.631,"[7500,Inf)",Monkey,Monkey,1,F318L,11,9,9,5,9,"[5000,7499]",5,permissive
+F318L,V1,3,0.631,"[7500,Inf)",Hamster,Hamster,1,F318L,11,9,9,5,9,"[5000,7499]",5,permissive
+F318L,V1,4,0.969,"[5000,7499]",Rabbit,Rabbit,1,F318L,11,9,9,5,9,"[5000,7499]",5,permissive
+F318L,V1,5,0.969,"[5000,7499]",Cat,Cat,1,F318L,11,9,9,5,9,"[5000,7499]",5,permissive
+F318L,V1,6,0.969,"[5000,7499]",Pig,Pig,1,F318L,11,9,9,5,9,"[5000,7499]",5,permissive
+F318L,V1,7,0.631,"[7500,Inf)",Puma,Puma,1,F318L,11,9,9,5,9,"[5000,7499]",5,permissive
+F318L,V1,8,0.996,"[2500,4999]",Pangolin,Pangolin,1,F318L,11,9,9,5,9,"[5000,7499]",5,non-permissive
+F318L,V1,9,0.969,"[5000,7499]",Dog,Dog,1,F318L,11,9,9,5,9,"[5000,7499]",5,permissive
+F318L,V1,10,0.969,"[5000,7499]",Horse,Horse,1,F318L,11,9,9,5,9,"[5000,7499]",5,permissive
+F318L,V1,11,0.631,"[7500,Inf)",Camel,Camel,1,F318L,11,9,9,5,9,"[5000,7499]",5,permissive
+F318L,V1,12,0.969,"[5000,7499]",Sea Lion,Sea Lion,1,F318L,11,9,9,5,9,"[5000,7499]",5,permissive
+F318L,V1,13,0.996,"[2500,4999]",Whale,Whale,1,F318L,11,9,9,5,9,"[5000,7499]",5,non-permissive
+F318L,V1,14,0.78,"[100,499]",Ferret,Ferret,1,F318L,11,9,9,5,9,"[5000,7499]",5,non-permissive
+F318L,V1,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,1,F318L,11,9,9,5,9,"[5000,7499]",5,non-permissive
+F318L,V1,16,0.341,"[0,99]",Mouse,Mouse,1,F318L,11,9,9,5,9,"[5000,7499]",5,non-permissive
+F318L,V1,17,0.341,"[0,99]",Tupaia,Tupaia,1,F318L,11,9,9,5,9,"[5000,7499]",5,non-permissive
+F456L,V55,1,0.631,"[7500,Inf)",Human,Human,55,F456L,13,9,11,9,3,"[7500,Inf)",3,permissive
+F456L,V55,2,0.631,"[7500,Inf)",Monkey,Monkey,55,F456L,13,9,11,9,3,"[7500,Inf)",3,permissive
+F456L,V55,3,0.631,"[7500,Inf)",Hamster,Hamster,55,F456L,13,9,11,9,3,"[7500,Inf)",3,permissive
+F456L,V55,4,0.631,"[7500,Inf)",Rabbit,Rabbit,55,F456L,13,9,11,9,3,"[7500,Inf)",3,permissive
+F456L,V55,5,0.969,"[5000,7499]",Cat,Cat,55,F456L,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+F456L,V55,6,0.631,"[7500,Inf)",Pig,Pig,55,F456L,13,9,11,9,3,"[7500,Inf)",3,permissive
+F456L,V55,7,0.631,"[7500,Inf)",Puma,Puma,55,F456L,13,9,11,9,3,"[7500,Inf)",3,permissive
+F456L,V55,8,0.969,"[5000,7499]",Pangolin,Pangolin,55,F456L,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+F456L,V55,9,0.631,"[7500,Inf)",Dog,Dog,55,F456L,13,9,11,9,3,"[7500,Inf)",3,permissive
+F456L,V55,10,0.631,"[7500,Inf)",Horse,Horse,55,F456L,13,9,11,9,3,"[7500,Inf)",3,permissive
+F456L,V55,11,0.631,"[7500,Inf)",Camel,Camel,55,F456L,13,9,11,9,3,"[7500,Inf)",3,permissive
+F456L,V55,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,55,F456L,13,9,11,9,3,"[7500,Inf)",3,permissive
+F456L,V55,13,0.969,"[5000,7499]",Whale,Whale,55,F456L,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+F456L,V55,14,1,"[500,2499]",Ferret,Ferret,55,F456L,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+F456L,V55,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,55,F456L,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+F456L,V55,16,0.341,"[0,99]",Mouse,Mouse,55,F456L,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+F456L,V55,17,0.78,"[100,499]",Tupaia,Tupaia,55,F456L,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+F490L,V86,1,0.969,"[5000,7499]",Human,Human,86,F490L,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+F490L,V86,2,0.631,"[7500,Inf)",Monkey,Monkey,86,F490L,13,11,11,9,3,"[7500,Inf)",3,permissive
+F490L,V86,3,0.631,"[7500,Inf)",Hamster,Hamster,86,F490L,13,11,11,9,3,"[7500,Inf)",3,permissive
+F490L,V86,4,0.631,"[7500,Inf)",Rabbit,Rabbit,86,F490L,13,11,11,9,3,"[7500,Inf)",3,permissive
+F490L,V86,5,0.969,"[5000,7499]",Cat,Cat,86,F490L,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+F490L,V86,6,0.631,"[7500,Inf)",Pig,Pig,86,F490L,13,11,11,9,3,"[7500,Inf)",3,permissive
+F490L,V86,7,0.631,"[7500,Inf)",Puma,Puma,86,F490L,13,11,11,9,3,"[7500,Inf)",3,permissive
+F490L,V86,8,0.969,"[5000,7499]",Pangolin,Pangolin,86,F490L,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+F490L,V86,9,0.631,"[7500,Inf)",Dog,Dog,86,F490L,13,11,11,9,3,"[7500,Inf)",3,permissive
+F490L,V86,10,0.631,"[7500,Inf)",Horse,Horse,86,F490L,13,11,11,9,3,"[7500,Inf)",3,permissive
+F490L,V86,11,0.631,"[7500,Inf)",Camel,Camel,86,F490L,13,11,11,9,3,"[7500,Inf)",3,permissive
+F490L,V86,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,86,F490L,13,11,11,9,3,"[7500,Inf)",3,permissive
+F490L,V86,13,0.631,"[7500,Inf)",Whale,Whale,86,F490L,13,11,11,9,3,"[7500,Inf)",3,permissive
+F490L,V86,14,0.996,"[2500,4999]",Ferret,Ferret,86,F490L,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+F490L,V86,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,86,F490L,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+F490L,V86,16,0.341,"[0,99]",Mouse,Mouse,86,F490L,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+F490L,V86,17,0.341,"[0,99]",Tupaia,Tupaia,86,F490L,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+F490S,V87,1,0.631,"[7500,Inf)",Human,Human,87,F490S,15,11,11,9,1,"[7500,Inf)",1,permissive
+F490S,V87,2,0.631,"[7500,Inf)",Monkey,Monkey,87,F490S,15,11,11,9,1,"[7500,Inf)",1,permissive
+F490S,V87,3,0.631,"[7500,Inf)",Hamster,Hamster,87,F490S,15,11,11,9,1,"[7500,Inf)",1,permissive
+F490S,V87,4,0.631,"[7500,Inf)",Rabbit,Rabbit,87,F490S,15,11,11,9,1,"[7500,Inf)",1,permissive
+F490S,V87,5,0.969,"[5000,7499]",Cat,Cat,87,F490S,15,11,11,9,1,"[7500,Inf)",1,non-permissive
+F490S,V87,6,0.631,"[7500,Inf)",Pig,Pig,87,F490S,15,11,11,9,1,"[7500,Inf)",1,permissive
+F490S,V87,7,0.631,"[7500,Inf)",Puma,Puma,87,F490S,15,11,11,9,1,"[7500,Inf)",1,permissive
+F490S,V87,8,0.969,"[5000,7499]",Pangolin,Pangolin,87,F490S,15,11,11,9,1,"[7500,Inf)",1,non-permissive
+F490S,V87,9,0.969,"[5000,7499]",Dog,Dog,87,F490S,15,11,11,9,1,"[7500,Inf)",1,non-permissive
+F490S,V87,10,0.969,"[5000,7499]",Horse,Horse,87,F490S,15,11,11,9,1,"[7500,Inf)",1,non-permissive
+F490S,V87,11,0.631,"[7500,Inf)",Camel,Camel,87,F490S,15,11,11,9,1,"[7500,Inf)",1,permissive
+F490S,V87,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,87,F490S,15,11,11,9,1,"[7500,Inf)",1,permissive
+F490S,V87,13,0.631,"[7500,Inf)",Whale,Whale,87,F490S,15,11,11,9,1,"[7500,Inf)",1,permissive
+F490S,V87,14,0.996,"[2500,4999]",Ferret,Ferret,87,F490S,15,11,11,9,1,"[7500,Inf)",1,non-permissive
+F490S,V87,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,87,F490S,15,11,11,9,1,"[7500,Inf)",1,non-permissive
+F490S,V87,16,0.341,"[0,99]",Mouse,Mouse,87,F490S,15,11,11,9,1,"[7500,Inf)",1,non-permissive
+F490S,V87,17,0.78,"[100,499]",Tupaia,Tupaia,87,F490S,15,11,11,9,1,"[7500,Inf)",1,non-permissive
+G339D,V11,1,0.631,"[7500,Inf)",Human,Human,11,G339D,15,11,11,9,3,"[7500,Inf)",3,permissive
+G339D,V11,2,0.631,"[7500,Inf)",Monkey,Monkey,11,G339D,15,11,11,9,3,"[7500,Inf)",3,permissive
+G339D,V11,3,0.631,"[7500,Inf)",Hamster,Hamster,11,G339D,15,11,11,9,3,"[7500,Inf)",3,permissive
+G339D,V11,4,0.631,"[7500,Inf)",Rabbit,Rabbit,11,G339D,15,11,11,9,3,"[7500,Inf)",3,permissive
+G339D,V11,5,0.969,"[5000,7499]",Cat,Cat,11,G339D,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+G339D,V11,6,0.631,"[7500,Inf)",Pig,Pig,11,G339D,15,11,11,9,3,"[7500,Inf)",3,permissive
+G339D,V11,7,0.631,"[7500,Inf)",Puma,Puma,11,G339D,15,11,11,9,3,"[7500,Inf)",3,permissive
+G339D,V11,8,0.969,"[5000,7499]",Pangolin,Pangolin,11,G339D,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+G339D,V11,9,0.631,"[7500,Inf)",Dog,Dog,11,G339D,15,11,11,9,3,"[7500,Inf)",3,permissive
+G339D,V11,10,0.631,"[7500,Inf)",Horse,Horse,11,G339D,15,11,11,9,3,"[7500,Inf)",3,permissive
+G339D,V11,11,0.631,"[7500,Inf)",Camel,Camel,11,G339D,15,11,11,9,3,"[7500,Inf)",3,permissive
+G339D,V11,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,11,G339D,15,11,11,9,3,"[7500,Inf)",3,permissive
+G339D,V11,13,0.969,"[5000,7499]",Whale,Whale,11,G339D,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+G339D,V11,14,0.996,"[2500,4999]",Ferret,Ferret,11,G339D,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+G339D,V11,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,11,G339D,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+G339D,V11,16,0.341,"[0,99]",Mouse,Mouse,11,G339D,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+G339D,V11,17,0.78,"[100,499]",Tupaia,Tupaia,11,G339D,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+G413E,V35,1,0.996,"[2500,4999]",Human,Human,35,G413E,13,3,9,,,"[2500,4999]",3,permissive
+G413E,V35,2,0.996,"[2500,4999]",Monkey,Monkey,35,G413E,13,3,9,,,"[2500,4999]",3,permissive
+G413E,V35,3,0.996,"[2500,4999]",Hamster,Hamster,35,G413E,13,3,9,,,"[2500,4999]",3,permissive
+G413E,V35,4,0.996,"[2500,4999]",Rabbit,Rabbit,35,G413E,13,3,9,,,"[2500,4999]",3,permissive
+G413E,V35,5,0.996,"[2500,4999]",Cat,Cat,35,G413E,13,3,9,,,"[2500,4999]",3,permissive
+G413E,V35,6,1,"[500,2499]",Pig,Pig,35,G413E,13,3,9,,,"[2500,4999]",3,non-permissive
+G413E,V35,7,0.996,"[2500,4999]",Puma,Puma,35,G413E,13,3,9,,,"[2500,4999]",3,permissive
+G413E,V35,8,1,"[500,2499]",Pangolin,Pangolin,35,G413E,13,3,9,,,"[2500,4999]",3,non-permissive
+G413E,V35,9,0.996,"[2500,4999]",Dog,Dog,35,G413E,13,3,9,,,"[2500,4999]",3,permissive
+G413E,V35,10,0.996,"[2500,4999]",Horse,Horse,35,G413E,13,3,9,,,"[2500,4999]",3,permissive
+G413E,V35,11,0.996,"[2500,4999]",Camel,Camel,35,G413E,13,3,9,,,"[2500,4999]",3,permissive
+G413E,V35,12,1,"[500,2499]",Sea Lion,Sea Lion,35,G413E,13,3,9,,,"[2500,4999]",3,non-permissive
+G413E,V35,13,0.996,"[2500,4999]",Whale,Whale,35,G413E,13,3,9,,,"[2500,4999]",3,permissive
+G413E,V35,14,0.78,"[100,499]",Ferret,Ferret,35,G413E,13,3,9,,,"[2500,4999]",3,non-permissive
+G413E,V35,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,35,G413E,13,3,9,,,"[2500,4999]",3,non-permissive
+G413E,V35,16,0.341,"[0,99]",Mouse,Mouse,35,G413E,13,3,9,,,"[2500,4999]",3,non-permissive
+G413E,V35,17,0.341,"[0,99]",Tupaia,Tupaia,35,G413E,13,3,9,,,"[2500,4999]",3,non-permissive
+G413R,V34,1,0.631,"[7500,Inf)",Human,Human,34,G413R,15,11,11,9,5,"[7500,Inf)",5,permissive
+G413R,V34,2,0.631,"[7500,Inf)",Monkey,Monkey,34,G413R,15,11,11,9,5,"[7500,Inf)",5,permissive
+G413R,V34,3,0.631,"[7500,Inf)",Hamster,Hamster,34,G413R,15,11,11,9,5,"[7500,Inf)",5,permissive
+G413R,V34,4,0.631,"[7500,Inf)",Rabbit,Rabbit,34,G413R,15,11,11,9,5,"[7500,Inf)",5,permissive
+G413R,V34,5,0.969,"[5000,7499]",Cat,Cat,34,G413R,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+G413R,V34,6,0.631,"[7500,Inf)",Pig,Pig,34,G413R,15,11,11,9,5,"[7500,Inf)",5,permissive
+G413R,V34,7,0.631,"[7500,Inf)",Puma,Puma,34,G413R,15,11,11,9,5,"[7500,Inf)",5,permissive
+G413R,V34,8,0.969,"[5000,7499]",Pangolin,Pangolin,34,G413R,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+G413R,V34,9,0.631,"[7500,Inf)",Dog,Dog,34,G413R,15,11,11,9,5,"[7500,Inf)",5,permissive
+G413R,V34,10,0.631,"[7500,Inf)",Horse,Horse,34,G413R,15,11,11,9,5,"[7500,Inf)",5,permissive
+G413R,V34,11,0.631,"[7500,Inf)",Camel,Camel,34,G413R,15,11,11,9,5,"[7500,Inf)",5,permissive
+G413R,V34,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,34,G413R,15,11,11,9,5,"[7500,Inf)",5,permissive
+G413R,V34,13,0.631,"[7500,Inf)",Whale,Whale,34,G413R,15,11,11,9,5,"[7500,Inf)",5,permissive
+G413R,V34,14,0.996,"[2500,4999]",Ferret,Ferret,34,G413R,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+G413R,V34,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,34,G413R,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+G413R,V34,16,0.341,"[0,99]",Mouse,Mouse,34,G413R,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+G413R,V34,17,0.78,"[100,499]",Tupaia,Tupaia,34,G413R,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+G446V,V46,1,0.631,"[7500,Inf)",Human,Human,46,G446V,13,11,11,9,1,"[7500,Inf)",1,permissive
+G446V,V46,2,0.631,"[7500,Inf)",Monkey,Monkey,46,G446V,13,11,11,9,1,"[7500,Inf)",1,permissive
+G446V,V46,3,0.631,"[7500,Inf)",Hamster,Hamster,46,G446V,13,11,11,9,1,"[7500,Inf)",1,permissive
+G446V,V46,4,0.969,"[5000,7499]",Rabbit,Rabbit,46,G446V,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+G446V,V46,5,0.969,"[5000,7499]",Cat,Cat,46,G446V,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+G446V,V46,6,0.631,"[7500,Inf)",Pig,Pig,46,G446V,13,11,11,9,1,"[7500,Inf)",1,permissive
+G446V,V46,7,0.631,"[7500,Inf)",Puma,Puma,46,G446V,13,11,11,9,1,"[7500,Inf)",1,permissive
+G446V,V46,8,0.969,"[5000,7499]",Pangolin,Pangolin,46,G446V,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+G446V,V46,9,0.969,"[5000,7499]",Dog,Dog,46,G446V,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+G446V,V46,10,0.631,"[7500,Inf)",Horse,Horse,46,G446V,13,11,11,9,1,"[7500,Inf)",1,permissive
+G446V,V46,11,0.631,"[7500,Inf)",Camel,Camel,46,G446V,13,11,11,9,1,"[7500,Inf)",1,permissive
+G446V,V46,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,46,G446V,13,11,11,9,1,"[7500,Inf)",1,permissive
+G446V,V46,13,0.631,"[7500,Inf)",Whale,Whale,46,G446V,13,11,11,9,1,"[7500,Inf)",1,permissive
+G446V,V46,14,0.996,"[2500,4999]",Ferret,Ferret,46,G446V,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+G446V,V46,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,46,G446V,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+G446V,V46,16,0.341,"[0,99]",Mouse,Mouse,46,G446V,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+G446V,V46,17,0.341,"[0,99]",Tupaia,Tupaia,46,G446V,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+G447V,V47,1,0.969,"[5000,7499]",Human,Human,47,G447V,15,9,9,9,1,"[7500,Inf)",1,non-permissive
+G447V,V47,2,0.631,"[7500,Inf)",Monkey,Monkey,47,G447V,15,9,9,9,1,"[7500,Inf)",1,permissive
+G447V,V47,3,0.631,"[7500,Inf)",Hamster,Hamster,47,G447V,15,9,9,9,1,"[7500,Inf)",1,permissive
+G447V,V47,4,0.631,"[7500,Inf)",Rabbit,Rabbit,47,G447V,15,9,9,9,1,"[7500,Inf)",1,permissive
+G447V,V47,5,0.969,"[5000,7499]",Cat,Cat,47,G447V,15,9,9,9,1,"[7500,Inf)",1,non-permissive
+G447V,V47,6,0.969,"[5000,7499]",Pig,Pig,47,G447V,15,9,9,9,1,"[7500,Inf)",1,non-permissive
+G447V,V47,7,0.631,"[7500,Inf)",Puma,Puma,47,G447V,15,9,9,9,1,"[7500,Inf)",1,permissive
+G447V,V47,8,0.969,"[5000,7499]",Pangolin,Pangolin,47,G447V,15,9,9,9,1,"[7500,Inf)",1,non-permissive
+G447V,V47,9,0.631,"[7500,Inf)",Dog,Dog,47,G447V,15,9,9,9,1,"[7500,Inf)",1,permissive
+G447V,V47,10,0.631,"[7500,Inf)",Horse,Horse,47,G447V,15,9,9,9,1,"[7500,Inf)",1,permissive
+G447V,V47,11,0.631,"[7500,Inf)",Camel,Camel,47,G447V,15,9,9,9,1,"[7500,Inf)",1,permissive
+G447V,V47,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,47,G447V,15,9,9,9,1,"[7500,Inf)",1,permissive
+G447V,V47,13,0.969,"[5000,7499]",Whale,Whale,47,G447V,15,9,9,9,1,"[7500,Inf)",1,non-permissive
+G447V,V47,14,0.78,"[100,499]",Ferret,Ferret,47,G447V,15,9,9,9,1,"[7500,Inf)",1,non-permissive
+G447V,V47,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,47,G447V,15,9,9,9,1,"[7500,Inf)",1,non-permissive
+G447V,V47,16,0.341,"[0,99]",Mouse,Mouse,47,G447V,15,9,9,9,1,"[7500,Inf)",1,non-permissive
+G447V,V47,17,0.78,"[100,499]",Tupaia,Tupaia,47,G447V,15,9,9,9,1,"[7500,Inf)",1,non-permissive
+G476S,V71,1,0.631,"[7500,Inf)",Human,Human,71,G476S,,11,13,9,1,"[7500,Inf)",1,permissive
+G476S,V71,2,0.631,"[7500,Inf)",Monkey,Monkey,71,G476S,,11,13,9,1,"[7500,Inf)",1,permissive
+G476S,V71,3,0.631,"[7500,Inf)",Hamster,Hamster,71,G476S,,11,13,9,1,"[7500,Inf)",1,permissive
+G476S,V71,4,0.969,"[5000,7499]",Rabbit,Rabbit,71,G476S,,11,13,9,1,"[7500,Inf)",1,non-permissive
+G476S,V71,5,0.969,"[5000,7499]",Cat,Cat,71,G476S,,11,13,9,1,"[7500,Inf)",1,non-permissive
+G476S,V71,6,0.631,"[7500,Inf)",Pig,Pig,71,G476S,,11,13,9,1,"[7500,Inf)",1,permissive
+G476S,V71,7,0.631,"[7500,Inf)",Puma,Puma,71,G476S,,11,13,9,1,"[7500,Inf)",1,permissive
+G476S,V71,8,0.969,"[5000,7499]",Pangolin,Pangolin,71,G476S,,11,13,9,1,"[7500,Inf)",1,non-permissive
+G476S,V71,9,0.631,"[7500,Inf)",Dog,Dog,71,G476S,,11,13,9,1,"[7500,Inf)",1,permissive
+G476S,V71,10,0.631,"[7500,Inf)",Horse,Horse,71,G476S,,11,13,9,1,"[7500,Inf)",1,permissive
+G476S,V71,11,0.631,"[7500,Inf)",Camel,Camel,71,G476S,,11,13,9,1,"[7500,Inf)",1,permissive
+G476S,V71,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,71,G476S,,11,13,9,1,"[7500,Inf)",1,permissive
+G476S,V71,13,0.969,"[5000,7499]",Whale,Whale,71,G476S,,11,13,9,1,"[7500,Inf)",1,non-permissive
+G476S,V71,14,0.996,"[2500,4999]",Ferret,Ferret,71,G476S,,11,13,9,1,"[7500,Inf)",1,non-permissive
+G476S,V71,15,1,"[500,2499]",Horseshoe bat,Horseshoe bat,71,G476S,,11,13,9,1,"[7500,Inf)",1,non-permissive
+G476S,V71,16,0.78,"[100,499]",Mouse,Mouse,71,G476S,,11,13,9,1,"[7500,Inf)",1,non-permissive
+G476S,V71,17,0.78,"[100,499]",Tupaia,Tupaia,71,G476S,,11,13,9,1,"[7500,Inf)",1,non-permissive
+G545S,V110,1,0.631,"[7500,Inf)",Human,Human,110,G545S,15,11,11,9,5,"[7500,Inf)",5,permissive
+G545S,V110,2,0.631,"[7500,Inf)",Monkey,Monkey,110,G545S,15,11,11,9,5,"[7500,Inf)",5,permissive
+G545S,V110,3,0.631,"[7500,Inf)",Hamster,Hamster,110,G545S,15,11,11,9,5,"[7500,Inf)",5,permissive
+G545S,V110,4,0.631,"[7500,Inf)",Rabbit,Rabbit,110,G545S,15,11,11,9,5,"[7500,Inf)",5,permissive
+G545S,V110,5,0.969,"[5000,7499]",Cat,Cat,110,G545S,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+G545S,V110,6,0.631,"[7500,Inf)",Pig,Pig,110,G545S,15,11,11,9,5,"[7500,Inf)",5,permissive
+G545S,V110,7,0.631,"[7500,Inf)",Puma,Puma,110,G545S,15,11,11,9,5,"[7500,Inf)",5,permissive
+G545S,V110,8,0.969,"[5000,7499]",Pangolin,Pangolin,110,G545S,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+G545S,V110,9,0.631,"[7500,Inf)",Dog,Dog,110,G545S,15,11,11,9,5,"[7500,Inf)",5,permissive
+G545S,V110,10,0.631,"[7500,Inf)",Horse,Horse,110,G545S,15,11,11,9,5,"[7500,Inf)",5,permissive
+G545S,V110,11,0.631,"[7500,Inf)",Camel,Camel,110,G545S,15,11,11,9,5,"[7500,Inf)",5,permissive
+G545S,V110,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,110,G545S,15,11,11,9,5,"[7500,Inf)",5,permissive
+G545S,V110,13,0.631,"[7500,Inf)",Whale,Whale,110,G545S,15,11,11,9,5,"[7500,Inf)",5,permissive
+G545S,V110,14,0.996,"[2500,4999]",Ferret,Ferret,110,G545S,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+G545S,V110,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,110,G545S,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+G545S,V110,16,0.341,"[0,99]",Mouse,Mouse,110,G545S,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+G545S,V110,17,0.78,"[100,499]",Tupaia,Tupaia,110,G545S,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+H519P,V97,1,0.969,"[5000,7499]",Human,Human,97,H519P,11,11,11,9,1,"[7500,Inf)",1,non-permissive
+H519P,V97,2,0.631,"[7500,Inf)",Monkey,Monkey,97,H519P,11,11,11,9,1,"[7500,Inf)",1,permissive
+H519P,V97,3,0.631,"[7500,Inf)",Hamster,Hamster,97,H519P,11,11,11,9,1,"[7500,Inf)",1,permissive
+H519P,V97,4,0.969,"[5000,7499]",Rabbit,Rabbit,97,H519P,11,11,11,9,1,"[7500,Inf)",1,non-permissive
+H519P,V97,5,0.969,"[5000,7499]",Cat,Cat,97,H519P,11,11,11,9,1,"[7500,Inf)",1,non-permissive
+H519P,V97,6,0.631,"[7500,Inf)",Pig,Pig,97,H519P,11,11,11,9,1,"[7500,Inf)",1,permissive
+H519P,V97,7,0.631,"[7500,Inf)",Puma,Puma,97,H519P,11,11,11,9,1,"[7500,Inf)",1,permissive
+H519P,V97,8,0.969,"[5000,7499]",Pangolin,Pangolin,97,H519P,11,11,11,9,1,"[7500,Inf)",1,non-permissive
+H519P,V97,9,0.631,"[7500,Inf)",Dog,Dog,97,H519P,11,11,11,9,1,"[7500,Inf)",1,permissive
+H519P,V97,10,0.969,"[5000,7499]",Horse,Horse,97,H519P,11,11,11,9,1,"[7500,Inf)",1,non-permissive
+H519P,V97,11,0.631,"[7500,Inf)",Camel,Camel,97,H519P,11,11,11,9,1,"[7500,Inf)",1,permissive
+H519P,V97,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,97,H519P,11,11,11,9,1,"[7500,Inf)",1,permissive
+H519P,V97,13,0.631,"[7500,Inf)",Whale,Whale,97,H519P,11,11,11,9,1,"[7500,Inf)",1,permissive
+H519P,V97,14,0.996,"[2500,4999]",Ferret,Ferret,97,H519P,11,11,11,9,1,"[7500,Inf)",1,non-permissive
+H519P,V97,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,97,H519P,11,11,11,9,1,"[7500,Inf)",1,non-permissive
+H519P,V97,16,0.341,"[0,99]",Mouse,Mouse,97,H519P,11,11,11,9,1,"[7500,Inf)",1,non-permissive
+H519P,V97,17,0.341,"[0,99]",Tupaia,Tupaia,97,H519P,11,11,11,9,1,"[7500,Inf)",1,non-permissive
+H519Q,V98,1,0.631,"[7500,Inf)",Human,Human,98,H519Q,15,11,11,9,5,"[7500,Inf)",5,permissive
+H519Q,V98,2,0.631,"[7500,Inf)",Monkey,Monkey,98,H519Q,15,11,11,9,5,"[7500,Inf)",5,permissive
+H519Q,V98,3,0.631,"[7500,Inf)",Hamster,Hamster,98,H519Q,15,11,11,9,5,"[7500,Inf)",5,permissive
+H519Q,V98,4,0.631,"[7500,Inf)",Rabbit,Rabbit,98,H519Q,15,11,11,9,5,"[7500,Inf)",5,permissive
+H519Q,V98,5,0.969,"[5000,7499]",Cat,Cat,98,H519Q,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+H519Q,V98,6,0.631,"[7500,Inf)",Pig,Pig,98,H519Q,15,11,11,9,5,"[7500,Inf)",5,permissive
+H519Q,V98,7,0.631,"[7500,Inf)",Puma,Puma,98,H519Q,15,11,11,9,5,"[7500,Inf)",5,permissive
+H519Q,V98,8,0.969,"[5000,7499]",Pangolin,Pangolin,98,H519Q,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+H519Q,V98,9,0.631,"[7500,Inf)",Dog,Dog,98,H519Q,15,11,11,9,5,"[7500,Inf)",5,permissive
+H519Q,V98,10,0.631,"[7500,Inf)",Horse,Horse,98,H519Q,15,11,11,9,5,"[7500,Inf)",5,permissive
+H519Q,V98,11,0.631,"[7500,Inf)",Camel,Camel,98,H519Q,15,11,11,9,5,"[7500,Inf)",5,permissive
+H519Q,V98,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,98,H519Q,15,11,11,9,5,"[7500,Inf)",5,permissive
+H519Q,V98,13,0.631,"[7500,Inf)",Whale,Whale,98,H519Q,15,11,11,9,5,"[7500,Inf)",5,permissive
+H519Q,V98,14,0.996,"[2500,4999]",Ferret,Ferret,98,H519Q,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+H519Q,V98,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,98,H519Q,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+H519Q,V98,16,0.341,"[0,99]",Mouse,Mouse,98,H519Q,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+H519Q,V98,17,0.78,"[100,499]",Tupaia,Tupaia,98,H519Q,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+H519Y,V99,1,0.631,"[7500,Inf)",Human,Human,99,H519Y,13,9,9,9,1,"[7500,Inf)",1,permissive
+H519Y,V99,2,0.631,"[7500,Inf)",Monkey,Monkey,99,H519Y,13,9,9,9,1,"[7500,Inf)",1,permissive
+H519Y,V99,3,0.631,"[7500,Inf)",Hamster,Hamster,99,H519Y,13,9,9,9,1,"[7500,Inf)",1,permissive
+H519Y,V99,4,0.969,"[5000,7499]",Rabbit,Rabbit,99,H519Y,13,9,9,9,1,"[7500,Inf)",1,non-permissive
+H519Y,V99,5,0.969,"[5000,7499]",Cat,Cat,99,H519Y,13,9,9,9,1,"[7500,Inf)",1,non-permissive
+H519Y,V99,6,0.631,"[7500,Inf)",Pig,Pig,99,H519Y,13,9,9,9,1,"[7500,Inf)",1,permissive
+H519Y,V99,7,0.631,"[7500,Inf)",Puma,Puma,99,H519Y,13,9,9,9,1,"[7500,Inf)",1,permissive
+H519Y,V99,8,0.969,"[5000,7499]",Pangolin,Pangolin,99,H519Y,13,9,9,9,1,"[7500,Inf)",1,non-permissive
+H519Y,V99,9,0.631,"[7500,Inf)",Dog,Dog,99,H519Y,13,9,9,9,1,"[7500,Inf)",1,permissive
+H519Y,V99,10,0.631,"[7500,Inf)",Horse,Horse,99,H519Y,13,9,9,9,1,"[7500,Inf)",1,permissive
+H519Y,V99,11,0.631,"[7500,Inf)",Camel,Camel,99,H519Y,13,9,9,9,1,"[7500,Inf)",1,permissive
+H519Y,V99,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,99,H519Y,13,9,9,9,1,"[7500,Inf)",1,permissive
+H519Y,V99,13,0.969,"[5000,7499]",Whale,Whale,99,H519Y,13,9,9,9,1,"[7500,Inf)",1,non-permissive
+H519Y,V99,14,0.78,"[100,499]",Ferret,Ferret,99,H519Y,13,9,9,9,1,"[7500,Inf)",1,non-permissive
+H519Y,V99,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,99,H519Y,13,9,9,9,1,"[7500,Inf)",1,non-permissive
+H519Y,V99,16,0.341,"[0,99]",Mouse,Mouse,99,H519Y,13,9,9,9,1,"[7500,Inf)",1,non-permissive
+H519Y,V99,17,0.78,"[100,499]",Tupaia,Tupaia,99,H519Y,13,9,9,9,1,"[7500,Inf)",1,non-permissive
+I326V,V7,1,0.631,"[7500,Inf)",Human,Human,7,I326V,13,11,11,7,1,"[7500,Inf)",1,permissive
+I326V,V7,2,0.631,"[7500,Inf)",Monkey,Monkey,7,I326V,13,11,11,7,1,"[7500,Inf)",1,permissive
+I326V,V7,3,0.631,"[7500,Inf)",Hamster,Hamster,7,I326V,13,11,11,7,1,"[7500,Inf)",1,permissive
+I326V,V7,4,0.631,"[7500,Inf)",Rabbit,Rabbit,7,I326V,13,11,11,7,1,"[7500,Inf)",1,permissive
+I326V,V7,5,0.969,"[5000,7499]",Cat,Cat,7,I326V,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+I326V,V7,6,0.631,"[7500,Inf)",Pig,Pig,7,I326V,13,11,11,7,1,"[7500,Inf)",1,permissive
+I326V,V7,7,0.631,"[7500,Inf)",Puma,Puma,7,I326V,13,11,11,7,1,"[7500,Inf)",1,permissive
+I326V,V7,8,0.969,"[5000,7499]",Pangolin,Pangolin,7,I326V,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+I326V,V7,9,0.631,"[7500,Inf)",Dog,Dog,7,I326V,13,11,11,7,1,"[7500,Inf)",1,permissive
+I326V,V7,10,0.631,"[7500,Inf)",Horse,Horse,7,I326V,13,11,11,7,1,"[7500,Inf)",1,permissive
+I326V,V7,11,0.969,"[5000,7499]",Camel,Camel,7,I326V,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+I326V,V7,12,0.969,"[5000,7499]",Sea Lion,Sea Lion,7,I326V,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+I326V,V7,13,0.996,"[2500,4999]",Whale,Whale,7,I326V,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+I326V,V7,14,0.996,"[2500,4999]",Ferret,Ferret,7,I326V,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+I326V,V7,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,7,I326V,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+I326V,V7,16,0.341,"[0,99]",Mouse,Mouse,7,I326V,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+I326V,V7,17,0.341,"[0,99]",Tupaia,Tupaia,7,I326V,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+I468T,V62,1,0.631,"[7500,Inf)",Human,Human,62,I468T,15,11,11,11,3,"[7500,Inf)",3,permissive
+I468T,V62,2,0.631,"[7500,Inf)",Monkey,Monkey,62,I468T,15,11,11,11,3,"[7500,Inf)",3,permissive
+I468T,V62,3,0.631,"[7500,Inf)",Hamster,Hamster,62,I468T,15,11,11,11,3,"[7500,Inf)",3,permissive
+I468T,V62,4,0.969,"[5000,7499]",Rabbit,Rabbit,62,I468T,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+I468T,V62,5,0.969,"[5000,7499]",Cat,Cat,62,I468T,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+I468T,V62,6,0.631,"[7500,Inf)",Pig,Pig,62,I468T,15,11,11,11,3,"[7500,Inf)",3,permissive
+I468T,V62,7,0.631,"[7500,Inf)",Puma,Puma,62,I468T,15,11,11,11,3,"[7500,Inf)",3,permissive
+I468T,V62,8,0.969,"[5000,7499]",Pangolin,Pangolin,62,I468T,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+I468T,V62,9,0.631,"[7500,Inf)",Dog,Dog,62,I468T,15,11,11,11,3,"[7500,Inf)",3,permissive
+I468T,V62,10,0.631,"[7500,Inf)",Horse,Horse,62,I468T,15,11,11,11,3,"[7500,Inf)",3,permissive
+I468T,V62,11,0.631,"[7500,Inf)",Camel,Camel,62,I468T,15,11,11,11,3,"[7500,Inf)",3,permissive
+I468T,V62,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,62,I468T,15,11,11,11,3,"[7500,Inf)",3,permissive
+I468T,V62,13,0.631,"[7500,Inf)",Whale,Whale,62,I468T,15,11,11,11,3,"[7500,Inf)",3,permissive
+I468T,V62,14,0.969,"[5000,7499]",Ferret,Ferret,62,I468T,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+I468T,V62,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,62,I468T,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+I468T,V62,16,0.341,"[0,99]",Mouse,Mouse,62,I468T,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+I468T,V62,17,0.78,"[100,499]",Tupaia,Tupaia,62,I468T,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+I468V,V63,1,0.969,"[5000,7499]",Human,Human,63,I468V,13,11,11,7,3,"[7500,Inf)",3,non-permissive
+I468V,V63,2,0.969,"[5000,7499]",Monkey,Monkey,63,I468V,13,11,11,7,3,"[7500,Inf)",3,non-permissive
+I468V,V63,3,0.969,"[5000,7499]",Hamster,Hamster,63,I468V,13,11,11,7,3,"[7500,Inf)",3,non-permissive
+I468V,V63,4,0.631,"[7500,Inf)",Rabbit,Rabbit,63,I468V,13,11,11,7,3,"[7500,Inf)",3,permissive
+I468V,V63,5,0.969,"[5000,7499]",Cat,Cat,63,I468V,13,11,11,7,3,"[7500,Inf)",3,non-permissive
+I468V,V63,6,0.631,"[7500,Inf)",Pig,Pig,63,I468V,13,11,11,7,3,"[7500,Inf)",3,permissive
+I468V,V63,7,0.631,"[7500,Inf)",Puma,Puma,63,I468V,13,11,11,7,3,"[7500,Inf)",3,permissive
+I468V,V63,8,0.969,"[5000,7499]",Pangolin,Pangolin,63,I468V,13,11,11,7,3,"[7500,Inf)",3,non-permissive
+I468V,V63,9,0.631,"[7500,Inf)",Dog,Dog,63,I468V,13,11,11,7,3,"[7500,Inf)",3,permissive
+I468V,V63,10,0.631,"[7500,Inf)",Horse,Horse,63,I468V,13,11,11,7,3,"[7500,Inf)",3,permissive
+I468V,V63,11,0.631,"[7500,Inf)",Camel,Camel,63,I468V,13,11,11,7,3,"[7500,Inf)",3,permissive
+I468V,V63,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,63,I468V,13,11,11,7,3,"[7500,Inf)",3,permissive
+I468V,V63,13,0.996,"[2500,4999]",Whale,Whale,63,I468V,13,11,11,7,3,"[7500,Inf)",3,non-permissive
+I468V,V63,14,0.996,"[2500,4999]",Ferret,Ferret,63,I468V,13,11,11,7,3,"[7500,Inf)",3,non-permissive
+I468V,V63,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,63,I468V,13,11,11,7,3,"[7500,Inf)",3,non-permissive
+I468V,V63,16,0.341,"[0,99]",Mouse,Mouse,63,I468V,13,11,11,7,3,"[7500,Inf)",3,non-permissive
+I468V,V63,17,0.341,"[0,99]",Tupaia,Tupaia,63,I468V,13,11,11,7,3,"[7500,Inf)",3,non-permissive
+K417N,V38,1,0.631,"[7500,Inf)",Human,Human,38,K417N,15,9,11,9,5,"[7500,Inf)",5,permissive
+K417N,V38,2,0.631,"[7500,Inf)",Monkey,Monkey,38,K417N,15,9,11,9,5,"[7500,Inf)",5,permissive
+K417N,V38,3,0.631,"[7500,Inf)",Hamster,Hamster,38,K417N,15,9,11,9,5,"[7500,Inf)",5,permissive
+K417N,V38,4,0.631,"[7500,Inf)",Rabbit,Rabbit,38,K417N,15,9,11,9,5,"[7500,Inf)",5,permissive
+K417N,V38,5,0.631,"[7500,Inf)",Cat,Cat,38,K417N,15,9,11,9,5,"[7500,Inf)",5,permissive
+K417N,V38,6,0.631,"[7500,Inf)",Pig,Pig,38,K417N,15,9,11,9,5,"[7500,Inf)",5,permissive
+K417N,V38,7,0.631,"[7500,Inf)",Puma,Puma,38,K417N,15,9,11,9,5,"[7500,Inf)",5,permissive
+K417N,V38,8,0.969,"[5000,7499]",Pangolin,Pangolin,38,K417N,15,9,11,9,5,"[7500,Inf)",5,non-permissive
+K417N,V38,9,0.631,"[7500,Inf)",Dog,Dog,38,K417N,15,9,11,9,5,"[7500,Inf)",5,permissive
+K417N,V38,10,0.631,"[7500,Inf)",Horse,Horse,38,K417N,15,9,11,9,5,"[7500,Inf)",5,permissive
+K417N,V38,11,0.631,"[7500,Inf)",Camel,Camel,38,K417N,15,9,11,9,5,"[7500,Inf)",5,permissive
+K417N,V38,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,38,K417N,15,9,11,9,5,"[7500,Inf)",5,permissive
+K417N,V38,13,0.969,"[5000,7499]",Whale,Whale,38,K417N,15,9,11,9,5,"[7500,Inf)",5,non-permissive
+K417N,V38,14,0.78,"[100,499]",Ferret,Ferret,38,K417N,15,9,11,9,5,"[7500,Inf)",5,non-permissive
+K417N,V38,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,38,K417N,15,9,11,9,5,"[7500,Inf)",5,non-permissive
+K417N,V38,16,1,"[500,2499]",Mouse,Mouse,38,K417N,15,9,11,9,5,"[7500,Inf)",5,non-permissive
+K417N,V38,17,0.78,"[100,499]",Tupaia,Tupaia,38,K417N,15,9,11,9,5,"[7500,Inf)",5,non-permissive
+K444N,V45,1,0.631,"[7500,Inf)",Human,Human,45,K444N,15,11,11,9,3,"[7500,Inf)",3,permissive
+K444N,V45,2,0.631,"[7500,Inf)",Monkey,Monkey,45,K444N,15,11,11,9,3,"[7500,Inf)",3,permissive
+K444N,V45,3,0.631,"[7500,Inf)",Hamster,Hamster,45,K444N,15,11,11,9,3,"[7500,Inf)",3,permissive
+K444N,V45,4,0.631,"[7500,Inf)",Rabbit,Rabbit,45,K444N,15,11,11,9,3,"[7500,Inf)",3,permissive
+K444N,V45,5,0.969,"[5000,7499]",Cat,Cat,45,K444N,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+K444N,V45,6,0.631,"[7500,Inf)",Pig,Pig,45,K444N,15,11,11,9,3,"[7500,Inf)",3,permissive
+K444N,V45,7,0.631,"[7500,Inf)",Puma,Puma,45,K444N,15,11,11,9,3,"[7500,Inf)",3,permissive
+K444N,V45,8,0.969,"[5000,7499]",Pangolin,Pangolin,45,K444N,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+K444N,V45,9,0.631,"[7500,Inf)",Dog,Dog,45,K444N,15,11,11,9,3,"[7500,Inf)",3,permissive
+K444N,V45,10,0.631,"[7500,Inf)",Horse,Horse,45,K444N,15,11,11,9,3,"[7500,Inf)",3,permissive
+K444N,V45,11,0.631,"[7500,Inf)",Camel,Camel,45,K444N,15,11,11,9,3,"[7500,Inf)",3,permissive
+K444N,V45,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,45,K444N,15,11,11,9,3,"[7500,Inf)",3,permissive
+K444N,V45,13,0.969,"[5000,7499]",Whale,Whale,45,K444N,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+K444N,V45,14,0.996,"[2500,4999]",Ferret,Ferret,45,K444N,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+K444N,V45,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,45,K444N,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+K444N,V45,16,0.341,"[0,99]",Mouse,Mouse,45,K444N,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+K444N,V45,17,0.78,"[100,499]",Tupaia,Tupaia,45,K444N,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+K444R,V44,1,0.631,"[7500,Inf)",Human,Human,44,K444R,,11,11,11,3,"[7500,Inf)",3,permissive
+K444R,V44,2,0.631,"[7500,Inf)",Monkey,Monkey,44,K444R,,11,11,11,3,"[7500,Inf)",3,permissive
+K444R,V44,3,0.631,"[7500,Inf)",Hamster,Hamster,44,K444R,,11,11,11,3,"[7500,Inf)",3,permissive
+K444R,V44,4,0.631,"[7500,Inf)",Rabbit,Rabbit,44,K444R,,11,11,11,3,"[7500,Inf)",3,permissive
+K444R,V44,5,0.969,"[5000,7499]",Cat,Cat,44,K444R,,11,11,11,3,"[7500,Inf)",3,non-permissive
+K444R,V44,6,0.631,"[7500,Inf)",Pig,Pig,44,K444R,,11,11,11,3,"[7500,Inf)",3,permissive
+K444R,V44,7,0.631,"[7500,Inf)",Puma,Puma,44,K444R,,11,11,11,3,"[7500,Inf)",3,permissive
+K444R,V44,8,0.969,"[5000,7499]",Pangolin,Pangolin,44,K444R,,11,11,11,3,"[7500,Inf)",3,non-permissive
+K444R,V44,9,0.631,"[7500,Inf)",Dog,Dog,44,K444R,,11,11,11,3,"[7500,Inf)",3,permissive
+K444R,V44,10,0.631,"[7500,Inf)",Horse,Horse,44,K444R,,11,11,11,3,"[7500,Inf)",3,permissive
+K444R,V44,11,0.631,"[7500,Inf)",Camel,Camel,44,K444R,,11,11,11,3,"[7500,Inf)",3,permissive
+K444R,V44,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,44,K444R,,11,11,11,3,"[7500,Inf)",3,permissive
+K444R,V44,13,0.969,"[5000,7499]",Whale,Whale,44,K444R,,11,11,11,3,"[7500,Inf)",3,non-permissive
+K444R,V44,14,0.969,"[5000,7499]",Ferret,Ferret,44,K444R,,11,11,11,3,"[7500,Inf)",3,non-permissive
+K444R,V44,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,44,K444R,,11,11,11,3,"[7500,Inf)",3,non-permissive
+K444R,V44,16,0.78,"[100,499]",Mouse,Mouse,44,K444R,,11,11,11,3,"[7500,Inf)",3,non-permissive
+K444R,V44,17,0.78,"[100,499]",Tupaia,Tupaia,44,K444R,,11,11,11,3,"[7500,Inf)",3,non-permissive
+K458N,V57,1,0.631,"[7500,Inf)",Human,Human,57,K458N,13,9,11,9,3,"[7500,Inf)",3,permissive
+K458N,V57,2,0.631,"[7500,Inf)",Monkey,Monkey,57,K458N,13,9,11,9,3,"[7500,Inf)",3,permissive
+K458N,V57,3,0.631,"[7500,Inf)",Hamster,Hamster,57,K458N,13,9,11,9,3,"[7500,Inf)",3,permissive
+K458N,V57,4,0.631,"[7500,Inf)",Rabbit,Rabbit,57,K458N,13,9,11,9,3,"[7500,Inf)",3,permissive
+K458N,V57,5,0.969,"[5000,7499]",Cat,Cat,57,K458N,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+K458N,V57,6,0.969,"[5000,7499]",Pig,Pig,57,K458N,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+K458N,V57,7,0.631,"[7500,Inf)",Puma,Puma,57,K458N,13,9,11,9,3,"[7500,Inf)",3,permissive
+K458N,V57,8,0.631,"[7500,Inf)",Pangolin,Pangolin,57,K458N,13,9,11,9,3,"[7500,Inf)",3,permissive
+K458N,V57,9,0.631,"[7500,Inf)",Dog,Dog,57,K458N,13,9,11,9,3,"[7500,Inf)",3,permissive
+K458N,V57,10,0.631,"[7500,Inf)",Horse,Horse,57,K458N,13,9,11,9,3,"[7500,Inf)",3,permissive
+K458N,V57,11,0.631,"[7500,Inf)",Camel,Camel,57,K458N,13,9,11,9,3,"[7500,Inf)",3,permissive
+K458N,V57,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,57,K458N,13,9,11,9,3,"[7500,Inf)",3,permissive
+K458N,V57,13,0.969,"[5000,7499]",Whale,Whale,57,K458N,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+K458N,V57,14,1,"[500,2499]",Ferret,Ferret,57,K458N,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+K458N,V57,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,57,K458N,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+K458N,V57,16,0.341,"[0,99]",Mouse,Mouse,57,K458N,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+K458N,V57,17,0.341,"[0,99]",Tupaia,Tupaia,57,K458N,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+K458Q,V56,1,0.631,"[7500,Inf)",Human,Human,56,K458Q,15,9,11,9,3,"[7500,Inf)",3,permissive
+K458Q,V56,2,0.631,"[7500,Inf)",Monkey,Monkey,56,K458Q,15,9,11,9,3,"[7500,Inf)",3,permissive
+K458Q,V56,3,0.631,"[7500,Inf)",Hamster,Hamster,56,K458Q,15,9,11,9,3,"[7500,Inf)",3,permissive
+K458Q,V56,4,0.631,"[7500,Inf)",Rabbit,Rabbit,56,K458Q,15,9,11,9,3,"[7500,Inf)",3,permissive
+K458Q,V56,5,0.969,"[5000,7499]",Cat,Cat,56,K458Q,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+K458Q,V56,6,0.631,"[7500,Inf)",Pig,Pig,56,K458Q,15,9,11,9,3,"[7500,Inf)",3,permissive
+K458Q,V56,7,0.631,"[7500,Inf)",Puma,Puma,56,K458Q,15,9,11,9,3,"[7500,Inf)",3,permissive
+K458Q,V56,8,0.969,"[5000,7499]",Pangolin,Pangolin,56,K458Q,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+K458Q,V56,9,0.631,"[7500,Inf)",Dog,Dog,56,K458Q,15,9,11,9,3,"[7500,Inf)",3,permissive
+K458Q,V56,10,0.631,"[7500,Inf)",Horse,Horse,56,K458Q,15,9,11,9,3,"[7500,Inf)",3,permissive
+K458Q,V56,11,0.631,"[7500,Inf)",Camel,Camel,56,K458Q,15,9,11,9,3,"[7500,Inf)",3,permissive
+K458Q,V56,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,56,K458Q,15,9,11,9,3,"[7500,Inf)",3,permissive
+K458Q,V56,13,0.969,"[5000,7499]",Whale,Whale,56,K458Q,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+K458Q,V56,14,1,"[500,2499]",Ferret,Ferret,56,K458Q,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+K458Q,V56,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,56,K458Q,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+K458Q,V56,16,0.341,"[0,99]",Mouse,Mouse,56,K458Q,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+K458Q,V56,17,0.78,"[100,499]",Tupaia,Tupaia,56,K458Q,15,9,11,9,3,"[7500,Inf)",3,non-permissive
+K462N,V59,1,0.631,"[7500,Inf)",Human,Human,59,K462N,13,11,11,9,5,"[7500,Inf)",5,permissive
+K462N,V59,2,0.631,"[7500,Inf)",Monkey,Monkey,59,K462N,13,11,11,9,5,"[7500,Inf)",5,permissive
+K462N,V59,3,0.631,"[7500,Inf)",Hamster,Hamster,59,K462N,13,11,11,9,5,"[7500,Inf)",5,permissive
+K462N,V59,4,0.631,"[7500,Inf)",Rabbit,Rabbit,59,K462N,13,11,11,9,5,"[7500,Inf)",5,permissive
+K462N,V59,5,0.969,"[5000,7499]",Cat,Cat,59,K462N,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+K462N,V59,6,0.631,"[7500,Inf)",Pig,Pig,59,K462N,13,11,11,9,5,"[7500,Inf)",5,permissive
+K462N,V59,7,0.631,"[7500,Inf)",Puma,Puma,59,K462N,13,11,11,9,5,"[7500,Inf)",5,permissive
+K462N,V59,8,0.969,"[5000,7499]",Pangolin,Pangolin,59,K462N,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+K462N,V59,9,0.631,"[7500,Inf)",Dog,Dog,59,K462N,13,11,11,9,5,"[7500,Inf)",5,permissive
+K462N,V59,10,0.631,"[7500,Inf)",Horse,Horse,59,K462N,13,11,11,9,5,"[7500,Inf)",5,permissive
+K462N,V59,11,0.631,"[7500,Inf)",Camel,Camel,59,K462N,13,11,11,9,5,"[7500,Inf)",5,permissive
+K462N,V59,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,59,K462N,13,11,11,9,5,"[7500,Inf)",5,permissive
+K462N,V59,13,0.631,"[7500,Inf)",Whale,Whale,59,K462N,13,11,11,9,5,"[7500,Inf)",5,permissive
+K462N,V59,14,0.996,"[2500,4999]",Ferret,Ferret,59,K462N,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+K462N,V59,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,59,K462N,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+K462N,V59,16,0.341,"[0,99]",Mouse,Mouse,59,K462N,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+K462N,V59,17,0.341,"[0,99]",Tupaia,Tupaia,59,K462N,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+K529E,V107,1,0.631,"[7500,Inf)",Human,Human,107,K529E,15,9,11,9,5,"[7500,Inf)",5,permissive
+K529E,V107,2,0.969,"[5000,7499]",Monkey,Monkey,107,K529E,15,9,11,9,5,"[7500,Inf)",5,non-permissive
+K529E,V107,3,0.969,"[5000,7499]",Hamster,Hamster,107,K529E,15,9,11,9,5,"[7500,Inf)",5,non-permissive
+K529E,V107,4,0.631,"[7500,Inf)",Rabbit,Rabbit,107,K529E,15,9,11,9,5,"[7500,Inf)",5,permissive
+K529E,V107,5,0.969,"[5000,7499]",Cat,Cat,107,K529E,15,9,11,9,5,"[7500,Inf)",5,non-permissive
+K529E,V107,6,0.969,"[5000,7499]",Pig,Pig,107,K529E,15,9,11,9,5,"[7500,Inf)",5,non-permissive
+K529E,V107,7,0.631,"[7500,Inf)",Puma,Puma,107,K529E,15,9,11,9,5,"[7500,Inf)",5,permissive
+K529E,V107,8,0.969,"[5000,7499]",Pangolin,Pangolin,107,K529E,15,9,11,9,5,"[7500,Inf)",5,non-permissive
+K529E,V107,9,0.631,"[7500,Inf)",Dog,Dog,107,K529E,15,9,11,9,5,"[7500,Inf)",5,permissive
+K529E,V107,10,0.969,"[5000,7499]",Horse,Horse,107,K529E,15,9,11,9,5,"[7500,Inf)",5,non-permissive
+K529E,V107,11,0.631,"[7500,Inf)",Camel,Camel,107,K529E,15,9,11,9,5,"[7500,Inf)",5,permissive
+K529E,V107,12,0.969,"[5000,7499]",Sea Lion,Sea Lion,107,K529E,15,9,11,9,5,"[7500,Inf)",5,non-permissive
+K529E,V107,13,0.631,"[7500,Inf)",Whale,Whale,107,K529E,15,9,11,9,5,"[7500,Inf)",5,permissive
+K529E,V107,14,1,"[500,2499]",Ferret,Ferret,107,K529E,15,9,11,9,5,"[7500,Inf)",5,non-permissive
+K529E,V107,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,107,K529E,15,9,11,9,5,"[7500,Inf)",5,non-permissive
+K529E,V107,16,0.341,"[0,99]",Mouse,Mouse,107,K529E,15,9,11,9,5,"[7500,Inf)",5,non-permissive
+K529E,V107,17,0.78,"[100,499]",Tupaia,Tupaia,107,K529E,15,9,11,9,5,"[7500,Inf)",5,non-permissive
+K529M,V106,1,0.631,"[7500,Inf)",Human,Human,106,K529M,13,11,13,9,1,"[7500,Inf)",1,permissive
+K529M,V106,2,0.969,"[5000,7499]",Monkey,Monkey,106,K529M,13,11,13,9,1,"[7500,Inf)",1,non-permissive
+K529M,V106,3,0.631,"[7500,Inf)",Hamster,Hamster,106,K529M,13,11,13,9,1,"[7500,Inf)",1,permissive
+K529M,V106,4,0.969,"[5000,7499]",Rabbit,Rabbit,106,K529M,13,11,13,9,1,"[7500,Inf)",1,non-permissive
+K529M,V106,5,0.969,"[5000,7499]",Cat,Cat,106,K529M,13,11,13,9,1,"[7500,Inf)",1,non-permissive
+K529M,V106,6,0.631,"[7500,Inf)",Pig,Pig,106,K529M,13,11,13,9,1,"[7500,Inf)",1,permissive
+K529M,V106,7,0.631,"[7500,Inf)",Puma,Puma,106,K529M,13,11,13,9,1,"[7500,Inf)",1,permissive
+K529M,V106,8,0.969,"[5000,7499]",Pangolin,Pangolin,106,K529M,13,11,13,9,1,"[7500,Inf)",1,non-permissive
+K529M,V106,9,0.631,"[7500,Inf)",Dog,Dog,106,K529M,13,11,13,9,1,"[7500,Inf)",1,permissive
+K529M,V106,10,0.969,"[5000,7499]",Horse,Horse,106,K529M,13,11,13,9,1,"[7500,Inf)",1,non-permissive
+K529M,V106,11,0.631,"[7500,Inf)",Camel,Camel,106,K529M,13,11,13,9,1,"[7500,Inf)",1,permissive
+K529M,V106,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,106,K529M,13,11,13,9,1,"[7500,Inf)",1,permissive
+K529M,V106,13,0.631,"[7500,Inf)",Whale,Whale,106,K529M,13,11,13,9,1,"[7500,Inf)",1,permissive
+K529M,V106,14,0.996,"[2500,4999]",Ferret,Ferret,106,K529M,13,11,13,9,1,"[7500,Inf)",1,non-permissive
+K529M,V106,15,1,"[500,2499]",Horseshoe bat,Horseshoe bat,106,K529M,13,11,13,9,1,"[7500,Inf)",1,non-permissive
+K529M,V106,16,0.341,"[0,99]",Mouse,Mouse,106,K529M,13,11,13,9,1,"[7500,Inf)",1,non-permissive
+K529M,V106,17,0.341,"[0,99]",Tupaia,Tupaia,106,K529M,13,11,13,9,1,"[7500,Inf)",1,non-permissive
+L441I,V43,1,0.631,"[7500,Inf)",Human,Human,43,L441I,15,11,11,9,1,"[7500,Inf)",1,permissive
+L441I,V43,2,0.631,"[7500,Inf)",Monkey,Monkey,43,L441I,15,11,11,9,1,"[7500,Inf)",1,permissive
+L441I,V43,3,0.631,"[7500,Inf)",Hamster,Hamster,43,L441I,15,11,11,9,1,"[7500,Inf)",1,permissive
+L441I,V43,4,0.969,"[5000,7499]",Rabbit,Rabbit,43,L441I,15,11,11,9,1,"[7500,Inf)",1,non-permissive
+L441I,V43,5,0.969,"[5000,7499]",Cat,Cat,43,L441I,15,11,11,9,1,"[7500,Inf)",1,non-permissive
+L441I,V43,6,0.631,"[7500,Inf)",Pig,Pig,43,L441I,15,11,11,9,1,"[7500,Inf)",1,permissive
+L441I,V43,7,0.631,"[7500,Inf)",Puma,Puma,43,L441I,15,11,11,9,1,"[7500,Inf)",1,permissive
+L441I,V43,8,0.969,"[5000,7499]",Pangolin,Pangolin,43,L441I,15,11,11,9,1,"[7500,Inf)",1,non-permissive
+L441I,V43,9,0.631,"[7500,Inf)",Dog,Dog,43,L441I,15,11,11,9,1,"[7500,Inf)",1,permissive
+L441I,V43,10,0.631,"[7500,Inf)",Horse,Horse,43,L441I,15,11,11,9,1,"[7500,Inf)",1,permissive
+L441I,V43,11,0.631,"[7500,Inf)",Camel,Camel,43,L441I,15,11,11,9,1,"[7500,Inf)",1,permissive
+L441I,V43,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,43,L441I,15,11,11,9,1,"[7500,Inf)",1,permissive
+L441I,V43,13,0.969,"[5000,7499]",Whale,Whale,43,L441I,15,11,11,9,1,"[7500,Inf)",1,non-permissive
+L441I,V43,14,0.996,"[2500,4999]",Ferret,Ferret,43,L441I,15,11,11,9,1,"[7500,Inf)",1,non-permissive
+L441I,V43,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,43,L441I,15,11,11,9,1,"[7500,Inf)",1,non-permissive
+L441I,V43,16,0.341,"[0,99]",Mouse,Mouse,43,L441I,15,11,11,9,1,"[7500,Inf)",1,non-permissive
+L441I,V43,17,0.78,"[100,499]",Tupaia,Tupaia,43,L441I,15,11,11,9,1,"[7500,Inf)",1,non-permissive
+L452R,V52,1,0.631,"[7500,Inf)",Human,Human,52,L452R,,11,11,9,1,"[7500,Inf)",1,permissive
+L452R,V52,2,0.631,"[7500,Inf)",Monkey,Monkey,52,L452R,,11,11,9,1,"[7500,Inf)",1,permissive
+L452R,V52,3,0.631,"[7500,Inf)",Hamster,Hamster,52,L452R,,11,11,9,1,"[7500,Inf)",1,permissive
+L452R,V52,4,0.969,"[5000,7499]",Rabbit,Rabbit,52,L452R,,11,11,9,1,"[7500,Inf)",1,non-permissive
+L452R,V52,5,0.969,"[5000,7499]",Cat,Cat,52,L452R,,11,11,9,1,"[7500,Inf)",1,non-permissive
+L452R,V52,6,0.631,"[7500,Inf)",Pig,Pig,52,L452R,,11,11,9,1,"[7500,Inf)",1,permissive
+L452R,V52,7,0.631,"[7500,Inf)",Puma,Puma,52,L452R,,11,11,9,1,"[7500,Inf)",1,permissive
+L452R,V52,8,0.969,"[5000,7499]",Pangolin,Pangolin,52,L452R,,11,11,9,1,"[7500,Inf)",1,non-permissive
+L452R,V52,9,0.631,"[7500,Inf)",Dog,Dog,52,L452R,,11,11,9,1,"[7500,Inf)",1,permissive
+L452R,V52,10,0.969,"[5000,7499]",Horse,Horse,52,L452R,,11,11,9,1,"[7500,Inf)",1,non-permissive
+L452R,V52,11,0.631,"[7500,Inf)",Camel,Camel,52,L452R,,11,11,9,1,"[7500,Inf)",1,permissive
+L452R,V52,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,52,L452R,,11,11,9,1,"[7500,Inf)",1,permissive
+L452R,V52,13,0.996,"[2500,4999]",Whale,Whale,52,L452R,,11,11,9,1,"[7500,Inf)",1,non-permissive
+L452R,V52,14,0.969,"[5000,7499]",Ferret,Ferret,52,L452R,,11,11,9,1,"[7500,Inf)",1,non-permissive
+L452R,V52,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,52,L452R,,11,11,9,1,"[7500,Inf)",1,non-permissive
+L452R,V52,16,0.78,"[100,499]",Mouse,Mouse,52,L452R,,11,11,9,1,"[7500,Inf)",1,non-permissive
+L452R,V52,17,0.78,"[100,499]",Tupaia,Tupaia,52,L452R,,11,11,9,1,"[7500,Inf)",1,non-permissive
+L455F,V54,1,0.631,"[7500,Inf)",Human,Human,54,L455F,11,11,11,11,3,"[7500,Inf)",3,permissive
+L455F,V54,2,0.631,"[7500,Inf)",Monkey,Monkey,54,L455F,11,11,11,11,3,"[7500,Inf)",3,permissive
+L455F,V54,3,0.631,"[7500,Inf)",Hamster,Hamster,54,L455F,11,11,11,11,3,"[7500,Inf)",3,permissive
+L455F,V54,4,0.631,"[7500,Inf)",Rabbit,Rabbit,54,L455F,11,11,11,11,3,"[7500,Inf)",3,permissive
+L455F,V54,5,0.969,"[5000,7499]",Cat,Cat,54,L455F,11,11,11,11,3,"[7500,Inf)",3,non-permissive
+L455F,V54,6,0.969,"[5000,7499]",Pig,Pig,54,L455F,11,11,11,11,3,"[7500,Inf)",3,non-permissive
+L455F,V54,7,0.631,"[7500,Inf)",Puma,Puma,54,L455F,11,11,11,11,3,"[7500,Inf)",3,permissive
+L455F,V54,8,0.969,"[5000,7499]",Pangolin,Pangolin,54,L455F,11,11,11,11,3,"[7500,Inf)",3,non-permissive
+L455F,V54,9,0.631,"[7500,Inf)",Dog,Dog,54,L455F,11,11,11,11,3,"[7500,Inf)",3,permissive
+L455F,V54,10,0.969,"[5000,7499]",Horse,Horse,54,L455F,11,11,11,11,3,"[7500,Inf)",3,non-permissive
+L455F,V54,11,0.631,"[7500,Inf)",Camel,Camel,54,L455F,11,11,11,11,3,"[7500,Inf)",3,permissive
+L455F,V54,12,0.969,"[5000,7499]",Sea Lion,Sea Lion,54,L455F,11,11,11,11,3,"[7500,Inf)",3,non-permissive
+L455F,V54,13,0.969,"[5000,7499]",Whale,Whale,54,L455F,11,11,11,11,3,"[7500,Inf)",3,non-permissive
+L455F,V54,14,0.969,"[5000,7499]",Ferret,Ferret,54,L455F,11,11,11,11,3,"[7500,Inf)",3,non-permissive
+L455F,V54,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,54,L455F,11,11,11,11,3,"[7500,Inf)",3,non-permissive
+L455F,V54,16,0.341,"[0,99]",Mouse,Mouse,54,L455F,11,11,11,11,3,"[7500,Inf)",3,non-permissive
+L455F,V54,17,0.341,"[0,99]",Tupaia,Tupaia,54,L455F,11,11,11,11,3,"[7500,Inf)",3,non-permissive
+L518I,V96,1,0.631,"[7500,Inf)",Human,Human,96,L518I,15,11,11,9,3,"[7500,Inf)",3,permissive
+L518I,V96,2,0.631,"[7500,Inf)",Monkey,Monkey,96,L518I,15,11,11,9,3,"[7500,Inf)",3,permissive
+L518I,V96,3,0.631,"[7500,Inf)",Hamster,Hamster,96,L518I,15,11,11,9,3,"[7500,Inf)",3,permissive
+L518I,V96,4,0.631,"[7500,Inf)",Rabbit,Rabbit,96,L518I,15,11,11,9,3,"[7500,Inf)",3,permissive
+L518I,V96,5,0.969,"[5000,7499]",Cat,Cat,96,L518I,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+L518I,V96,6,0.969,"[5000,7499]",Pig,Pig,96,L518I,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+L518I,V96,7,0.631,"[7500,Inf)",Puma,Puma,96,L518I,15,11,11,9,3,"[7500,Inf)",3,permissive
+L518I,V96,8,0.969,"[5000,7499]",Pangolin,Pangolin,96,L518I,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+L518I,V96,9,0.631,"[7500,Inf)",Dog,Dog,96,L518I,15,11,11,9,3,"[7500,Inf)",3,permissive
+L518I,V96,10,0.631,"[7500,Inf)",Horse,Horse,96,L518I,15,11,11,9,3,"[7500,Inf)",3,permissive
+L518I,V96,11,0.631,"[7500,Inf)",Camel,Camel,96,L518I,15,11,11,9,3,"[7500,Inf)",3,permissive
+L518I,V96,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,96,L518I,15,11,11,9,3,"[7500,Inf)",3,permissive
+L518I,V96,13,0.631,"[7500,Inf)",Whale,Whale,96,L518I,15,11,11,9,3,"[7500,Inf)",3,permissive
+L518I,V96,14,0.996,"[2500,4999]",Ferret,Ferret,96,L518I,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+L518I,V96,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,96,L518I,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+L518I,V96,16,0.341,"[0,99]",Mouse,Mouse,96,L518I,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+L518I,V96,17,0.78,"[100,499]",Tupaia,Tupaia,96,L518I,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+N354D,V18,1,0.631,"[7500,Inf)",Human,Human,18,N354D,15,11,11,9,5,"[7500,Inf)",5,permissive
+N354D,V18,2,0.631,"[7500,Inf)",Monkey,Monkey,18,N354D,15,11,11,9,5,"[7500,Inf)",5,permissive
+N354D,V18,3,0.631,"[7500,Inf)",Hamster,Hamster,18,N354D,15,11,11,9,5,"[7500,Inf)",5,permissive
+N354D,V18,4,0.631,"[7500,Inf)",Rabbit,Rabbit,18,N354D,15,11,11,9,5,"[7500,Inf)",5,permissive
+N354D,V18,5,0.969,"[5000,7499]",Cat,Cat,18,N354D,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+N354D,V18,6,0.631,"[7500,Inf)",Pig,Pig,18,N354D,15,11,11,9,5,"[7500,Inf)",5,permissive
+N354D,V18,7,0.631,"[7500,Inf)",Puma,Puma,18,N354D,15,11,11,9,5,"[7500,Inf)",5,permissive
+N354D,V18,8,0.969,"[5000,7499]",Pangolin,Pangolin,18,N354D,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+N354D,V18,9,0.631,"[7500,Inf)",Dog,Dog,18,N354D,15,11,11,9,5,"[7500,Inf)",5,permissive
+N354D,V18,10,0.631,"[7500,Inf)",Horse,Horse,18,N354D,15,11,11,9,5,"[7500,Inf)",5,permissive
+N354D,V18,11,0.631,"[7500,Inf)",Camel,Camel,18,N354D,15,11,11,9,5,"[7500,Inf)",5,permissive
+N354D,V18,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,18,N354D,15,11,11,9,5,"[7500,Inf)",5,permissive
+N354D,V18,13,0.631,"[7500,Inf)",Whale,Whale,18,N354D,15,11,11,9,5,"[7500,Inf)",5,permissive
+N354D,V18,14,0.996,"[2500,4999]",Ferret,Ferret,18,N354D,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+N354D,V18,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,18,N354D,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+N354D,V18,16,0.341,"[0,99]",Mouse,Mouse,18,N354D,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+N354D,V18,17,0.78,"[100,499]",Tupaia,Tupaia,18,N354D,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+N354K,V20,1,0.631,"[7500,Inf)",Human,Human,20,N354K,13,11,11,9,3,"[7500,Inf)",3,permissive
+N354K,V20,2,0.631,"[7500,Inf)",Monkey,Monkey,20,N354K,13,11,11,9,3,"[7500,Inf)",3,permissive
+N354K,V20,3,0.631,"[7500,Inf)",Hamster,Hamster,20,N354K,13,11,11,9,3,"[7500,Inf)",3,permissive
+N354K,V20,4,0.631,"[7500,Inf)",Rabbit,Rabbit,20,N354K,13,11,11,9,3,"[7500,Inf)",3,permissive
+N354K,V20,5,0.969,"[5000,7499]",Cat,Cat,20,N354K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+N354K,V20,6,0.631,"[7500,Inf)",Pig,Pig,20,N354K,13,11,11,9,3,"[7500,Inf)",3,permissive
+N354K,V20,7,0.631,"[7500,Inf)",Puma,Puma,20,N354K,13,11,11,9,3,"[7500,Inf)",3,permissive
+N354K,V20,8,0.969,"[5000,7499]",Pangolin,Pangolin,20,N354K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+N354K,V20,9,0.631,"[7500,Inf)",Dog,Dog,20,N354K,13,11,11,9,3,"[7500,Inf)",3,permissive
+N354K,V20,10,0.631,"[7500,Inf)",Horse,Horse,20,N354K,13,11,11,9,3,"[7500,Inf)",3,permissive
+N354K,V20,11,0.631,"[7500,Inf)",Camel,Camel,20,N354K,13,11,11,9,3,"[7500,Inf)",3,permissive
+N354K,V20,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,20,N354K,13,11,11,9,3,"[7500,Inf)",3,permissive
+N354K,V20,13,0.969,"[5000,7499]",Whale,Whale,20,N354K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+N354K,V20,14,0.996,"[2500,4999]",Ferret,Ferret,20,N354K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+N354K,V20,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,20,N354K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+N354K,V20,16,0.341,"[0,99]",Mouse,Mouse,20,N354K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+N354K,V20,17,0.341,"[0,99]",Tupaia,Tupaia,20,N354K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+N354S,V19,1,0.969,"[5000,7499]",Human,Human,19,N354S,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+N354S,V19,2,0.631,"[7500,Inf)",Monkey,Monkey,19,N354S,15,11,11,11,3,"[7500,Inf)",3,permissive
+N354S,V19,3,0.631,"[7500,Inf)",Hamster,Hamster,19,N354S,15,11,11,11,3,"[7500,Inf)",3,permissive
+N354S,V19,4,0.631,"[7500,Inf)",Rabbit,Rabbit,19,N354S,15,11,11,11,3,"[7500,Inf)",3,permissive
+N354S,V19,5,0.969,"[5000,7499]",Cat,Cat,19,N354S,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+N354S,V19,6,0.631,"[7500,Inf)",Pig,Pig,19,N354S,15,11,11,11,3,"[7500,Inf)",3,permissive
+N354S,V19,7,0.631,"[7500,Inf)",Puma,Puma,19,N354S,15,11,11,11,3,"[7500,Inf)",3,permissive
+N354S,V19,8,0.969,"[5000,7499]",Pangolin,Pangolin,19,N354S,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+N354S,V19,9,0.631,"[7500,Inf)",Dog,Dog,19,N354S,15,11,11,11,3,"[7500,Inf)",3,permissive
+N354S,V19,10,0.631,"[7500,Inf)",Horse,Horse,19,N354S,15,11,11,11,3,"[7500,Inf)",3,permissive
+N354S,V19,11,0.631,"[7500,Inf)",Camel,Camel,19,N354S,15,11,11,11,3,"[7500,Inf)",3,permissive
+N354S,V19,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,19,N354S,15,11,11,11,3,"[7500,Inf)",3,permissive
+N354S,V19,13,0.631,"[7500,Inf)",Whale,Whale,19,N354S,15,11,11,11,3,"[7500,Inf)",3,permissive
+N354S,V19,14,0.969,"[5000,7499]",Ferret,Ferret,19,N354S,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+N354S,V19,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,19,N354S,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+N354S,V19,16,0.341,"[0,99]",Mouse,Mouse,19,N354S,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+N354S,V19,17,0.78,"[100,499]",Tupaia,Tupaia,19,N354S,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+N370K,V23,1,0.631,"[7500,Inf)",Human,Human,23,N370K,13,11,11,9,1,"[7500,Inf)",1,permissive
+N370K,V23,2,0.631,"[7500,Inf)",Monkey,Monkey,23,N370K,13,11,11,9,1,"[7500,Inf)",1,permissive
+N370K,V23,3,0.631,"[7500,Inf)",Hamster,Hamster,23,N370K,13,11,11,9,1,"[7500,Inf)",1,permissive
+N370K,V23,4,0.631,"[7500,Inf)",Rabbit,Rabbit,23,N370K,13,11,11,9,1,"[7500,Inf)",1,permissive
+N370K,V23,5,0.969,"[5000,7499]",Cat,Cat,23,N370K,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+N370K,V23,6,0.631,"[7500,Inf)",Pig,Pig,23,N370K,13,11,11,9,1,"[7500,Inf)",1,permissive
+N370K,V23,7,0.631,"[7500,Inf)",Puma,Puma,23,N370K,13,11,11,9,1,"[7500,Inf)",1,permissive
+N370K,V23,8,0.969,"[5000,7499]",Pangolin,Pangolin,23,N370K,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+N370K,V23,9,0.631,"[7500,Inf)",Dog,Dog,23,N370K,13,11,11,9,1,"[7500,Inf)",1,permissive
+N370K,V23,10,0.631,"[7500,Inf)",Horse,Horse,23,N370K,13,11,11,9,1,"[7500,Inf)",1,permissive
+N370K,V23,11,0.969,"[5000,7499]",Camel,Camel,23,N370K,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+N370K,V23,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,23,N370K,13,11,11,9,1,"[7500,Inf)",1,permissive
+N370K,V23,13,0.996,"[2500,4999]",Whale,Whale,23,N370K,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+N370K,V23,14,0.969,"[5000,7499]",Ferret,Ferret,23,N370K,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+N370K,V23,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,23,N370K,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+N370K,V23,16,0.341,"[0,99]",Mouse,Mouse,23,N370K,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+N370K,V23,17,0.78,"[100,499]",Tupaia,Tupaia,23,N370K,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+N370S,V24,1,0.631,"[7500,Inf)",Human,Human,24,N370S,13,11,11,9,1,"[7500,Inf)",1,permissive
+N370S,V24,2,0.631,"[7500,Inf)",Monkey,Monkey,24,N370S,13,11,11,9,1,"[7500,Inf)",1,permissive
+N370S,V24,3,0.631,"[7500,Inf)",Hamster,Hamster,24,N370S,13,11,11,9,1,"[7500,Inf)",1,permissive
+N370S,V24,4,0.631,"[7500,Inf)",Rabbit,Rabbit,24,N370S,13,11,11,9,1,"[7500,Inf)",1,permissive
+N370S,V24,5,0.969,"[5000,7499]",Cat,Cat,24,N370S,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+N370S,V24,6,0.631,"[7500,Inf)",Pig,Pig,24,N370S,13,11,11,9,1,"[7500,Inf)",1,permissive
+N370S,V24,7,0.631,"[7500,Inf)",Puma,Puma,24,N370S,13,11,11,9,1,"[7500,Inf)",1,permissive
+N370S,V24,8,0.969,"[5000,7499]",Pangolin,Pangolin,24,N370S,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+N370S,V24,9,0.631,"[7500,Inf)",Dog,Dog,24,N370S,13,11,11,9,1,"[7500,Inf)",1,permissive
+N370S,V24,10,0.631,"[7500,Inf)",Horse,Horse,24,N370S,13,11,11,9,1,"[7500,Inf)",1,permissive
+N370S,V24,11,0.969,"[5000,7499]",Camel,Camel,24,N370S,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+N370S,V24,12,0.969,"[5000,7499]",Sea Lion,Sea Lion,24,N370S,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+N370S,V24,13,0.969,"[5000,7499]",Whale,Whale,24,N370S,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+N370S,V24,14,0.996,"[2500,4999]",Ferret,Ferret,24,N370S,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+N370S,V24,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,24,N370S,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+N370S,V24,16,0.341,"[0,99]",Mouse,Mouse,24,N370S,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+N370S,V24,17,0.78,"[100,499]",Tupaia,Tupaia,24,N370S,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+N439K,V41,1,0.631,"[7500,Inf)",Human,Human,41,N439K,11,11,11,11,3,"[7500,Inf)",3,permissive
+N439K,V41,2,0.631,"[7500,Inf)",Monkey,Monkey,41,N439K,11,11,11,11,3,"[7500,Inf)",3,permissive
+N439K,V41,3,0.631,"[7500,Inf)",Hamster,Hamster,41,N439K,11,11,11,11,3,"[7500,Inf)",3,permissive
+N439K,V41,4,0.631,"[7500,Inf)",Rabbit,Rabbit,41,N439K,11,11,11,11,3,"[7500,Inf)",3,permissive
+N439K,V41,5,0.631,"[7500,Inf)",Cat,Cat,41,N439K,11,11,11,11,3,"[7500,Inf)",3,permissive
+N439K,V41,6,0.631,"[7500,Inf)",Pig,Pig,41,N439K,11,11,11,11,3,"[7500,Inf)",3,permissive
+N439K,V41,7,0.631,"[7500,Inf)",Puma,Puma,41,N439K,11,11,11,11,3,"[7500,Inf)",3,permissive
+N439K,V41,8,0.969,"[5000,7499]",Pangolin,Pangolin,41,N439K,11,11,11,11,3,"[7500,Inf)",3,non-permissive
+N439K,V41,9,0.631,"[7500,Inf)",Dog,Dog,41,N439K,11,11,11,11,3,"[7500,Inf)",3,permissive
+N439K,V41,10,0.631,"[7500,Inf)",Horse,Horse,41,N439K,11,11,11,11,3,"[7500,Inf)",3,permissive
+N439K,V41,11,0.969,"[5000,7499]",Camel,Camel,41,N439K,11,11,11,11,3,"[7500,Inf)",3,non-permissive
+N439K,V41,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,41,N439K,11,11,11,11,3,"[7500,Inf)",3,permissive
+N439K,V41,13,0.969,"[5000,7499]",Whale,Whale,41,N439K,11,11,11,11,3,"[7500,Inf)",3,non-permissive
+N439K,V41,14,0.969,"[5000,7499]",Ferret,Ferret,41,N439K,11,11,11,11,3,"[7500,Inf)",3,non-permissive
+N439K,V41,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,41,N439K,11,11,11,11,3,"[7500,Inf)",3,non-permissive
+N439K,V41,16,0.341,"[0,99]",Mouse,Mouse,41,N439K,11,11,11,11,3,"[7500,Inf)",3,non-permissive
+N439K,V41,17,0.341,"[0,99]",Tupaia,Tupaia,41,N439K,11,11,11,11,3,"[7500,Inf)",3,non-permissive
+N440K,V42,1,0.631,"[7500,Inf)",Human,Human,42,N440K,13,11,13,11,1,"[7500,Inf)",1,permissive
+N440K,V42,2,0.631,"[7500,Inf)",Monkey,Monkey,42,N440K,13,11,13,11,1,"[7500,Inf)",1,permissive
+N440K,V42,3,0.631,"[7500,Inf)",Hamster,Hamster,42,N440K,13,11,13,11,1,"[7500,Inf)",1,permissive
+N440K,V42,4,0.631,"[7500,Inf)",Rabbit,Rabbit,42,N440K,13,11,13,11,1,"[7500,Inf)",1,permissive
+N440K,V42,5,0.969,"[5000,7499]",Cat,Cat,42,N440K,13,11,13,11,1,"[7500,Inf)",1,non-permissive
+N440K,V42,6,0.969,"[5000,7499]",Pig,Pig,42,N440K,13,11,13,11,1,"[7500,Inf)",1,non-permissive
+N440K,V42,7,0.631,"[7500,Inf)",Puma,Puma,42,N440K,13,11,13,11,1,"[7500,Inf)",1,permissive
+N440K,V42,8,0.969,"[5000,7499]",Pangolin,Pangolin,42,N440K,13,11,13,11,1,"[7500,Inf)",1,non-permissive
+N440K,V42,9,0.631,"[7500,Inf)",Dog,Dog,42,N440K,13,11,13,11,1,"[7500,Inf)",1,permissive
+N440K,V42,10,0.631,"[7500,Inf)",Horse,Horse,42,N440K,13,11,13,11,1,"[7500,Inf)",1,permissive
+N440K,V42,11,0.631,"[7500,Inf)",Camel,Camel,42,N440K,13,11,13,11,1,"[7500,Inf)",1,permissive
+N440K,V42,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,42,N440K,13,11,13,11,1,"[7500,Inf)",1,permissive
+N440K,V42,13,0.969,"[5000,7499]",Whale,Whale,42,N440K,13,11,13,11,1,"[7500,Inf)",1,non-permissive
+N440K,V42,14,0.969,"[5000,7499]",Ferret,Ferret,42,N440K,13,11,13,11,1,"[7500,Inf)",1,non-permissive
+N440K,V42,15,1,"[500,2499]",Horseshoe bat,Horseshoe bat,42,N440K,13,11,13,11,1,"[7500,Inf)",1,non-permissive
+N440K,V42,16,0.341,"[0,99]",Mouse,Mouse,42,N440K,13,11,13,11,1,"[7500,Inf)",1,non-permissive
+N440K,V42,17,0.341,"[0,99]",Tupaia,Tupaia,42,N440K,13,11,13,11,1,"[7500,Inf)",1,non-permissive
+N448D,V50,1,0.631,"[7500,Inf)",Human,Human,50,N448D,11,9,11,9,1,"[7500,Inf)",1,permissive
+N448D,V50,2,0.631,"[7500,Inf)",Monkey,Monkey,50,N448D,11,9,11,9,1,"[7500,Inf)",1,permissive
+N448D,V50,3,0.631,"[7500,Inf)",Hamster,Hamster,50,N448D,11,9,11,9,1,"[7500,Inf)",1,permissive
+N448D,V50,4,0.969,"[5000,7499]",Rabbit,Rabbit,50,N448D,11,9,11,9,1,"[7500,Inf)",1,non-permissive
+N448D,V50,5,0.969,"[5000,7499]",Cat,Cat,50,N448D,11,9,11,9,1,"[7500,Inf)",1,non-permissive
+N448D,V50,6,0.631,"[7500,Inf)",Pig,Pig,50,N448D,11,9,11,9,1,"[7500,Inf)",1,permissive
+N448D,V50,7,0.631,"[7500,Inf)",Puma,Puma,50,N448D,11,9,11,9,1,"[7500,Inf)",1,permissive
+N448D,V50,8,0.969,"[5000,7499]",Pangolin,Pangolin,50,N448D,11,9,11,9,1,"[7500,Inf)",1,non-permissive
+N448D,V50,9,0.631,"[7500,Inf)",Dog,Dog,50,N448D,11,9,11,9,1,"[7500,Inf)",1,permissive
+N448D,V50,10,0.631,"[7500,Inf)",Horse,Horse,50,N448D,11,9,11,9,1,"[7500,Inf)",1,permissive
+N448D,V50,11,0.969,"[5000,7499]",Camel,Camel,50,N448D,11,9,11,9,1,"[7500,Inf)",1,non-permissive
+N448D,V50,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,50,N448D,11,9,11,9,1,"[7500,Inf)",1,permissive
+N448D,V50,13,0.969,"[5000,7499]",Whale,Whale,50,N448D,11,9,11,9,1,"[7500,Inf)",1,non-permissive
+N448D,V50,14,1,"[500,2499]",Ferret,Ferret,50,N448D,11,9,11,9,1,"[7500,Inf)",1,non-permissive
+N448D,V50,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,50,N448D,11,9,11,9,1,"[7500,Inf)",1,non-permissive
+N448D,V50,16,0.341,"[0,99]",Mouse,Mouse,50,N448D,11,9,11,9,1,"[7500,Inf)",1,non-permissive
+N448D,V50,17,0.341,"[0,99]",Tupaia,Tupaia,50,N448D,11,9,11,9,1,"[7500,Inf)",1,non-permissive
+N448H,V48,1,0.969,"[5000,7499]",Human,Human,48,N448H,11,9,11,9,1,"[7500,Inf)",1,non-permissive
+N448H,V48,2,0.631,"[7500,Inf)",Monkey,Monkey,48,N448H,11,9,11,9,1,"[7500,Inf)",1,permissive
+N448H,V48,3,0.631,"[7500,Inf)",Hamster,Hamster,48,N448H,11,9,11,9,1,"[7500,Inf)",1,permissive
+N448H,V48,4,0.631,"[7500,Inf)",Rabbit,Rabbit,48,N448H,11,9,11,9,1,"[7500,Inf)",1,permissive
+N448H,V48,5,0.969,"[5000,7499]",Cat,Cat,48,N448H,11,9,11,9,1,"[7500,Inf)",1,non-permissive
+N448H,V48,6,0.631,"[7500,Inf)",Pig,Pig,48,N448H,11,9,11,9,1,"[7500,Inf)",1,permissive
+N448H,V48,7,0.631,"[7500,Inf)",Puma,Puma,48,N448H,11,9,11,9,1,"[7500,Inf)",1,permissive
+N448H,V48,8,0.969,"[5000,7499]",Pangolin,Pangolin,48,N448H,11,9,11,9,1,"[7500,Inf)",1,non-permissive
+N448H,V48,9,0.631,"[7500,Inf)",Dog,Dog,48,N448H,11,9,11,9,1,"[7500,Inf)",1,permissive
+N448H,V48,10,0.631,"[7500,Inf)",Horse,Horse,48,N448H,11,9,11,9,1,"[7500,Inf)",1,permissive
+N448H,V48,11,0.631,"[7500,Inf)",Camel,Camel,48,N448H,11,9,11,9,1,"[7500,Inf)",1,permissive
+N448H,V48,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,48,N448H,11,9,11,9,1,"[7500,Inf)",1,permissive
+N448H,V48,13,0.969,"[5000,7499]",Whale,Whale,48,N448H,11,9,11,9,1,"[7500,Inf)",1,non-permissive
+N448H,V48,14,1,"[500,2499]",Ferret,Ferret,48,N448H,11,9,11,9,1,"[7500,Inf)",1,non-permissive
+N448H,V48,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,48,N448H,11,9,11,9,1,"[7500,Inf)",1,non-permissive
+N448H,V48,16,0.341,"[0,99]",Mouse,Mouse,48,N448H,11,9,11,9,1,"[7500,Inf)",1,non-permissive
+N448H,V48,17,0.341,"[0,99]",Tupaia,Tupaia,48,N448H,11,9,11,9,1,"[7500,Inf)",1,non-permissive
+N448Y,V49,1,0.969,"[5000,7499]",Human,Human,49,N448Y,11,9,9,7,9,"[5000,7499]",7,permissive
+N448Y,V49,2,0.631,"[7500,Inf)",Monkey,Monkey,49,N448Y,11,9,9,7,9,"[5000,7499]",7,permissive
+N448Y,V49,3,0.969,"[5000,7499]",Hamster,Hamster,49,N448Y,11,9,9,7,9,"[5000,7499]",7,permissive
+N448Y,V49,4,0.969,"[5000,7499]",Rabbit,Rabbit,49,N448Y,11,9,9,7,9,"[5000,7499]",7,permissive
+N448Y,V49,5,0.969,"[5000,7499]",Cat,Cat,49,N448Y,11,9,9,7,9,"[5000,7499]",7,permissive
+N448Y,V49,6,0.631,"[7500,Inf)",Pig,Pig,49,N448Y,11,9,9,7,9,"[5000,7499]",7,permissive
+N448Y,V49,7,0.631,"[7500,Inf)",Puma,Puma,49,N448Y,11,9,9,7,9,"[5000,7499]",7,permissive
+N448Y,V49,8,0.969,"[5000,7499]",Pangolin,Pangolin,49,N448Y,11,9,9,7,9,"[5000,7499]",7,permissive
+N448Y,V49,9,0.631,"[7500,Inf)",Dog,Dog,49,N448Y,11,9,9,7,9,"[5000,7499]",7,permissive
+N448Y,V49,10,0.969,"[5000,7499]",Horse,Horse,49,N448Y,11,9,9,7,9,"[5000,7499]",7,permissive
+N448Y,V49,11,0.996,"[2500,4999]",Camel,Camel,49,N448Y,11,9,9,7,9,"[5000,7499]",7,non-permissive
+N448Y,V49,12,0.969,"[5000,7499]",Sea Lion,Sea Lion,49,N448Y,11,9,9,7,9,"[5000,7499]",7,permissive
+N448Y,V49,13,0.969,"[5000,7499]",Whale,Whale,49,N448Y,11,9,9,7,9,"[5000,7499]",7,permissive
+N448Y,V49,14,0.78,"[100,499]",Ferret,Ferret,49,N448Y,11,9,9,7,9,"[5000,7499]",7,non-permissive
+N448Y,V49,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,49,N448Y,11,9,9,7,9,"[5000,7499]",7,non-permissive
+N448Y,V49,16,0.341,"[0,99]",Mouse,Mouse,49,N448Y,11,9,9,7,9,"[5000,7499]",7,non-permissive
+N448Y,V49,17,0.341,"[0,99]",Tupaia,Tupaia,49,N448Y,11,9,9,7,9,"[5000,7499]",7,non-permissive
+N450K,V51,1,0.631,"[7500,Inf)",Human,Human,51,N450K,13,11,11,11,5,"[7500,Inf)",5,permissive
+N450K,V51,2,0.631,"[7500,Inf)",Monkey,Monkey,51,N450K,13,11,11,11,5,"[7500,Inf)",5,permissive
+N450K,V51,3,0.631,"[7500,Inf)",Hamster,Hamster,51,N450K,13,11,11,11,5,"[7500,Inf)",5,permissive
+N450K,V51,4,0.631,"[7500,Inf)",Rabbit,Rabbit,51,N450K,13,11,11,11,5,"[7500,Inf)",5,permissive
+N450K,V51,5,0.969,"[5000,7499]",Cat,Cat,51,N450K,13,11,11,11,5,"[7500,Inf)",5,non-permissive
+N450K,V51,6,0.631,"[7500,Inf)",Pig,Pig,51,N450K,13,11,11,11,5,"[7500,Inf)",5,permissive
+N450K,V51,7,0.631,"[7500,Inf)",Puma,Puma,51,N450K,13,11,11,11,5,"[7500,Inf)",5,permissive
+N450K,V51,8,0.969,"[5000,7499]",Pangolin,Pangolin,51,N450K,13,11,11,11,5,"[7500,Inf)",5,non-permissive
+N450K,V51,9,0.631,"[7500,Inf)",Dog,Dog,51,N450K,13,11,11,11,5,"[7500,Inf)",5,permissive
+N450K,V51,10,0.631,"[7500,Inf)",Horse,Horse,51,N450K,13,11,11,11,5,"[7500,Inf)",5,permissive
+N450K,V51,11,0.631,"[7500,Inf)",Camel,Camel,51,N450K,13,11,11,11,5,"[7500,Inf)",5,permissive
+N450K,V51,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,51,N450K,13,11,11,11,5,"[7500,Inf)",5,permissive
+N450K,V51,13,0.631,"[7500,Inf)",Whale,Whale,51,N450K,13,11,11,11,5,"[7500,Inf)",5,permissive
+N450K,V51,14,0.969,"[5000,7499]",Ferret,Ferret,51,N450K,13,11,11,11,5,"[7500,Inf)",5,non-permissive
+N450K,V51,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,51,N450K,13,11,11,11,5,"[7500,Inf)",5,non-permissive
+N450K,V51,16,0.341,"[0,99]",Mouse,Mouse,51,N450K,13,11,11,11,5,"[7500,Inf)",5,non-permissive
+N450K,V51,17,0.78,"[100,499]",Tupaia,Tupaia,51,N450K,13,11,11,11,5,"[7500,Inf)",5,non-permissive
+N481D,V79,1,0.631,"[7500,Inf)",Human,Human,79,N481D,15,11,11,7,3,"[7500,Inf)",3,permissive
+N481D,V79,2,0.631,"[7500,Inf)",Monkey,Monkey,79,N481D,15,11,11,7,3,"[7500,Inf)",3,permissive
+N481D,V79,3,0.631,"[7500,Inf)",Hamster,Hamster,79,N481D,15,11,11,7,3,"[7500,Inf)",3,permissive
+N481D,V79,4,0.631,"[7500,Inf)",Rabbit,Rabbit,79,N481D,15,11,11,7,3,"[7500,Inf)",3,permissive
+N481D,V79,5,0.969,"[5000,7499]",Cat,Cat,79,N481D,15,11,11,7,3,"[7500,Inf)",3,non-permissive
+N481D,V79,6,0.631,"[7500,Inf)",Pig,Pig,79,N481D,15,11,11,7,3,"[7500,Inf)",3,permissive
+N481D,V79,7,0.631,"[7500,Inf)",Puma,Puma,79,N481D,15,11,11,7,3,"[7500,Inf)",3,permissive
+N481D,V79,8,0.969,"[5000,7499]",Pangolin,Pangolin,79,N481D,15,11,11,7,3,"[7500,Inf)",3,non-permissive
+N481D,V79,9,0.631,"[7500,Inf)",Dog,Dog,79,N481D,15,11,11,7,3,"[7500,Inf)",3,permissive
+N481D,V79,10,0.631,"[7500,Inf)",Horse,Horse,79,N481D,15,11,11,7,3,"[7500,Inf)",3,permissive
+N481D,V79,11,0.631,"[7500,Inf)",Camel,Camel,79,N481D,15,11,11,7,3,"[7500,Inf)",3,permissive
+N481D,V79,12,0.996,"[2500,4999]",Sea Lion,Sea Lion,79,N481D,15,11,11,7,3,"[7500,Inf)",3,non-permissive
+N481D,V79,13,0.631,"[7500,Inf)",Whale,Whale,79,N481D,15,11,11,7,3,"[7500,Inf)",3,permissive
+N481D,V79,14,0.996,"[2500,4999]",Ferret,Ferret,79,N481D,15,11,11,7,3,"[7500,Inf)",3,non-permissive
+N481D,V79,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,79,N481D,15,11,11,7,3,"[7500,Inf)",3,non-permissive
+N481D,V79,16,0.341,"[0,99]",Mouse,Mouse,79,N481D,15,11,11,7,3,"[7500,Inf)",3,non-permissive
+N481D,V79,17,0.78,"[100,499]",Tupaia,Tupaia,79,N481D,15,11,11,7,3,"[7500,Inf)",3,non-permissive
+N501Y,V91,1,0.631,"[7500,Inf)",Human,Human,91,N501Y,15,13,13,13,9,"[7500,Inf)",9,permissive
+N501Y,V91,2,0.631,"[7500,Inf)",Monkey,Monkey,91,N501Y,15,13,13,13,9,"[7500,Inf)",9,permissive
+N501Y,V91,3,0.631,"[7500,Inf)",Hamster,Hamster,91,N501Y,15,13,13,13,9,"[7500,Inf)",9,permissive
+N501Y,V91,4,0.631,"[7500,Inf)",Rabbit,Rabbit,91,N501Y,15,13,13,13,9,"[7500,Inf)",9,permissive
+N501Y,V91,5,0.631,"[7500,Inf)",Cat,Cat,91,N501Y,15,13,13,13,9,"[7500,Inf)",9,permissive
+N501Y,V91,6,0.631,"[7500,Inf)",Pig,Pig,91,N501Y,15,13,13,13,9,"[7500,Inf)",9,permissive
+N501Y,V91,7,0.631,"[7500,Inf)",Puma,Puma,91,N501Y,15,13,13,13,9,"[7500,Inf)",9,permissive
+N501Y,V91,8,0.631,"[7500,Inf)",Pangolin,Pangolin,91,N501Y,15,13,13,13,9,"[7500,Inf)",9,permissive
+N501Y,V91,9,0.631,"[7500,Inf)",Dog,Dog,91,N501Y,15,13,13,13,9,"[7500,Inf)",9,permissive
+N501Y,V91,10,0.969,"[5000,7499]",Horse,Horse,91,N501Y,15,13,13,13,9,"[7500,Inf)",9,non-permissive
+N501Y,V91,11,0.631,"[7500,Inf)",Camel,Camel,91,N501Y,15,13,13,13,9,"[7500,Inf)",9,permissive
+N501Y,V91,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,91,N501Y,15,13,13,13,9,"[7500,Inf)",9,permissive
+N501Y,V91,13,0.631,"[7500,Inf)",Whale,Whale,91,N501Y,15,13,13,13,9,"[7500,Inf)",9,permissive
+N501Y,V91,14,0.969,"[5000,7499]",Ferret,Ferret,91,N501Y,15,13,13,13,9,"[7500,Inf)",9,non-permissive
+N501Y,V91,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,91,N501Y,15,13,13,13,9,"[7500,Inf)",9,non-permissive
+N501Y,V91,16,0.631,"[7500,Inf)",Mouse,Mouse,91,N501Y,15,13,13,13,9,"[7500,Inf)",9,permissive
+N501Y,V91,17,0.78,"[100,499]",Tupaia,Tupaia,91,N501Y,15,13,13,13,9,"[7500,Inf)",9,non-permissive
+N532K,V108,1,0.631,"[7500,Inf)",Human,Human,108,N532K,13,11,11,9,5,"[7500,Inf)",5,permissive
+N532K,V108,2,0.631,"[7500,Inf)",Monkey,Monkey,108,N532K,13,11,11,9,5,"[7500,Inf)",5,permissive
+N532K,V108,3,0.631,"[7500,Inf)",Hamster,Hamster,108,N532K,13,11,11,9,5,"[7500,Inf)",5,permissive
+N532K,V108,4,0.631,"[7500,Inf)",Rabbit,Rabbit,108,N532K,13,11,11,9,5,"[7500,Inf)",5,permissive
+N532K,V108,5,0.631,"[7500,Inf)",Cat,Cat,108,N532K,13,11,11,9,5,"[7500,Inf)",5,permissive
+N532K,V108,6,0.631,"[7500,Inf)",Pig,Pig,108,N532K,13,11,11,9,5,"[7500,Inf)",5,permissive
+N532K,V108,7,0.631,"[7500,Inf)",Puma,Puma,108,N532K,13,11,11,9,5,"[7500,Inf)",5,permissive
+N532K,V108,8,0.631,"[7500,Inf)",Pangolin,Pangolin,108,N532K,13,11,11,9,5,"[7500,Inf)",5,permissive
+N532K,V108,9,0.631,"[7500,Inf)",Dog,Dog,108,N532K,13,11,11,9,5,"[7500,Inf)",5,permissive
+N532K,V108,10,0.969,"[5000,7499]",Horse,Horse,108,N532K,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+N532K,V108,11,0.969,"[5000,7499]",Camel,Camel,108,N532K,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+N532K,V108,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,108,N532K,13,11,11,9,5,"[7500,Inf)",5,permissive
+N532K,V108,13,0.631,"[7500,Inf)",Whale,Whale,108,N532K,13,11,11,9,5,"[7500,Inf)",5,permissive
+N532K,V108,14,0.996,"[2500,4999]",Ferret,Ferret,108,N532K,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+N532K,V108,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,108,N532K,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+N532K,V108,16,0.78,"[100,499]",Mouse,Mouse,108,N532K,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+N532K,V108,17,0.341,"[0,99]",Tupaia,Tupaia,108,N532K,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+P330S,V8,1,0.631,"[7500,Inf)",Human,Human,8,P330S,15,11,11,11,5,"[7500,Inf)",5,permissive
+P330S,V8,2,0.631,"[7500,Inf)",Monkey,Monkey,8,P330S,15,11,11,11,5,"[7500,Inf)",5,permissive
+P330S,V8,3,0.631,"[7500,Inf)",Hamster,Hamster,8,P330S,15,11,11,11,5,"[7500,Inf)",5,permissive
+P330S,V8,4,0.631,"[7500,Inf)",Rabbit,Rabbit,8,P330S,15,11,11,11,5,"[7500,Inf)",5,permissive
+P330S,V8,5,0.631,"[7500,Inf)",Cat,Cat,8,P330S,15,11,11,11,5,"[7500,Inf)",5,permissive
+P330S,V8,6,0.631,"[7500,Inf)",Pig,Pig,8,P330S,15,11,11,11,5,"[7500,Inf)",5,permissive
+P330S,V8,7,0.631,"[7500,Inf)",Puma,Puma,8,P330S,15,11,11,11,5,"[7500,Inf)",5,permissive
+P330S,V8,8,0.969,"[5000,7499]",Pangolin,Pangolin,8,P330S,15,11,11,11,5,"[7500,Inf)",5,non-permissive
+P330S,V8,9,0.631,"[7500,Inf)",Dog,Dog,8,P330S,15,11,11,11,5,"[7500,Inf)",5,permissive
+P330S,V8,10,0.631,"[7500,Inf)",Horse,Horse,8,P330S,15,11,11,11,5,"[7500,Inf)",5,permissive
+P330S,V8,11,0.631,"[7500,Inf)",Camel,Camel,8,P330S,15,11,11,11,5,"[7500,Inf)",5,permissive
+P330S,V8,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,8,P330S,15,11,11,11,5,"[7500,Inf)",5,permissive
+P330S,V8,13,0.969,"[5000,7499]",Whale,Whale,8,P330S,15,11,11,11,5,"[7500,Inf)",5,non-permissive
+P330S,V8,14,0.969,"[5000,7499]",Ferret,Ferret,8,P330S,15,11,11,11,5,"[7500,Inf)",5,non-permissive
+P330S,V8,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,8,P330S,15,11,11,11,5,"[7500,Inf)",5,non-permissive
+P330S,V8,16,0.341,"[0,99]",Mouse,Mouse,8,P330S,15,11,11,11,5,"[7500,Inf)",5,non-permissive
+P330S,V8,17,0.78,"[100,499]",Tupaia,Tupaia,8,P330S,15,11,11,11,5,"[7500,Inf)",5,non-permissive
+P337R,V10,1,0.631,"[7500,Inf)",Human,Human,10,P337R,11,9,11,7,1,"[7500,Inf)",1,permissive
+P337R,V10,2,0.631,"[7500,Inf)",Monkey,Monkey,10,P337R,11,9,11,7,1,"[7500,Inf)",1,permissive
+P337R,V10,3,0.631,"[7500,Inf)",Hamster,Hamster,10,P337R,11,9,11,7,1,"[7500,Inf)",1,permissive
+P337R,V10,4,0.631,"[7500,Inf)",Rabbit,Rabbit,10,P337R,11,9,11,7,1,"[7500,Inf)",1,permissive
+P337R,V10,5,0.969,"[5000,7499]",Cat,Cat,10,P337R,11,9,11,7,1,"[7500,Inf)",1,non-permissive
+P337R,V10,6,0.631,"[7500,Inf)",Pig,Pig,10,P337R,11,9,11,7,1,"[7500,Inf)",1,permissive
+P337R,V10,7,0.631,"[7500,Inf)",Puma,Puma,10,P337R,11,9,11,7,1,"[7500,Inf)",1,permissive
+P337R,V10,8,0.969,"[5000,7499]",Pangolin,Pangolin,10,P337R,11,9,11,7,1,"[7500,Inf)",1,non-permissive
+P337R,V10,9,0.631,"[7500,Inf)",Dog,Dog,10,P337R,11,9,11,7,1,"[7500,Inf)",1,permissive
+P337R,V10,10,0.969,"[5000,7499]",Horse,Horse,10,P337R,11,9,11,7,1,"[7500,Inf)",1,non-permissive
+P337R,V10,11,0.969,"[5000,7499]",Camel,Camel,10,P337R,11,9,11,7,1,"[7500,Inf)",1,non-permissive
+P337R,V10,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,10,P337R,11,9,11,7,1,"[7500,Inf)",1,permissive
+P337R,V10,13,0.996,"[2500,4999]",Whale,Whale,10,P337R,11,9,11,7,1,"[7500,Inf)",1,non-permissive
+P337R,V10,14,1,"[500,2499]",Ferret,Ferret,10,P337R,11,9,11,7,1,"[7500,Inf)",1,non-permissive
+P337R,V10,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,10,P337R,11,9,11,7,1,"[7500,Inf)",1,non-permissive
+P337R,V10,16,0.341,"[0,99]",Mouse,Mouse,10,P337R,11,9,11,7,1,"[7500,Inf)",1,non-permissive
+P337R,V10,17,0.341,"[0,99]",Tupaia,Tupaia,10,P337R,11,9,11,7,1,"[7500,Inf)",1,non-permissive
+P337S,V9,1,0.631,"[7500,Inf)",Human,Human,9,P337S,,9,11,9,1,"[7500,Inf)",1,permissive
+P337S,V9,2,0.631,"[7500,Inf)",Monkey,Monkey,9,P337S,,9,11,9,1,"[7500,Inf)",1,permissive
+P337S,V9,3,0.631,"[7500,Inf)",Hamster,Hamster,9,P337S,,9,11,9,1,"[7500,Inf)",1,permissive
+P337S,V9,4,0.631,"[7500,Inf)",Rabbit,Rabbit,9,P337S,,9,11,9,1,"[7500,Inf)",1,permissive
+P337S,V9,5,0.969,"[5000,7499]",Cat,Cat,9,P337S,,9,11,9,1,"[7500,Inf)",1,non-permissive
+P337S,V9,6,0.969,"[5000,7499]",Pig,Pig,9,P337S,,9,11,9,1,"[7500,Inf)",1,non-permissive
+P337S,V9,7,0.631,"[7500,Inf)",Puma,Puma,9,P337S,,9,11,9,1,"[7500,Inf)",1,permissive
+P337S,V9,8,0.969,"[5000,7499]",Pangolin,Pangolin,9,P337S,,9,11,9,1,"[7500,Inf)",1,non-permissive
+P337S,V9,9,0.631,"[7500,Inf)",Dog,Dog,9,P337S,,9,11,9,1,"[7500,Inf)",1,permissive
+P337S,V9,10,0.631,"[7500,Inf)",Horse,Horse,9,P337S,,9,11,9,1,"[7500,Inf)",1,permissive
+P337S,V9,11,0.631,"[7500,Inf)",Camel,Camel,9,P337S,,9,11,9,1,"[7500,Inf)",1,permissive
+P337S,V9,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,9,P337S,,9,11,9,1,"[7500,Inf)",1,permissive
+P337S,V9,13,0.969,"[5000,7499]",Whale,Whale,9,P337S,,9,11,9,1,"[7500,Inf)",1,non-permissive
+P337S,V9,14,1,"[500,2499]",Ferret,Ferret,9,P337S,,9,11,9,1,"[7500,Inf)",1,non-permissive
+P337S,V9,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,9,P337S,,9,11,9,1,"[7500,Inf)",1,non-permissive
+P337S,V9,16,0.78,"[100,499]",Mouse,Mouse,9,P337S,,9,11,9,1,"[7500,Inf)",1,non-permissive
+P337S,V9,17,0.78,"[100,499]",Tupaia,Tupaia,9,P337S,,9,11,9,1,"[7500,Inf)",1,non-permissive
+P384I,V28,1,0.969,"[5000,7499]",Human,Human,28,P384I,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+P384I,V28,2,0.631,"[7500,Inf)",Monkey,Monkey,28,P384I,13,11,11,9,3,"[7500,Inf)",3,permissive
+P384I,V28,3,0.631,"[7500,Inf)",Hamster,Hamster,28,P384I,13,11,11,9,3,"[7500,Inf)",3,permissive
+P384I,V28,4,0.969,"[5000,7499]",Rabbit,Rabbit,28,P384I,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+P384I,V28,5,0.969,"[5000,7499]",Cat,Cat,28,P384I,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+P384I,V28,6,0.631,"[7500,Inf)",Pig,Pig,28,P384I,13,11,11,9,3,"[7500,Inf)",3,permissive
+P384I,V28,7,0.631,"[7500,Inf)",Puma,Puma,28,P384I,13,11,11,9,3,"[7500,Inf)",3,permissive
+P384I,V28,8,0.969,"[5000,7499]",Pangolin,Pangolin,28,P384I,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+P384I,V28,9,0.631,"[7500,Inf)",Dog,Dog,28,P384I,13,11,11,9,3,"[7500,Inf)",3,permissive
+P384I,V28,10,0.631,"[7500,Inf)",Horse,Horse,28,P384I,13,11,11,9,3,"[7500,Inf)",3,permissive
+P384I,V28,11,0.969,"[5000,7499]",Camel,Camel,28,P384I,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+P384I,V28,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,28,P384I,13,11,11,9,3,"[7500,Inf)",3,permissive
+P384I,V28,13,0.969,"[5000,7499]",Whale,Whale,28,P384I,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+P384I,V28,14,0.996,"[2500,4999]",Ferret,Ferret,28,P384I,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+P384I,V28,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,28,P384I,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+P384I,V28,16,0.341,"[0,99]",Mouse,Mouse,28,P384I,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+P384I,V28,17,0.341,"[0,99]",Tupaia,Tupaia,28,P384I,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+P384S,V27,1,0.969,"[5000,7499]",Human,Human,27,P384S,15,11,11,9,11,"[5000,7499]",9,permissive
+P384S,V27,2,0.969,"[5000,7499]",Monkey,Monkey,27,P384S,15,11,11,9,11,"[5000,7499]",9,permissive
+P384S,V27,3,0.969,"[5000,7499]",Hamster,Hamster,27,P384S,15,11,11,9,11,"[5000,7499]",9,permissive
+P384S,V27,4,0.969,"[5000,7499]",Rabbit,Rabbit,27,P384S,15,11,11,9,11,"[5000,7499]",9,permissive
+P384S,V27,5,0.969,"[5000,7499]",Cat,Cat,27,P384S,15,11,11,9,11,"[5000,7499]",9,permissive
+P384S,V27,6,0.631,"[7500,Inf)",Pig,Pig,27,P384S,15,11,11,9,11,"[5000,7499]",9,permissive
+P384S,V27,7,0.631,"[7500,Inf)",Puma,Puma,27,P384S,15,11,11,9,11,"[5000,7499]",9,permissive
+P384S,V27,8,0.969,"[5000,7499]",Pangolin,Pangolin,27,P384S,15,11,11,9,11,"[5000,7499]",9,permissive
+P384S,V27,9,0.969,"[5000,7499]",Dog,Dog,27,P384S,15,11,11,9,11,"[5000,7499]",9,permissive
+P384S,V27,10,0.969,"[5000,7499]",Horse,Horse,27,P384S,15,11,11,9,11,"[5000,7499]",9,permissive
+P384S,V27,11,0.631,"[7500,Inf)",Camel,Camel,27,P384S,15,11,11,9,11,"[5000,7499]",9,permissive
+P384S,V27,12,0.969,"[5000,7499]",Sea Lion,Sea Lion,27,P384S,15,11,11,9,11,"[5000,7499]",9,permissive
+P384S,V27,13,0.969,"[5000,7499]",Whale,Whale,27,P384S,15,11,11,9,11,"[5000,7499]",9,permissive
+P384S,V27,14,0.996,"[2500,4999]",Ferret,Ferret,27,P384S,15,11,11,9,11,"[5000,7499]",9,non-permissive
+P384S,V27,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,27,P384S,15,11,11,9,11,"[5000,7499]",9,non-permissive
+P384S,V27,16,0.341,"[0,99]",Mouse,Mouse,27,P384S,15,11,11,9,11,"[5000,7499]",9,non-permissive
+P384S,V27,17,0.78,"[100,499]",Tupaia,Tupaia,27,P384S,15,11,11,9,11,"[5000,7499]",9,non-permissive
+P463S,V60,1,0.969,"[5000,7499]",Human,Human,60,P463S,13,9,11,9,7,"[7500,Inf)",7,non-permissive
+P463S,V60,2,0.631,"[7500,Inf)",Monkey,Monkey,60,P463S,13,9,11,9,7,"[7500,Inf)",7,permissive
+P463S,V60,3,0.631,"[7500,Inf)",Hamster,Hamster,60,P463S,13,9,11,9,7,"[7500,Inf)",7,permissive
+P463S,V60,4,0.969,"[5000,7499]",Rabbit,Rabbit,60,P463S,13,9,11,9,7,"[7500,Inf)",7,non-permissive
+P463S,V60,5,0.969,"[5000,7499]",Cat,Cat,60,P463S,13,9,11,9,7,"[7500,Inf)",7,non-permissive
+P463S,V60,6,0.969,"[5000,7499]",Pig,Pig,60,P463S,13,9,11,9,7,"[7500,Inf)",7,non-permissive
+P463S,V60,7,0.631,"[7500,Inf)",Puma,Puma,60,P463S,13,9,11,9,7,"[7500,Inf)",7,permissive
+P463S,V60,8,0.969,"[5000,7499]",Pangolin,Pangolin,60,P463S,13,9,11,9,7,"[7500,Inf)",7,non-permissive
+P463S,V60,9,0.631,"[7500,Inf)",Dog,Dog,60,P463S,13,9,11,9,7,"[7500,Inf)",7,permissive
+P463S,V60,10,0.969,"[5000,7499]",Horse,Horse,60,P463S,13,9,11,9,7,"[7500,Inf)",7,non-permissive
+P463S,V60,11,0.631,"[7500,Inf)",Camel,Camel,60,P463S,13,9,11,9,7,"[7500,Inf)",7,permissive
+P463S,V60,12,0.969,"[5000,7499]",Sea Lion,Sea Lion,60,P463S,13,9,11,9,7,"[7500,Inf)",7,non-permissive
+P463S,V60,13,0.969,"[5000,7499]",Whale,Whale,60,P463S,13,9,11,9,7,"[7500,Inf)",7,non-permissive
+P463S,V60,14,1,"[500,2499]",Ferret,Ferret,60,P463S,13,9,11,9,7,"[7500,Inf)",7,non-permissive
+P463S,V60,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,60,P463S,13,9,11,9,7,"[7500,Inf)",7,non-permissive
+P463S,V60,16,0.341,"[0,99]",Mouse,Mouse,60,P463S,13,9,11,9,7,"[7500,Inf)",7,non-permissive
+P463S,V60,17,0.341,"[0,99]",Tupaia,Tupaia,60,P463S,13,9,11,9,7,"[7500,Inf)",7,non-permissive
+P479S,V78,1,0.969,"[5000,7499]",Human,Human,78,P479S,15,9,11,9,1,"[7500,Inf)",1,non-permissive
+P479S,V78,2,0.631,"[7500,Inf)",Monkey,Monkey,78,P479S,15,9,11,9,1,"[7500,Inf)",1,permissive
+P479S,V78,3,0.631,"[7500,Inf)",Hamster,Hamster,78,P479S,15,9,11,9,1,"[7500,Inf)",1,permissive
+P479S,V78,4,0.631,"[7500,Inf)",Rabbit,Rabbit,78,P479S,15,9,11,9,1,"[7500,Inf)",1,permissive
+P479S,V78,5,0.969,"[5000,7499]",Cat,Cat,78,P479S,15,9,11,9,1,"[7500,Inf)",1,non-permissive
+P479S,V78,6,0.631,"[7500,Inf)",Pig,Pig,78,P479S,15,9,11,9,1,"[7500,Inf)",1,permissive
+P479S,V78,7,0.631,"[7500,Inf)",Puma,Puma,78,P479S,15,9,11,9,1,"[7500,Inf)",1,permissive
+P479S,V78,8,0.969,"[5000,7499]",Pangolin,Pangolin,78,P479S,15,9,11,9,1,"[7500,Inf)",1,non-permissive
+P479S,V78,9,0.631,"[7500,Inf)",Dog,Dog,78,P479S,15,9,11,9,1,"[7500,Inf)",1,permissive
+P479S,V78,10,0.969,"[5000,7499]",Horse,Horse,78,P479S,15,9,11,9,1,"[7500,Inf)",1,non-permissive
+P479S,V78,11,0.631,"[7500,Inf)",Camel,Camel,78,P479S,15,9,11,9,1,"[7500,Inf)",1,permissive
+P479S,V78,12,0.969,"[5000,7499]",Sea Lion,Sea Lion,78,P479S,15,9,11,9,1,"[7500,Inf)",1,non-permissive
+P479S,V78,13,0.631,"[7500,Inf)",Whale,Whale,78,P479S,15,9,11,9,1,"[7500,Inf)",1,permissive
+P479S,V78,14,1,"[500,2499]",Ferret,Ferret,78,P479S,15,9,11,9,1,"[7500,Inf)",1,non-permissive
+P479S,V78,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,78,P479S,15,9,11,9,1,"[7500,Inf)",1,non-permissive
+P479S,V78,16,0.341,"[0,99]",Mouse,Mouse,78,P479S,15,9,11,9,1,"[7500,Inf)",1,non-permissive
+P479S,V78,17,0.78,"[100,499]",Tupaia,Tupaia,78,P479S,15,9,11,9,1,"[7500,Inf)",1,non-permissive
+P521R,V103,1,0.631,"[7500,Inf)",Human,Human,103,P521R,,11,13,11,5,"[7500,Inf)",5,permissive
+P521R,V103,2,0.631,"[7500,Inf)",Monkey,Monkey,103,P521R,,11,13,11,5,"[7500,Inf)",5,permissive
+P521R,V103,3,0.631,"[7500,Inf)",Hamster,Hamster,103,P521R,,11,13,11,5,"[7500,Inf)",5,permissive
+P521R,V103,4,0.631,"[7500,Inf)",Rabbit,Rabbit,103,P521R,,11,13,11,5,"[7500,Inf)",5,permissive
+P521R,V103,5,0.969,"[5000,7499]",Cat,Cat,103,P521R,,11,13,11,5,"[7500,Inf)",5,non-permissive
+P521R,V103,6,0.631,"[7500,Inf)",Pig,Pig,103,P521R,,11,13,11,5,"[7500,Inf)",5,permissive
+P521R,V103,7,0.631,"[7500,Inf)",Puma,Puma,103,P521R,,11,13,11,5,"[7500,Inf)",5,permissive
+P521R,V103,8,0.969,"[5000,7499]",Pangolin,Pangolin,103,P521R,,11,13,11,5,"[7500,Inf)",5,non-permissive
+P521R,V103,9,0.631,"[7500,Inf)",Dog,Dog,103,P521R,,11,13,11,5,"[7500,Inf)",5,permissive
+P521R,V103,10,0.631,"[7500,Inf)",Horse,Horse,103,P521R,,11,13,11,5,"[7500,Inf)",5,permissive
+P521R,V103,11,0.631,"[7500,Inf)",Camel,Camel,103,P521R,,11,13,11,5,"[7500,Inf)",5,permissive
+P521R,V103,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,103,P521R,,11,13,11,5,"[7500,Inf)",5,permissive
+P521R,V103,13,0.631,"[7500,Inf)",Whale,Whale,103,P521R,,11,13,11,5,"[7500,Inf)",5,permissive
+P521R,V103,14,0.969,"[5000,7499]",Ferret,Ferret,103,P521R,,11,13,11,5,"[7500,Inf)",5,non-permissive
+P521R,V103,15,1,"[500,2499]",Horseshoe bat,Horseshoe bat,103,P521R,,11,13,11,5,"[7500,Inf)",5,non-permissive
+P521R,V103,16,0.78,"[100,499]",Mouse,Mouse,103,P521R,,11,13,11,5,"[7500,Inf)",5,non-permissive
+P521R,V103,17,0.78,"[100,499]",Tupaia,Tupaia,103,P521R,,11,13,11,5,"[7500,Inf)",5,non-permissive
+P521S,V102,1,0.631,"[7500,Inf)",Human,Human,102,P521S,13,9,11,9,3,"[7500,Inf)",3,permissive
+P521S,V102,2,0.631,"[7500,Inf)",Monkey,Monkey,102,P521S,13,9,11,9,3,"[7500,Inf)",3,permissive
+P521S,V102,3,0.631,"[7500,Inf)",Hamster,Hamster,102,P521S,13,9,11,9,3,"[7500,Inf)",3,permissive
+P521S,V102,4,0.631,"[7500,Inf)",Rabbit,Rabbit,102,P521S,13,9,11,9,3,"[7500,Inf)",3,permissive
+P521S,V102,5,0.969,"[5000,7499]",Cat,Cat,102,P521S,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+P521S,V102,6,0.631,"[7500,Inf)",Pig,Pig,102,P521S,13,9,11,9,3,"[7500,Inf)",3,permissive
+P521S,V102,7,0.631,"[7500,Inf)",Puma,Puma,102,P521S,13,9,11,9,3,"[7500,Inf)",3,permissive
+P521S,V102,8,0.969,"[5000,7499]",Pangolin,Pangolin,102,P521S,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+P521S,V102,9,0.631,"[7500,Inf)",Dog,Dog,102,P521S,13,9,11,9,3,"[7500,Inf)",3,permissive
+P521S,V102,10,0.631,"[7500,Inf)",Horse,Horse,102,P521S,13,9,11,9,3,"[7500,Inf)",3,permissive
+P521S,V102,11,0.631,"[7500,Inf)",Camel,Camel,102,P521S,13,9,11,9,3,"[7500,Inf)",3,permissive
+P521S,V102,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,102,P521S,13,9,11,9,3,"[7500,Inf)",3,permissive
+P521S,V102,13,0.969,"[5000,7499]",Whale,Whale,102,P521S,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+P521S,V102,14,1,"[500,2499]",Ferret,Ferret,102,P521S,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+P521S,V102,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,102,P521S,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+P521S,V102,16,0.341,"[0,99]",Mouse,Mouse,102,P521S,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+P521S,V102,17,0.78,"[100,499]",Tupaia,Tupaia,102,P521S,13,9,11,9,3,"[7500,Inf)",3,non-permissive
+Q321L,V3,1,0.631,"[7500,Inf)",Human,Human,3,Q321L,13,11,11,7,1,"[7500,Inf)",1,permissive
+Q321L,V3,2,0.631,"[7500,Inf)",Monkey,Monkey,3,Q321L,13,11,11,7,1,"[7500,Inf)",1,permissive
+Q321L,V3,3,0.631,"[7500,Inf)",Hamster,Hamster,3,Q321L,13,11,11,7,1,"[7500,Inf)",1,permissive
+Q321L,V3,4,0.631,"[7500,Inf)",Rabbit,Rabbit,3,Q321L,13,11,11,7,1,"[7500,Inf)",1,permissive
+Q321L,V3,5,0.969,"[5000,7499]",Cat,Cat,3,Q321L,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+Q321L,V3,6,0.631,"[7500,Inf)",Pig,Pig,3,Q321L,13,11,11,7,1,"[7500,Inf)",1,permissive
+Q321L,V3,7,0.631,"[7500,Inf)",Puma,Puma,3,Q321L,13,11,11,7,1,"[7500,Inf)",1,permissive
+Q321L,V3,8,0.969,"[5000,7499]",Pangolin,Pangolin,3,Q321L,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+Q321L,V3,9,0.631,"[7500,Inf)",Dog,Dog,3,Q321L,13,11,11,7,1,"[7500,Inf)",1,permissive
+Q321L,V3,10,0.631,"[7500,Inf)",Horse,Horse,3,Q321L,13,11,11,7,1,"[7500,Inf)",1,permissive
+Q321L,V3,11,0.969,"[5000,7499]",Camel,Camel,3,Q321L,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+Q321L,V3,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,3,Q321L,13,11,11,7,1,"[7500,Inf)",1,permissive
+Q321L,V3,13,0.996,"[2500,4999]",Whale,Whale,3,Q321L,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+Q321L,V3,14,0.996,"[2500,4999]",Ferret,Ferret,3,Q321L,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+Q321L,V3,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,3,Q321L,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+Q321L,V3,16,0.341,"[0,99]",Mouse,Mouse,3,Q321L,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+Q321L,V3,17,0.78,"[100,499]",Tupaia,Tupaia,3,Q321L,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+Q414K,V36,1,0.631,"[7500,Inf)",Human,Human,36,Q414K,15,11,11,9,5,"[7500,Inf)",5,permissive
+Q414K,V36,2,0.631,"[7500,Inf)",Monkey,Monkey,36,Q414K,15,11,11,9,5,"[7500,Inf)",5,permissive
+Q414K,V36,3,0.631,"[7500,Inf)",Hamster,Hamster,36,Q414K,15,11,11,9,5,"[7500,Inf)",5,permissive
+Q414K,V36,4,0.631,"[7500,Inf)",Rabbit,Rabbit,36,Q414K,15,11,11,9,5,"[7500,Inf)",5,permissive
+Q414K,V36,5,0.969,"[5000,7499]",Cat,Cat,36,Q414K,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+Q414K,V36,6,0.631,"[7500,Inf)",Pig,Pig,36,Q414K,15,11,11,9,5,"[7500,Inf)",5,permissive
+Q414K,V36,7,0.631,"[7500,Inf)",Puma,Puma,36,Q414K,15,11,11,9,5,"[7500,Inf)",5,permissive
+Q414K,V36,8,0.631,"[7500,Inf)",Pangolin,Pangolin,36,Q414K,15,11,11,9,5,"[7500,Inf)",5,permissive
+Q414K,V36,9,0.631,"[7500,Inf)",Dog,Dog,36,Q414K,15,11,11,9,5,"[7500,Inf)",5,permissive
+Q414K,V36,10,0.631,"[7500,Inf)",Horse,Horse,36,Q414K,15,11,11,9,5,"[7500,Inf)",5,permissive
+Q414K,V36,11,0.631,"[7500,Inf)",Camel,Camel,36,Q414K,15,11,11,9,5,"[7500,Inf)",5,permissive
+Q414K,V36,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,36,Q414K,15,11,11,9,5,"[7500,Inf)",5,permissive
+Q414K,V36,13,0.969,"[5000,7499]",Whale,Whale,36,Q414K,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+Q414K,V36,14,0.996,"[2500,4999]",Ferret,Ferret,36,Q414K,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+Q414K,V36,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,36,Q414K,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+Q414K,V36,16,0.341,"[0,99]",Mouse,Mouse,36,Q414K,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+Q414K,V36,17,0.78,"[100,499]",Tupaia,Tupaia,36,Q414K,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+Q414R,V37,1,0.631,"[7500,Inf)",Human,Human,37,Q414R,15,11,11,9,3,"[7500,Inf)",3,permissive
+Q414R,V37,2,0.631,"[7500,Inf)",Monkey,Monkey,37,Q414R,15,11,11,9,3,"[7500,Inf)",3,permissive
+Q414R,V37,3,0.631,"[7500,Inf)",Hamster,Hamster,37,Q414R,15,11,11,9,3,"[7500,Inf)",3,permissive
+Q414R,V37,4,0.631,"[7500,Inf)",Rabbit,Rabbit,37,Q414R,15,11,11,9,3,"[7500,Inf)",3,permissive
+Q414R,V37,5,0.969,"[5000,7499]",Cat,Cat,37,Q414R,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+Q414R,V37,6,0.631,"[7500,Inf)",Pig,Pig,37,Q414R,15,11,11,9,3,"[7500,Inf)",3,permissive
+Q414R,V37,7,0.631,"[7500,Inf)",Puma,Puma,37,Q414R,15,11,11,9,3,"[7500,Inf)",3,permissive
+Q414R,V37,8,0.969,"[5000,7499]",Pangolin,Pangolin,37,Q414R,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+Q414R,V37,9,0.631,"[7500,Inf)",Dog,Dog,37,Q414R,15,11,11,9,3,"[7500,Inf)",3,permissive
+Q414R,V37,10,0.631,"[7500,Inf)",Horse,Horse,37,Q414R,15,11,11,9,3,"[7500,Inf)",3,permissive
+Q414R,V37,11,0.631,"[7500,Inf)",Camel,Camel,37,Q414R,15,11,11,9,3,"[7500,Inf)",3,permissive
+Q414R,V37,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,37,Q414R,15,11,11,9,3,"[7500,Inf)",3,permissive
+Q414R,V37,13,0.969,"[5000,7499]",Whale,Whale,37,Q414R,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+Q414R,V37,14,0.996,"[2500,4999]",Ferret,Ferret,37,Q414R,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+Q414R,V37,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,37,Q414R,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+Q414R,V37,16,0.341,"[0,99]",Mouse,Mouse,37,Q414R,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+Q414R,V37,17,0.78,"[100,499]",Tupaia,Tupaia,37,Q414R,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+Q474K,V69,1,0.631,"[7500,Inf)",Human,Human,69,Q474K,13,11,11,9,3,"[7500,Inf)",3,permissive
+Q474K,V69,2,0.631,"[7500,Inf)",Monkey,Monkey,69,Q474K,13,11,11,9,3,"[7500,Inf)",3,permissive
+Q474K,V69,3,0.631,"[7500,Inf)",Hamster,Hamster,69,Q474K,13,11,11,9,3,"[7500,Inf)",3,permissive
+Q474K,V69,4,0.631,"[7500,Inf)",Rabbit,Rabbit,69,Q474K,13,11,11,9,3,"[7500,Inf)",3,permissive
+Q474K,V69,5,0.969,"[5000,7499]",Cat,Cat,69,Q474K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+Q474K,V69,6,0.631,"[7500,Inf)",Pig,Pig,69,Q474K,13,11,11,9,3,"[7500,Inf)",3,permissive
+Q474K,V69,7,0.631,"[7500,Inf)",Puma,Puma,69,Q474K,13,11,11,9,3,"[7500,Inf)",3,permissive
+Q474K,V69,8,0.969,"[5000,7499]",Pangolin,Pangolin,69,Q474K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+Q474K,V69,9,0.631,"[7500,Inf)",Dog,Dog,69,Q474K,13,11,11,9,3,"[7500,Inf)",3,permissive
+Q474K,V69,10,0.631,"[7500,Inf)",Horse,Horse,69,Q474K,13,11,11,9,3,"[7500,Inf)",3,permissive
+Q474K,V69,11,0.631,"[7500,Inf)",Camel,Camel,69,Q474K,13,11,11,9,3,"[7500,Inf)",3,permissive
+Q474K,V69,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,69,Q474K,13,11,11,9,3,"[7500,Inf)",3,permissive
+Q474K,V69,13,0.969,"[5000,7499]",Whale,Whale,69,Q474K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+Q474K,V69,14,0.996,"[2500,4999]",Ferret,Ferret,69,Q474K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+Q474K,V69,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,69,Q474K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+Q474K,V69,16,0.341,"[0,99]",Mouse,Mouse,69,Q474K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+Q474K,V69,17,0.341,"[0,99]",Tupaia,Tupaia,69,Q474K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+Q493L,V88,1,0.631,"[7500,Inf)",Human,Human,88,Q493L,13,11,11,9,1,"[7500,Inf)",1,permissive
+Q493L,V88,2,0.631,"[7500,Inf)",Monkey,Monkey,88,Q493L,13,11,11,9,1,"[7500,Inf)",1,permissive
+Q493L,V88,3,0.631,"[7500,Inf)",Hamster,Hamster,88,Q493L,13,11,11,9,1,"[7500,Inf)",1,permissive
+Q493L,V88,4,0.631,"[7500,Inf)",Rabbit,Rabbit,88,Q493L,13,11,11,9,1,"[7500,Inf)",1,permissive
+Q493L,V88,5,0.969,"[5000,7499]",Cat,Cat,88,Q493L,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+Q493L,V88,6,0.631,"[7500,Inf)",Pig,Pig,88,Q493L,13,11,11,9,1,"[7500,Inf)",1,permissive
+Q493L,V88,7,0.631,"[7500,Inf)",Puma,Puma,88,Q493L,13,11,11,9,1,"[7500,Inf)",1,permissive
+Q493L,V88,8,0.969,"[5000,7499]",Pangolin,Pangolin,88,Q493L,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+Q493L,V88,9,0.631,"[7500,Inf)",Dog,Dog,88,Q493L,13,11,11,9,1,"[7500,Inf)",1,permissive
+Q493L,V88,10,0.631,"[7500,Inf)",Horse,Horse,88,Q493L,13,11,11,9,1,"[7500,Inf)",1,permissive
+Q493L,V88,11,0.969,"[5000,7499]",Camel,Camel,88,Q493L,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+Q493L,V88,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,88,Q493L,13,11,11,9,1,"[7500,Inf)",1,permissive
+Q493L,V88,13,0.996,"[2500,4999]",Whale,Whale,88,Q493L,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+Q493L,V88,14,0.969,"[5000,7499]",Ferret,Ferret,88,Q493L,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+Q493L,V88,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,88,Q493L,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+Q493L,V88,16,0.341,"[0,99]",Mouse,Mouse,88,Q493L,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+Q493L,V88,17,0.78,"[100,499]",Tupaia,Tupaia,88,Q493L,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+R346K,V15,1,0.969,"[5000,7499]",Human,Human,15,R346K,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+R346K,V15,2,0.631,"[7500,Inf)",Monkey,Monkey,15,R346K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R346K,V15,3,0.631,"[7500,Inf)",Hamster,Hamster,15,R346K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R346K,V15,4,0.631,"[7500,Inf)",Rabbit,Rabbit,15,R346K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R346K,V15,5,0.969,"[5000,7499]",Cat,Cat,15,R346K,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+R346K,V15,6,0.631,"[7500,Inf)",Pig,Pig,15,R346K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R346K,V15,7,0.631,"[7500,Inf)",Puma,Puma,15,R346K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R346K,V15,8,0.969,"[5000,7499]",Pangolin,Pangolin,15,R346K,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+R346K,V15,9,0.631,"[7500,Inf)",Dog,Dog,15,R346K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R346K,V15,10,0.631,"[7500,Inf)",Horse,Horse,15,R346K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R346K,V15,11,0.631,"[7500,Inf)",Camel,Camel,15,R346K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R346K,V15,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,15,R346K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R346K,V15,13,0.631,"[7500,Inf)",Whale,Whale,15,R346K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R346K,V15,14,0.996,"[2500,4999]",Ferret,Ferret,15,R346K,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+R346K,V15,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,15,R346K,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+R346K,V15,16,0.341,"[0,99]",Mouse,Mouse,15,R346K,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+R346K,V15,17,0.78,"[100,499]",Tupaia,Tupaia,15,R346K,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+R357K,V21,1,0.631,"[7500,Inf)",Human,Human,21,R357K,13,11,11,9,3,"[7500,Inf)",3,permissive
+R357K,V21,2,0.631,"[7500,Inf)",Monkey,Monkey,21,R357K,13,11,11,9,3,"[7500,Inf)",3,permissive
+R357K,V21,3,0.631,"[7500,Inf)",Hamster,Hamster,21,R357K,13,11,11,9,3,"[7500,Inf)",3,permissive
+R357K,V21,4,0.631,"[7500,Inf)",Rabbit,Rabbit,21,R357K,13,11,11,9,3,"[7500,Inf)",3,permissive
+R357K,V21,5,0.969,"[5000,7499]",Cat,Cat,21,R357K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+R357K,V21,6,0.631,"[7500,Inf)",Pig,Pig,21,R357K,13,11,11,9,3,"[7500,Inf)",3,permissive
+R357K,V21,7,0.631,"[7500,Inf)",Puma,Puma,21,R357K,13,11,11,9,3,"[7500,Inf)",3,permissive
+R357K,V21,8,0.969,"[5000,7499]",Pangolin,Pangolin,21,R357K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+R357K,V21,9,0.631,"[7500,Inf)",Dog,Dog,21,R357K,13,11,11,9,3,"[7500,Inf)",3,permissive
+R357K,V21,10,0.631,"[7500,Inf)",Horse,Horse,21,R357K,13,11,11,9,3,"[7500,Inf)",3,permissive
+R357K,V21,11,0.631,"[7500,Inf)",Camel,Camel,21,R357K,13,11,11,9,3,"[7500,Inf)",3,permissive
+R357K,V21,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,21,R357K,13,11,11,9,3,"[7500,Inf)",3,permissive
+R357K,V21,13,0.969,"[5000,7499]",Whale,Whale,21,R357K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+R357K,V21,14,0.996,"[2500,4999]",Ferret,Ferret,21,R357K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+R357K,V21,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,21,R357K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+R357K,V21,16,0.341,"[0,99]",Mouse,Mouse,21,R357K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+R357K,V21,17,0.78,"[100,499]",Tupaia,Tupaia,21,R357K,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+R403K,V31,1,0.631,"[7500,Inf)",Human,Human,31,R403K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R403K,V31,2,0.631,"[7500,Inf)",Monkey,Monkey,31,R403K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R403K,V31,3,0.631,"[7500,Inf)",Hamster,Hamster,31,R403K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R403K,V31,4,0.631,"[7500,Inf)",Rabbit,Rabbit,31,R403K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R403K,V31,5,0.969,"[5000,7499]",Cat,Cat,31,R403K,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+R403K,V31,6,0.631,"[7500,Inf)",Pig,Pig,31,R403K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R403K,V31,7,0.631,"[7500,Inf)",Puma,Puma,31,R403K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R403K,V31,8,0.969,"[5000,7499]",Pangolin,Pangolin,31,R403K,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+R403K,V31,9,0.631,"[7500,Inf)",Dog,Dog,31,R403K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R403K,V31,10,0.631,"[7500,Inf)",Horse,Horse,31,R403K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R403K,V31,11,0.631,"[7500,Inf)",Camel,Camel,31,R403K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R403K,V31,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,31,R403K,15,11,11,9,3,"[7500,Inf)",3,permissive
+R403K,V31,13,0.969,"[5000,7499]",Whale,Whale,31,R403K,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+R403K,V31,14,0.996,"[2500,4999]",Ferret,Ferret,31,R403K,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+R403K,V31,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,31,R403K,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+R403K,V31,16,0.341,"[0,99]",Mouse,Mouse,31,R403K,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+R403K,V31,17,0.78,"[100,499]",Tupaia,Tupaia,31,R403K,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+R408I,V32,1,0.969,"[5000,7499]",Human,Human,32,R408I,,9,11,7,7,"[5000,7499]",7,permissive
+R408I,V32,2,0.969,"[5000,7499]",Monkey,Monkey,32,R408I,,9,11,7,7,"[5000,7499]",7,permissive
+R408I,V32,3,0.969,"[5000,7499]",Hamster,Hamster,32,R408I,,9,11,7,7,"[5000,7499]",7,permissive
+R408I,V32,4,0.969,"[5000,7499]",Rabbit,Rabbit,32,R408I,,9,11,7,7,"[5000,7499]",7,permissive
+R408I,V32,5,0.969,"[5000,7499]",Cat,Cat,32,R408I,,9,11,7,7,"[5000,7499]",7,permissive
+R408I,V32,6,0.631,"[7500,Inf)",Pig,Pig,32,R408I,,9,11,7,7,"[5000,7499]",7,permissive
+R408I,V32,7,0.631,"[7500,Inf)",Puma,Puma,32,R408I,,9,11,7,7,"[5000,7499]",7,permissive
+R408I,V32,8,0.631,"[7500,Inf)",Pangolin,Pangolin,32,R408I,,9,11,7,7,"[5000,7499]",7,permissive
+R408I,V32,9,0.631,"[7500,Inf)",Dog,Dog,32,R408I,,9,11,7,7,"[5000,7499]",7,permissive
+R408I,V32,10,0.631,"[7500,Inf)",Horse,Horse,32,R408I,,9,11,7,7,"[5000,7499]",7,permissive
+R408I,V32,11,0.969,"[5000,7499]",Camel,Camel,32,R408I,,9,11,7,7,"[5000,7499]",7,permissive
+R408I,V32,12,0.969,"[5000,7499]",Sea Lion,Sea Lion,32,R408I,,9,11,7,7,"[5000,7499]",7,permissive
+R408I,V32,13,0.996,"[2500,4999]",Whale,Whale,32,R408I,,9,11,7,7,"[5000,7499]",7,non-permissive
+R408I,V32,14,1,"[500,2499]",Ferret,Ferret,32,R408I,,9,11,7,7,"[5000,7499]",7,non-permissive
+R408I,V32,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,32,R408I,,9,11,7,7,"[5000,7499]",7,non-permissive
+R408I,V32,16,0.78,"[100,499]",Mouse,Mouse,32,R408I,,9,11,7,7,"[5000,7499]",7,non-permissive
+R408I,V32,17,0.78,"[100,499]",Tupaia,Tupaia,32,R408I,,9,11,7,7,"[5000,7499]",7,non-permissive
+S-614D,V113,1,0.969,"[5000,7499]",Human,Human,113,S-614D,11,7,11,3,15,"[5000,7499]",3,permissive
+S-614D,V113,2,0.969,"[5000,7499]",Monkey,Monkey,113,S-614D,11,7,11,3,15,"[5000,7499]",3,permissive
+S-614D,V113,3,0.969,"[5000,7499]",Hamster,Hamster,113,S-614D,11,7,11,3,15,"[5000,7499]",3,permissive
+S-614D,V113,4,0.969,"[5000,7499]",Rabbit,Rabbit,113,S-614D,11,7,11,3,15,"[5000,7499]",3,permissive
+S-614D,V113,5,0.969,"[5000,7499]",Cat,Cat,113,S-614D,11,7,11,3,15,"[5000,7499]",3,permissive
+S-614D,V113,6,0.969,"[5000,7499]",Pig,Pig,113,S-614D,11,7,11,3,15,"[5000,7499]",3,permissive
+S-614D,V113,7,0.631,"[7500,Inf)",Puma,Puma,113,S-614D,11,7,11,3,15,"[5000,7499]",3,permissive
+S-614D,V113,8,0.996,"[2500,4999]",Pangolin,Pangolin,113,S-614D,11,7,11,3,15,"[5000,7499]",3,non-permissive
+S-614D,V113,9,0.969,"[5000,7499]",Dog,Dog,113,S-614D,11,7,11,3,15,"[5000,7499]",3,permissive
+S-614D,V113,10,0.969,"[5000,7499]",Horse,Horse,113,S-614D,11,7,11,3,15,"[5000,7499]",3,permissive
+S-614D,V113,11,0.969,"[5000,7499]",Camel,Camel,113,S-614D,11,7,11,3,15,"[5000,7499]",3,permissive
+S-614D,V113,12,0.996,"[2500,4999]",Sea Lion,Sea Lion,113,S-614D,11,7,11,3,15,"[5000,7499]",3,non-permissive
+S-614D,V113,13,1,"[500,2499]",Whale,Whale,113,S-614D,11,7,11,3,15,"[5000,7499]",3,non-permissive
+S-614D,V113,14,1,"[500,2499]",Ferret,Ferret,113,S-614D,11,7,11,3,15,"[5000,7499]",3,non-permissive
+S-614D,V113,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,113,S-614D,11,7,11,3,15,"[5000,7499]",3,non-permissive
+S-614D,V113,16,0.341,"[0,99]",Mouse,Mouse,113,S-614D,11,7,11,3,15,"[5000,7499]",3,non-permissive
+S-614D,V113,17,0.341,"[0,99]",Tupaia,Tupaia,113,S-614D,11,7,11,3,15,"[5000,7499]",3,non-permissive
+S-614G,V114,1,0.631,"[7500,Inf)",Human,Human,114,S-614G,13,11,11,7,1,"[7500,Inf)",1,permissive
+S-614G,V114,2,0.631,"[7500,Inf)",Monkey,Monkey,114,S-614G,13,11,11,7,1,"[7500,Inf)",1,permissive
+S-614G,V114,3,0.631,"[7500,Inf)",Hamster,Hamster,114,S-614G,13,11,11,7,1,"[7500,Inf)",1,permissive
+S-614G,V114,4,0.631,"[7500,Inf)",Rabbit,Rabbit,114,S-614G,13,11,11,7,1,"[7500,Inf)",1,permissive
+S-614G,V114,5,0.969,"[5000,7499]",Cat,Cat,114,S-614G,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+S-614G,V114,6,0.631,"[7500,Inf)",Pig,Pig,114,S-614G,13,11,11,7,1,"[7500,Inf)",1,permissive
+S-614G,V114,7,0.631,"[7500,Inf)",Puma,Puma,114,S-614G,13,11,11,7,1,"[7500,Inf)",1,permissive
+S-614G,V114,8,0.969,"[5000,7499]",Pangolin,Pangolin,114,S-614G,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+S-614G,V114,9,0.631,"[7500,Inf)",Dog,Dog,114,S-614G,13,11,11,7,1,"[7500,Inf)",1,permissive
+S-614G,V114,10,0.969,"[5000,7499]",Horse,Horse,114,S-614G,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+S-614G,V114,11,0.631,"[7500,Inf)",Camel,Camel,114,S-614G,13,11,11,7,1,"[7500,Inf)",1,permissive
+S-614G,V114,12,0.969,"[5000,7499]",Sea Lion,Sea Lion,114,S-614G,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+S-614G,V114,13,0.996,"[2500,4999]",Whale,Whale,114,S-614G,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+S-614G,V114,14,0.996,"[2500,4999]",Ferret,Ferret,114,S-614G,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+S-614G,V114,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,114,S-614G,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+S-614G,V114,16,0.341,"[0,99]",Mouse,Mouse,114,S-614G,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+S-614G,V114,17,0.341,"[0,99]",Tupaia,Tupaia,114,S-614G,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+S325F,V6,1,0.969,"[5000,7499]",Human,Human,6,S325F,13,3,11,1,15,"[5000,7499]",1,permissive
+S325F,V6,2,0.969,"[5000,7499]",Monkey,Monkey,6,S325F,13,3,11,1,15,"[5000,7499]",1,permissive
+S325F,V6,3,0.969,"[5000,7499]",Hamster,Hamster,6,S325F,13,3,11,1,15,"[5000,7499]",1,permissive
+S325F,V6,4,0.969,"[5000,7499]",Rabbit,Rabbit,6,S325F,13,3,11,1,15,"[5000,7499]",1,permissive
+S325F,V6,5,0.969,"[5000,7499]",Cat,Cat,6,S325F,13,3,11,1,15,"[5000,7499]",1,permissive
+S325F,V6,6,0.969,"[5000,7499]",Pig,Pig,6,S325F,13,3,11,1,15,"[5000,7499]",1,permissive
+S325F,V6,7,0.631,"[7500,Inf)",Puma,Puma,6,S325F,13,3,11,1,15,"[5000,7499]",1,permissive
+S325F,V6,8,0.996,"[2500,4999]",Pangolin,Pangolin,6,S325F,13,3,11,1,15,"[5000,7499]",1,non-permissive
+S325F,V6,9,0.969,"[5000,7499]",Dog,Dog,6,S325F,13,3,11,1,15,"[5000,7499]",1,permissive
+S325F,V6,10,0.969,"[5000,7499]",Horse,Horse,6,S325F,13,3,11,1,15,"[5000,7499]",1,permissive
+S325F,V6,11,1,"[500,2499]",Camel,Camel,6,S325F,13,3,11,1,15,"[5000,7499]",1,non-permissive
+S325F,V6,12,1,"[500,2499]",Sea Lion,Sea Lion,6,S325F,13,3,11,1,15,"[5000,7499]",1,non-permissive
+S325F,V6,13,1,"[500,2499]",Whale,Whale,6,S325F,13,3,11,1,15,"[5000,7499]",1,non-permissive
+S325F,V6,14,1,"[500,2499]",Ferret,Ferret,6,S325F,13,3,11,1,15,"[5000,7499]",1,non-permissive
+S325F,V6,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,6,S325F,13,3,11,1,15,"[5000,7499]",1,non-permissive
+S325F,V6,16,0.341,"[0,99]",Mouse,Mouse,6,S325F,13,3,11,1,15,"[5000,7499]",1,non-permissive
+S325F,V6,17,0.78,"[100,499]",Tupaia,Tupaia,6,S325F,13,3,11,1,15,"[5000,7499]",1,non-permissive
+S373L,V25,1,0.631,"[7500,Inf)",Human,Human,25,S373L,15,11,11,9,3,"[7500,Inf)",3,permissive
+S373L,V25,2,0.631,"[7500,Inf)",Monkey,Monkey,25,S373L,15,11,11,9,3,"[7500,Inf)",3,permissive
+S373L,V25,3,0.631,"[7500,Inf)",Hamster,Hamster,25,S373L,15,11,11,9,3,"[7500,Inf)",3,permissive
+S373L,V25,4,0.631,"[7500,Inf)",Rabbit,Rabbit,25,S373L,15,11,11,9,3,"[7500,Inf)",3,permissive
+S373L,V25,5,0.969,"[5000,7499]",Cat,Cat,25,S373L,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+S373L,V25,6,0.631,"[7500,Inf)",Pig,Pig,25,S373L,15,11,11,9,3,"[7500,Inf)",3,permissive
+S373L,V25,7,0.631,"[7500,Inf)",Puma,Puma,25,S373L,15,11,11,9,3,"[7500,Inf)",3,permissive
+S373L,V25,8,0.969,"[5000,7499]",Pangolin,Pangolin,25,S373L,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+S373L,V25,9,0.631,"[7500,Inf)",Dog,Dog,25,S373L,15,11,11,9,3,"[7500,Inf)",3,permissive
+S373L,V25,10,0.631,"[7500,Inf)",Horse,Horse,25,S373L,15,11,11,9,3,"[7500,Inf)",3,permissive
+S373L,V25,11,0.631,"[7500,Inf)",Camel,Camel,25,S373L,15,11,11,9,3,"[7500,Inf)",3,permissive
+S373L,V25,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,25,S373L,15,11,11,9,3,"[7500,Inf)",3,permissive
+S373L,V25,13,0.969,"[5000,7499]",Whale,Whale,25,S373L,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+S373L,V25,14,0.996,"[2500,4999]",Ferret,Ferret,25,S373L,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+S373L,V25,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,25,S373L,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+S373L,V25,16,0.341,"[0,99]",Mouse,Mouse,25,S373L,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+S373L,V25,17,0.78,"[100,499]",Tupaia,Tupaia,25,S373L,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+S459F,V58,1,0.631,"[7500,Inf)",Human,Human,58,S459F,11,11,11,9,3,"[7500,Inf)",3,permissive
+S459F,V58,2,0.631,"[7500,Inf)",Monkey,Monkey,58,S459F,11,11,11,9,3,"[7500,Inf)",3,permissive
+S459F,V58,3,0.631,"[7500,Inf)",Hamster,Hamster,58,S459F,11,11,11,9,3,"[7500,Inf)",3,permissive
+S459F,V58,4,0.631,"[7500,Inf)",Rabbit,Rabbit,58,S459F,11,11,11,9,3,"[7500,Inf)",3,permissive
+S459F,V58,5,0.969,"[5000,7499]",Cat,Cat,58,S459F,11,11,11,9,3,"[7500,Inf)",3,non-permissive
+S459F,V58,6,0.631,"[7500,Inf)",Pig,Pig,58,S459F,11,11,11,9,3,"[7500,Inf)",3,permissive
+S459F,V58,7,0.631,"[7500,Inf)",Puma,Puma,58,S459F,11,11,11,9,3,"[7500,Inf)",3,permissive
+S459F,V58,8,0.631,"[7500,Inf)",Pangolin,Pangolin,58,S459F,11,11,11,9,3,"[7500,Inf)",3,permissive
+S459F,V58,9,0.969,"[5000,7499]",Dog,Dog,58,S459F,11,11,11,9,3,"[7500,Inf)",3,non-permissive
+S459F,V58,10,0.631,"[7500,Inf)",Horse,Horse,58,S459F,11,11,11,9,3,"[7500,Inf)",3,permissive
+S459F,V58,11,0.631,"[7500,Inf)",Camel,Camel,58,S459F,11,11,11,9,3,"[7500,Inf)",3,permissive
+S459F,V58,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,58,S459F,11,11,11,9,3,"[7500,Inf)",3,permissive
+S459F,V58,13,0.969,"[5000,7499]",Whale,Whale,58,S459F,11,11,11,9,3,"[7500,Inf)",3,non-permissive
+S459F,V58,14,0.996,"[2500,4999]",Ferret,Ferret,58,S459F,11,11,11,9,3,"[7500,Inf)",3,non-permissive
+S459F,V58,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,58,S459F,11,11,11,9,3,"[7500,Inf)",3,non-permissive
+S459F,V58,16,0.341,"[0,99]",Mouse,Mouse,58,S459F,11,11,11,9,3,"[7500,Inf)",3,non-permissive
+S459F,V58,17,0.341,"[0,99]",Tupaia,Tupaia,58,S459F,11,11,11,9,3,"[7500,Inf)",3,non-permissive
+S477G,V72,1,0.969,"[5000,7499]",Human,Human,72,S477G,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+S477G,V72,2,0.631,"[7500,Inf)",Monkey,Monkey,72,S477G,13,11,11,9,5,"[7500,Inf)",5,permissive
+S477G,V72,3,0.631,"[7500,Inf)",Hamster,Hamster,72,S477G,13,11,11,9,5,"[7500,Inf)",5,permissive
+S477G,V72,4,0.631,"[7500,Inf)",Rabbit,Rabbit,72,S477G,13,11,11,9,5,"[7500,Inf)",5,permissive
+S477G,V72,5,0.631,"[7500,Inf)",Cat,Cat,72,S477G,13,11,11,9,5,"[7500,Inf)",5,permissive
+S477G,V72,6,0.631,"[7500,Inf)",Pig,Pig,72,S477G,13,11,11,9,5,"[7500,Inf)",5,permissive
+S477G,V72,7,0.631,"[7500,Inf)",Puma,Puma,72,S477G,13,11,11,9,5,"[7500,Inf)",5,permissive
+S477G,V72,8,0.631,"[7500,Inf)",Pangolin,Pangolin,72,S477G,13,11,11,9,5,"[7500,Inf)",5,permissive
+S477G,V72,9,0.631,"[7500,Inf)",Dog,Dog,72,S477G,13,11,11,9,5,"[7500,Inf)",5,permissive
+S477G,V72,10,0.969,"[5000,7499]",Horse,Horse,72,S477G,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+S477G,V72,11,0.631,"[7500,Inf)",Camel,Camel,72,S477G,13,11,11,9,5,"[7500,Inf)",5,permissive
+S477G,V72,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,72,S477G,13,11,11,9,5,"[7500,Inf)",5,permissive
+S477G,V72,13,0.631,"[7500,Inf)",Whale,Whale,72,S477G,13,11,11,9,5,"[7500,Inf)",5,permissive
+S477G,V72,14,0.996,"[2500,4999]",Ferret,Ferret,72,S477G,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+S477G,V72,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,72,S477G,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+S477G,V72,16,0.341,"[0,99]",Mouse,Mouse,72,S477G,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+S477G,V72,17,0.78,"[100,499]",Tupaia,Tupaia,72,S477G,13,11,11,9,5,"[7500,Inf)",5,non-permissive
+S477I,V74,1,0.631,"[7500,Inf)",Human,Human,74,S477I,,11,11,9,5,"[7500,Inf)",5,permissive
+S477I,V74,2,0.631,"[7500,Inf)",Monkey,Monkey,74,S477I,,11,11,9,5,"[7500,Inf)",5,permissive
+S477I,V74,3,0.631,"[7500,Inf)",Hamster,Hamster,74,S477I,,11,11,9,5,"[7500,Inf)",5,permissive
+S477I,V74,4,0.631,"[7500,Inf)",Rabbit,Rabbit,74,S477I,,11,11,9,5,"[7500,Inf)",5,permissive
+S477I,V74,5,0.969,"[5000,7499]",Cat,Cat,74,S477I,,11,11,9,5,"[7500,Inf)",5,non-permissive
+S477I,V74,6,0.631,"[7500,Inf)",Pig,Pig,74,S477I,,11,11,9,5,"[7500,Inf)",5,permissive
+S477I,V74,7,0.631,"[7500,Inf)",Puma,Puma,74,S477I,,11,11,9,5,"[7500,Inf)",5,permissive
+S477I,V74,8,0.969,"[5000,7499]",Pangolin,Pangolin,74,S477I,,11,11,9,5,"[7500,Inf)",5,non-permissive
+S477I,V74,9,0.631,"[7500,Inf)",Dog,Dog,74,S477I,,11,11,9,5,"[7500,Inf)",5,permissive
+S477I,V74,10,0.631,"[7500,Inf)",Horse,Horse,74,S477I,,11,11,9,5,"[7500,Inf)",5,permissive
+S477I,V74,11,0.631,"[7500,Inf)",Camel,Camel,74,S477I,,11,11,9,5,"[7500,Inf)",5,permissive
+S477I,V74,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,74,S477I,,11,11,9,5,"[7500,Inf)",5,permissive
+S477I,V74,13,0.631,"[7500,Inf)",Whale,Whale,74,S477I,,11,11,9,5,"[7500,Inf)",5,permissive
+S477I,V74,14,0.996,"[2500,4999]",Ferret,Ferret,74,S477I,,11,11,9,5,"[7500,Inf)",5,non-permissive
+S477I,V74,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,74,S477I,,11,11,9,5,"[7500,Inf)",5,non-permissive
+S477I,V74,16,0.78,"[100,499]",Mouse,Mouse,74,S477I,,11,11,9,5,"[7500,Inf)",5,non-permissive
+S477I,V74,17,0.78,"[100,499]",Tupaia,Tupaia,74,S477I,,11,11,9,5,"[7500,Inf)",5,non-permissive
+S477N,V73,1,0.631,"[7500,Inf)",Human,Human,73,S477N,,11,11,11,7,"[7500,Inf)",7,permissive
+S477N,V73,2,0.631,"[7500,Inf)",Monkey,Monkey,73,S477N,,11,11,11,7,"[7500,Inf)",7,permissive
+S477N,V73,3,0.631,"[7500,Inf)",Hamster,Hamster,73,S477N,,11,11,11,7,"[7500,Inf)",7,permissive
+S477N,V73,4,0.631,"[7500,Inf)",Rabbit,Rabbit,73,S477N,,11,11,11,7,"[7500,Inf)",7,permissive
+S477N,V73,5,0.631,"[7500,Inf)",Cat,Cat,73,S477N,,11,11,11,7,"[7500,Inf)",7,permissive
+S477N,V73,6,0.631,"[7500,Inf)",Pig,Pig,73,S477N,,11,11,11,7,"[7500,Inf)",7,permissive
+S477N,V73,7,0.631,"[7500,Inf)",Puma,Puma,73,S477N,,11,11,11,7,"[7500,Inf)",7,permissive
+S477N,V73,8,0.969,"[5000,7499]",Pangolin,Pangolin,73,S477N,,11,11,11,7,"[7500,Inf)",7,non-permissive
+S477N,V73,9,0.631,"[7500,Inf)",Dog,Dog,73,S477N,,11,11,11,7,"[7500,Inf)",7,permissive
+S477N,V73,10,0.631,"[7500,Inf)",Horse,Horse,73,S477N,,11,11,11,7,"[7500,Inf)",7,permissive
+S477N,V73,11,0.631,"[7500,Inf)",Camel,Camel,73,S477N,,11,11,11,7,"[7500,Inf)",7,permissive
+S477N,V73,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,73,S477N,,11,11,11,7,"[7500,Inf)",7,permissive
+S477N,V73,13,0.631,"[7500,Inf)",Whale,Whale,73,S477N,,11,11,11,7,"[7500,Inf)",7,permissive
+S477N,V73,14,0.969,"[5000,7499]",Ferret,Ferret,73,S477N,,11,11,11,7,"[7500,Inf)",7,non-permissive
+S477N,V73,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,73,S477N,,11,11,11,7,"[7500,Inf)",7,non-permissive
+S477N,V73,16,0.78,"[100,499]",Mouse,Mouse,73,S477N,,11,11,11,7,"[7500,Inf)",7,non-permissive
+S477N,V73,17,0.78,"[100,499]",Tupaia,Tupaia,73,S477N,,11,11,11,7,"[7500,Inf)",7,non-permissive
+S494L,V89,1,0.969,"[5000,7499]",Human,Human,89,S494L,11,11,11,9,7,"[7500,Inf)",7,non-permissive
+S494L,V89,2,0.969,"[5000,7499]",Monkey,Monkey,89,S494L,11,11,11,9,7,"[7500,Inf)",7,non-permissive
+S494L,V89,3,0.631,"[7500,Inf)",Hamster,Hamster,89,S494L,11,11,11,9,7,"[7500,Inf)",7,permissive
+S494L,V89,4,0.969,"[5000,7499]",Rabbit,Rabbit,89,S494L,11,11,11,9,7,"[7500,Inf)",7,non-permissive
+S494L,V89,5,0.969,"[5000,7499]",Cat,Cat,89,S494L,11,11,11,9,7,"[7500,Inf)",7,non-permissive
+S494L,V89,6,0.631,"[7500,Inf)",Pig,Pig,89,S494L,11,11,11,9,7,"[7500,Inf)",7,permissive
+S494L,V89,7,0.631,"[7500,Inf)",Puma,Puma,89,S494L,11,11,11,9,7,"[7500,Inf)",7,permissive
+S494L,V89,8,0.969,"[5000,7499]",Pangolin,Pangolin,89,S494L,11,11,11,9,7,"[7500,Inf)",7,non-permissive
+S494L,V89,9,0.631,"[7500,Inf)",Dog,Dog,89,S494L,11,11,11,9,7,"[7500,Inf)",7,permissive
+S494L,V89,10,0.969,"[5000,7499]",Horse,Horse,89,S494L,11,11,11,9,7,"[7500,Inf)",7,non-permissive
+S494L,V89,11,0.969,"[5000,7499]",Camel,Camel,89,S494L,11,11,11,9,7,"[7500,Inf)",7,non-permissive
+S494L,V89,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,89,S494L,11,11,11,9,7,"[7500,Inf)",7,permissive
+S494L,V89,13,0.969,"[5000,7499]",Whale,Whale,89,S494L,11,11,11,9,7,"[7500,Inf)",7,non-permissive
+S494L,V89,14,0.996,"[2500,4999]",Ferret,Ferret,89,S494L,11,11,11,9,7,"[7500,Inf)",7,non-permissive
+S494L,V89,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,89,S494L,11,11,11,9,7,"[7500,Inf)",7,non-permissive
+S494L,V89,16,0.341,"[0,99]",Mouse,Mouse,89,S494L,11,11,11,9,7,"[7500,Inf)",7,non-permissive
+S494L,V89,17,0.341,"[0,99]",Tupaia,Tupaia,89,S494L,11,11,11,9,7,"[7500,Inf)",7,non-permissive
+S494P,V90,1,0.631,"[7500,Inf)",Human,Human,90,S494P,15,11,11,9,3,"[7500,Inf)",3,permissive
+S494P,V90,2,0.631,"[7500,Inf)",Monkey,Monkey,90,S494P,15,11,11,9,3,"[7500,Inf)",3,permissive
+S494P,V90,3,0.631,"[7500,Inf)",Hamster,Hamster,90,S494P,15,11,11,9,3,"[7500,Inf)",3,permissive
+S494P,V90,4,0.631,"[7500,Inf)",Rabbit,Rabbit,90,S494P,15,11,11,9,3,"[7500,Inf)",3,permissive
+S494P,V90,5,0.969,"[5000,7499]",Cat,Cat,90,S494P,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+S494P,V90,6,0.631,"[7500,Inf)",Pig,Pig,90,S494P,15,11,11,9,3,"[7500,Inf)",3,permissive
+S494P,V90,7,0.631,"[7500,Inf)",Puma,Puma,90,S494P,15,11,11,9,3,"[7500,Inf)",3,permissive
+S494P,V90,8,0.969,"[5000,7499]",Pangolin,Pangolin,90,S494P,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+S494P,V90,9,0.631,"[7500,Inf)",Dog,Dog,90,S494P,15,11,11,9,3,"[7500,Inf)",3,permissive
+S494P,V90,10,0.631,"[7500,Inf)",Horse,Horse,90,S494P,15,11,11,9,3,"[7500,Inf)",3,permissive
+S494P,V90,11,0.631,"[7500,Inf)",Camel,Camel,90,S494P,15,11,11,9,3,"[7500,Inf)",3,permissive
+S494P,V90,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,90,S494P,15,11,11,9,3,"[7500,Inf)",3,permissive
+S494P,V90,13,0.969,"[5000,7499]",Whale,Whale,90,S494P,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+S494P,V90,14,0.996,"[2500,4999]",Ferret,Ferret,90,S494P,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+S494P,V90,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,90,S494P,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+S494P,V90,16,0.341,"[0,99]",Mouse,Mouse,90,S494P,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+S494P,V90,17,0.78,"[100,499]",Tupaia,Tupaia,90,S494P,15,11,11,9,3,"[7500,Inf)",3,non-permissive
+S514F,V95,1,0.969,"[5000,7499]",Human,Human,95,S514F,11,7,9,3,,"[5000,7499]",3,permissive
+S514F,V95,2,0.996,"[2500,4999]",Monkey,Monkey,95,S514F,11,7,9,3,,"[5000,7499]",3,non-permissive
+S514F,V95,3,0.969,"[5000,7499]",Hamster,Hamster,95,S514F,11,7,9,3,,"[5000,7499]",3,permissive
+S514F,V95,4,0.969,"[5000,7499]",Rabbit,Rabbit,95,S514F,11,7,9,3,,"[5000,7499]",3,permissive
+S514F,V95,5,0.996,"[2500,4999]",Cat,Cat,95,S514F,11,7,9,3,,"[5000,7499]",3,non-permissive
+S514F,V95,6,0.996,"[2500,4999]",Pig,Pig,95,S514F,11,7,9,3,,"[5000,7499]",3,non-permissive
+S514F,V95,7,0.996,"[2500,4999]",Puma,Puma,95,S514F,11,7,9,3,,"[5000,7499]",3,non-permissive
+S514F,V95,8,1,"[500,2499]",Pangolin,Pangolin,95,S514F,11,7,9,3,,"[5000,7499]",3,non-permissive
+S514F,V95,9,0.969,"[5000,7499]",Dog,Dog,95,S514F,11,7,9,3,,"[5000,7499]",3,permissive
+S514F,V95,10,0.969,"[5000,7499]",Horse,Horse,95,S514F,11,7,9,3,,"[5000,7499]",3,permissive
+S514F,V95,11,0.969,"[5000,7499]",Camel,Camel,95,S514F,11,7,9,3,,"[5000,7499]",3,permissive
+S514F,V95,12,0.969,"[5000,7499]",Sea Lion,Sea Lion,95,S514F,11,7,9,3,,"[5000,7499]",3,permissive
+S514F,V95,13,0.996,"[2500,4999]",Whale,Whale,95,S514F,11,7,9,3,,"[5000,7499]",3,non-permissive
+S514F,V95,14,0.78,"[100,499]",Ferret,Ferret,95,S514F,11,7,9,3,,"[5000,7499]",3,non-permissive
+S514F,V95,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,95,S514F,11,7,9,3,,"[5000,7499]",3,non-permissive
+S514F,V95,16,0.341,"[0,99]",Mouse,Mouse,95,S514F,11,7,9,3,,"[5000,7499]",3,non-permissive
+S514F,V95,17,0.341,"[0,99]",Tupaia,Tupaia,95,S514F,11,7,9,3,,"[5000,7499]",3,non-permissive
+T323I,V5,1,0.631,"[7500,Inf)",Human,Human,5,T323I,13,9,11,3,3,"[5000,7499]",3,permissive
+T323I,V5,2,0.631,"[7500,Inf)",Monkey,Monkey,5,T323I,13,9,11,3,3,"[5000,7499]",3,permissive
+T323I,V5,3,0.631,"[7500,Inf)",Hamster,Hamster,5,T323I,13,9,11,3,3,"[5000,7499]",3,permissive
+T323I,V5,4,0.969,"[5000,7499]",Rabbit,Rabbit,5,T323I,13,9,11,3,3,"[5000,7499]",3,permissive
+T323I,V5,5,0.969,"[5000,7499]",Cat,Cat,5,T323I,13,9,11,3,3,"[5000,7499]",3,permissive
+T323I,V5,6,0.631,"[7500,Inf)",Pig,Pig,5,T323I,13,9,11,3,3,"[5000,7499]",3,permissive
+T323I,V5,7,0.631,"[7500,Inf)",Puma,Puma,5,T323I,13,9,11,3,3,"[5000,7499]",3,permissive
+T323I,V5,8,0.969,"[5000,7499]",Pangolin,Pangolin,5,T323I,13,9,11,3,3,"[5000,7499]",3,permissive
+T323I,V5,9,0.631,"[7500,Inf)",Dog,Dog,5,T323I,13,9,11,3,3,"[5000,7499]",3,permissive
+T323I,V5,10,0.631,"[7500,Inf)",Horse,Horse,5,T323I,13,9,11,3,3,"[5000,7499]",3,permissive
+T323I,V5,11,0.996,"[2500,4999]",Camel,Camel,5,T323I,13,9,11,3,3,"[5000,7499]",3,non-permissive
+T323I,V5,12,0.996,"[2500,4999]",Sea Lion,Sea Lion,5,T323I,13,9,11,3,3,"[5000,7499]",3,non-permissive
+T323I,V5,13,0.996,"[2500,4999]",Whale,Whale,5,T323I,13,9,11,3,3,"[5000,7499]",3,non-permissive
+T323I,V5,14,1,"[500,2499]",Ferret,Ferret,5,T323I,13,9,11,3,3,"[5000,7499]",3,non-permissive
+T323I,V5,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,5,T323I,13,9,11,3,3,"[5000,7499]",3,non-permissive
+T323I,V5,16,0.341,"[0,99]",Mouse,Mouse,5,T323I,13,9,11,3,3,"[5000,7499]",3,non-permissive
+T323I,V5,17,0.78,"[100,499]",Tupaia,Tupaia,5,T323I,13,9,11,3,3,"[5000,7499]",3,non-permissive
+T323S,V4,1,0.631,"[7500,Inf)",Human,Human,4,T323S,13,11,11,7,1,"[7500,Inf)",1,permissive
+T323S,V4,2,0.631,"[7500,Inf)",Monkey,Monkey,4,T323S,13,11,11,7,1,"[7500,Inf)",1,permissive
+T323S,V4,3,0.631,"[7500,Inf)",Hamster,Hamster,4,T323S,13,11,11,7,1,"[7500,Inf)",1,permissive
+T323S,V4,4,0.631,"[7500,Inf)",Rabbit,Rabbit,4,T323S,13,11,11,7,1,"[7500,Inf)",1,permissive
+T323S,V4,5,0.969,"[5000,7499]",Cat,Cat,4,T323S,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+T323S,V4,6,0.631,"[7500,Inf)",Pig,Pig,4,T323S,13,11,11,7,1,"[7500,Inf)",1,permissive
+T323S,V4,7,0.631,"[7500,Inf)",Puma,Puma,4,T323S,13,11,11,7,1,"[7500,Inf)",1,permissive
+T323S,V4,8,0.969,"[5000,7499]",Pangolin,Pangolin,4,T323S,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+T323S,V4,9,0.631,"[7500,Inf)",Dog,Dog,4,T323S,13,11,11,7,1,"[7500,Inf)",1,permissive
+T323S,V4,10,0.631,"[7500,Inf)",Horse,Horse,4,T323S,13,11,11,7,1,"[7500,Inf)",1,permissive
+T323S,V4,11,0.969,"[5000,7499]",Camel,Camel,4,T323S,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+T323S,V4,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,4,T323S,13,11,11,7,1,"[7500,Inf)",1,permissive
+T323S,V4,13,0.996,"[2500,4999]",Whale,Whale,4,T323S,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+T323S,V4,14,0.996,"[2500,4999]",Ferret,Ferret,4,T323S,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+T323S,V4,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,4,T323S,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+T323S,V4,16,0.341,"[0,99]",Mouse,Mouse,4,T323S,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+T323S,V4,17,0.78,"[100,499]",Tupaia,Tupaia,4,T323S,13,11,11,7,1,"[7500,Inf)",1,non-permissive
+T385A,V29,1,0.631,"[7500,Inf)",Human,Human,29,T385A,13,11,11,9,1,"[7500,Inf)",1,permissive
+T385A,V29,2,0.631,"[7500,Inf)",Monkey,Monkey,29,T385A,13,11,11,9,1,"[7500,Inf)",1,permissive
+T385A,V29,3,0.631,"[7500,Inf)",Hamster,Hamster,29,T385A,13,11,11,9,1,"[7500,Inf)",1,permissive
+T385A,V29,4,0.969,"[5000,7499]",Rabbit,Rabbit,29,T385A,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+T385A,V29,5,0.969,"[5000,7499]",Cat,Cat,29,T385A,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+T385A,V29,6,0.631,"[7500,Inf)",Pig,Pig,29,T385A,13,11,11,9,1,"[7500,Inf)",1,permissive
+T385A,V29,7,0.631,"[7500,Inf)",Puma,Puma,29,T385A,13,11,11,9,1,"[7500,Inf)",1,permissive
+T385A,V29,8,0.631,"[7500,Inf)",Pangolin,Pangolin,29,T385A,13,11,11,9,1,"[7500,Inf)",1,permissive
+T385A,V29,9,0.631,"[7500,Inf)",Dog,Dog,29,T385A,13,11,11,9,1,"[7500,Inf)",1,permissive
+T385A,V29,10,0.631,"[7500,Inf)",Horse,Horse,29,T385A,13,11,11,9,1,"[7500,Inf)",1,permissive
+T385A,V29,11,0.969,"[5000,7499]",Camel,Camel,29,T385A,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+T385A,V29,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,29,T385A,13,11,11,9,1,"[7500,Inf)",1,permissive
+T385A,V29,13,0.969,"[5000,7499]",Whale,Whale,29,T385A,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+T385A,V29,14,0.996,"[2500,4999]",Ferret,Ferret,29,T385A,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+T385A,V29,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,29,T385A,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+T385A,V29,16,0.341,"[0,99]",Mouse,Mouse,29,T385A,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+T385A,V29,17,0.341,"[0,99]",Tupaia,Tupaia,29,T385A,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+T470N,V64,1,0.631,"[7500,Inf)",Human,Human,64,T470N,13,11,11,9,7,"[7500,Inf)",7,permissive
+T470N,V64,2,0.631,"[7500,Inf)",Monkey,Monkey,64,T470N,13,11,11,9,7,"[7500,Inf)",7,permissive
+T470N,V64,3,0.631,"[7500,Inf)",Hamster,Hamster,64,T470N,13,11,11,9,7,"[7500,Inf)",7,permissive
+T470N,V64,4,0.631,"[7500,Inf)",Rabbit,Rabbit,64,T470N,13,11,11,9,7,"[7500,Inf)",7,permissive
+T470N,V64,5,0.969,"[5000,7499]",Cat,Cat,64,T470N,13,11,11,9,7,"[7500,Inf)",7,non-permissive
+T470N,V64,6,0.631,"[7500,Inf)",Pig,Pig,64,T470N,13,11,11,9,7,"[7500,Inf)",7,permissive
+T470N,V64,7,0.631,"[7500,Inf)",Puma,Puma,64,T470N,13,11,11,9,7,"[7500,Inf)",7,permissive
+T470N,V64,8,0.631,"[7500,Inf)",Pangolin,Pangolin,64,T470N,13,11,11,9,7,"[7500,Inf)",7,permissive
+T470N,V64,9,0.631,"[7500,Inf)",Dog,Dog,64,T470N,13,11,11,9,7,"[7500,Inf)",7,permissive
+T470N,V64,10,0.631,"[7500,Inf)",Horse,Horse,64,T470N,13,11,11,9,7,"[7500,Inf)",7,permissive
+T470N,V64,11,0.631,"[7500,Inf)",Camel,Camel,64,T470N,13,11,11,9,7,"[7500,Inf)",7,permissive
+T470N,V64,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,64,T470N,13,11,11,9,7,"[7500,Inf)",7,permissive
+T470N,V64,13,0.631,"[7500,Inf)",Whale,Whale,64,T470N,13,11,11,9,7,"[7500,Inf)",7,permissive
+T470N,V64,14,0.996,"[2500,4999]",Ferret,Ferret,64,T470N,13,11,11,9,7,"[7500,Inf)",7,non-permissive
+T470N,V64,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,64,T470N,13,11,11,9,7,"[7500,Inf)",7,non-permissive
+T470N,V64,16,0.341,"[0,99]",Mouse,Mouse,64,T470N,13,11,11,9,7,"[7500,Inf)",7,non-permissive
+T470N,V64,17,0.341,"[0,99]",Tupaia,Tupaia,64,T470N,13,11,11,9,7,"[7500,Inf)",7,non-permissive
+T478I,V77,1,0.969,"[5000,7499]",Human,Human,77,T478I,13,9,11,5,1,"[7500,Inf)",1,non-permissive
+T478I,V77,2,0.631,"[7500,Inf)",Monkey,Monkey,77,T478I,13,9,11,5,1,"[7500,Inf)",1,permissive
+T478I,V77,3,0.631,"[7500,Inf)",Hamster,Hamster,77,T478I,13,9,11,5,1,"[7500,Inf)",1,permissive
+T478I,V77,4,0.631,"[7500,Inf)",Rabbit,Rabbit,77,T478I,13,9,11,5,1,"[7500,Inf)",1,permissive
+T478I,V77,5,0.969,"[5000,7499]",Cat,Cat,77,T478I,13,9,11,5,1,"[7500,Inf)",1,non-permissive
+T478I,V77,6,0.631,"[7500,Inf)",Pig,Pig,77,T478I,13,9,11,5,1,"[7500,Inf)",1,permissive
+T478I,V77,7,0.631,"[7500,Inf)",Puma,Puma,77,T478I,13,9,11,5,1,"[7500,Inf)",1,permissive
+T478I,V77,8,0.969,"[5000,7499]",Pangolin,Pangolin,77,T478I,13,9,11,5,1,"[7500,Inf)",1,non-permissive
+T478I,V77,9,0.631,"[7500,Inf)",Dog,Dog,77,T478I,13,9,11,5,1,"[7500,Inf)",1,permissive
+T478I,V77,10,0.631,"[7500,Inf)",Horse,Horse,77,T478I,13,9,11,5,1,"[7500,Inf)",1,permissive
+T478I,V77,11,0.996,"[2500,4999]",Camel,Camel,77,T478I,13,9,11,5,1,"[7500,Inf)",1,non-permissive
+T478I,V77,12,1,"[500,2499]",Sea Lion,Sea Lion,77,T478I,13,9,11,5,1,"[7500,Inf)",1,non-permissive
+T478I,V77,13,0.631,"[7500,Inf)",Whale,Whale,77,T478I,13,9,11,5,1,"[7500,Inf)",1,permissive
+T478I,V77,14,0.996,"[2500,4999]",Ferret,Ferret,77,T478I,13,9,11,5,1,"[7500,Inf)",1,non-permissive
+T478I,V77,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,77,T478I,13,9,11,5,1,"[7500,Inf)",1,non-permissive
+T478I,V77,16,0.341,"[0,99]",Mouse,Mouse,77,T478I,13,9,11,5,1,"[7500,Inf)",1,non-permissive
+T478I,V77,17,0.78,"[100,499]",Tupaia,Tupaia,77,T478I,13,9,11,5,1,"[7500,Inf)",1,non-permissive
+T478K,V75,1,0.631,"[7500,Inf)",Human,Human,75,T478K,13,11,11,11,3,"[7500,Inf)",3,permissive
+T478K,V75,2,0.631,"[7500,Inf)",Monkey,Monkey,75,T478K,13,11,11,11,3,"[7500,Inf)",3,permissive
+T478K,V75,3,0.631,"[7500,Inf)",Hamster,Hamster,75,T478K,13,11,11,11,3,"[7500,Inf)",3,permissive
+T478K,V75,4,0.969,"[5000,7499]",Rabbit,Rabbit,75,T478K,13,11,11,11,3,"[7500,Inf)",3,non-permissive
+T478K,V75,5,0.969,"[5000,7499]",Cat,Cat,75,T478K,13,11,11,11,3,"[7500,Inf)",3,non-permissive
+T478K,V75,6,0.631,"[7500,Inf)",Pig,Pig,75,T478K,13,11,11,11,3,"[7500,Inf)",3,permissive
+T478K,V75,7,0.631,"[7500,Inf)",Puma,Puma,75,T478K,13,11,11,11,3,"[7500,Inf)",3,permissive
+T478K,V75,8,0.969,"[5000,7499]",Pangolin,Pangolin,75,T478K,13,11,11,11,3,"[7500,Inf)",3,non-permissive
+T478K,V75,9,0.631,"[7500,Inf)",Dog,Dog,75,T478K,13,11,11,11,3,"[7500,Inf)",3,permissive
+T478K,V75,10,0.631,"[7500,Inf)",Horse,Horse,75,T478K,13,11,11,11,3,"[7500,Inf)",3,permissive
+T478K,V75,11,0.631,"[7500,Inf)",Camel,Camel,75,T478K,13,11,11,11,3,"[7500,Inf)",3,permissive
+T478K,V75,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,75,T478K,13,11,11,11,3,"[7500,Inf)",3,permissive
+T478K,V75,13,0.631,"[7500,Inf)",Whale,Whale,75,T478K,13,11,11,11,3,"[7500,Inf)",3,permissive
+T478K,V75,14,0.969,"[5000,7499]",Ferret,Ferret,75,T478K,13,11,11,11,3,"[7500,Inf)",3,non-permissive
+T478K,V75,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,75,T478K,13,11,11,11,3,"[7500,Inf)",3,non-permissive
+T478K,V75,16,0.341,"[0,99]",Mouse,Mouse,75,T478K,13,11,11,11,3,"[7500,Inf)",3,non-permissive
+T478K,V75,17,0.341,"[0,99]",Tupaia,Tupaia,75,T478K,13,11,11,11,3,"[7500,Inf)",3,non-permissive
+T478R,V76,1,0.631,"[7500,Inf)",Human,Human,76,T478R,15,11,11,11,3,"[7500,Inf)",3,permissive
+T478R,V76,2,0.631,"[7500,Inf)",Monkey,Monkey,76,T478R,15,11,11,11,3,"[7500,Inf)",3,permissive
+T478R,V76,3,0.631,"[7500,Inf)",Hamster,Hamster,76,T478R,15,11,11,11,3,"[7500,Inf)",3,permissive
+T478R,V76,4,0.631,"[7500,Inf)",Rabbit,Rabbit,76,T478R,15,11,11,11,3,"[7500,Inf)",3,permissive
+T478R,V76,5,0.969,"[5000,7499]",Cat,Cat,76,T478R,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+T478R,V76,6,0.631,"[7500,Inf)",Pig,Pig,76,T478R,15,11,11,11,3,"[7500,Inf)",3,permissive
+T478R,V76,7,0.631,"[7500,Inf)",Puma,Puma,76,T478R,15,11,11,11,3,"[7500,Inf)",3,permissive
+T478R,V76,8,0.969,"[5000,7499]",Pangolin,Pangolin,76,T478R,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+T478R,V76,9,0.631,"[7500,Inf)",Dog,Dog,76,T478R,15,11,11,11,3,"[7500,Inf)",3,permissive
+T478R,V76,10,0.969,"[5000,7499]",Horse,Horse,76,T478R,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+T478R,V76,11,0.631,"[7500,Inf)",Camel,Camel,76,T478R,15,11,11,11,3,"[7500,Inf)",3,permissive
+T478R,V76,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,76,T478R,15,11,11,11,3,"[7500,Inf)",3,permissive
+T478R,V76,13,0.631,"[7500,Inf)",Whale,Whale,76,T478R,15,11,11,11,3,"[7500,Inf)",3,permissive
+T478R,V76,14,0.969,"[5000,7499]",Ferret,Ferret,76,T478R,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+T478R,V76,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,76,T478R,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+T478R,V76,16,0.78,"[100,499]",Mouse,Mouse,76,T478R,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+T478R,V76,17,0.78,"[100,499]",Tupaia,Tupaia,76,T478R,15,11,11,11,3,"[7500,Inf)",3,non-permissive
+T547I,V111,1,0.631,"[7500,Inf)",Human,Human,111,T547I,11,11,11,9,5,"[7500,Inf)",5,permissive
+T547I,V111,2,0.631,"[7500,Inf)",Monkey,Monkey,111,T547I,11,11,11,9,5,"[7500,Inf)",5,permissive
+T547I,V111,3,0.631,"[7500,Inf)",Hamster,Hamster,111,T547I,11,11,11,9,5,"[7500,Inf)",5,permissive
+T547I,V111,4,0.631,"[7500,Inf)",Rabbit,Rabbit,111,T547I,11,11,11,9,5,"[7500,Inf)",5,permissive
+T547I,V111,5,0.969,"[5000,7499]",Cat,Cat,111,T547I,11,11,11,9,5,"[7500,Inf)",5,non-permissive
+T547I,V111,6,0.631,"[7500,Inf)",Pig,Pig,111,T547I,11,11,11,9,5,"[7500,Inf)",5,permissive
+T547I,V111,7,0.631,"[7500,Inf)",Puma,Puma,111,T547I,11,11,11,9,5,"[7500,Inf)",5,permissive
+T547I,V111,8,0.969,"[5000,7499]",Pangolin,Pangolin,111,T547I,11,11,11,9,5,"[7500,Inf)",5,non-permissive
+T547I,V111,9,0.631,"[7500,Inf)",Dog,Dog,111,T547I,11,11,11,9,5,"[7500,Inf)",5,permissive
+T547I,V111,10,0.631,"[7500,Inf)",Horse,Horse,111,T547I,11,11,11,9,5,"[7500,Inf)",5,permissive
+T547I,V111,11,0.631,"[7500,Inf)",Camel,Camel,111,T547I,11,11,11,9,5,"[7500,Inf)",5,permissive
+T547I,V111,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,111,T547I,11,11,11,9,5,"[7500,Inf)",5,permissive
+T547I,V111,13,0.631,"[7500,Inf)",Whale,Whale,111,T547I,11,11,11,9,5,"[7500,Inf)",5,permissive
+T547I,V111,14,0.996,"[2500,4999]",Ferret,Ferret,111,T547I,11,11,11,9,5,"[7500,Inf)",5,non-permissive
+T547I,V111,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,111,T547I,11,11,11,9,5,"[7500,Inf)",5,non-permissive
+T547I,V111,16,0.341,"[0,99]",Mouse,Mouse,111,T547I,11,11,11,9,5,"[7500,Inf)",5,non-permissive
+T547I,V111,17,0.341,"[0,99]",Tupaia,Tupaia,111,T547I,11,11,11,9,5,"[7500,Inf)",5,non-permissive
+T549A,V112,1,0.631,"[7500,Inf)",Human,Human,112,T549A,15,11,11,9,9,"[5000,7499]",9,permissive
+T549A,V112,2,0.631,"[7500,Inf)",Monkey,Monkey,112,T549A,15,11,11,9,9,"[5000,7499]",9,permissive
+T549A,V112,3,0.631,"[7500,Inf)",Hamster,Hamster,112,T549A,15,11,11,9,9,"[5000,7499]",9,permissive
+T549A,V112,4,0.631,"[7500,Inf)",Rabbit,Rabbit,112,T549A,15,11,11,9,9,"[5000,7499]",9,permissive
+T549A,V112,5,0.631,"[7500,Inf)",Cat,Cat,112,T549A,15,11,11,9,9,"[5000,7499]",9,permissive
+T549A,V112,6,0.631,"[7500,Inf)",Pig,Pig,112,T549A,15,11,11,9,9,"[5000,7499]",9,permissive
+T549A,V112,7,0.631,"[7500,Inf)",Puma,Puma,112,T549A,15,11,11,9,9,"[5000,7499]",9,permissive
+T549A,V112,8,0.631,"[7500,Inf)",Pangolin,Pangolin,112,T549A,15,11,11,9,9,"[5000,7499]",9,permissive
+T549A,V112,9,0.631,"[7500,Inf)",Dog,Dog,112,T549A,15,11,11,9,9,"[5000,7499]",9,permissive
+T549A,V112,10,0.631,"[7500,Inf)",Horse,Horse,112,T549A,15,11,11,9,9,"[5000,7499]",9,permissive
+T549A,V112,11,0.631,"[7500,Inf)",Camel,Camel,112,T549A,15,11,11,9,9,"[5000,7499]",9,permissive
+T549A,V112,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,112,T549A,15,11,11,9,9,"[5000,7499]",9,permissive
+T549A,V112,13,0.631,"[7500,Inf)",Whale,Whale,112,T549A,15,11,11,9,9,"[5000,7499]",9,permissive
+T549A,V112,14,0.996,"[2500,4999]",Ferret,Ferret,112,T549A,15,11,11,9,9,"[5000,7499]",9,non-permissive
+T549A,V112,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,112,T549A,15,11,11,9,9,"[5000,7499]",9,non-permissive
+T549A,V112,16,0.341,"[0,99]",Mouse,Mouse,112,T549A,15,11,11,9,9,"[5000,7499]",9,non-permissive
+T549A,V112,17,0.78,"[100,499]",Tupaia,Tupaia,112,T549A,15,11,11,9,9,"[5000,7499]",9,non-permissive
+V320G,V2,1,0.969,"[5000,7499]",Human,Human,2,V320G,11,7,9,5,9,"[5000,7499]",5,permissive
+V320G,V2,2,0.631,"[7500,Inf)",Monkey,Monkey,2,V320G,11,7,9,5,9,"[5000,7499]",5,permissive
+V320G,V2,3,0.631,"[7500,Inf)",Hamster,Hamster,2,V320G,11,7,9,5,9,"[5000,7499]",5,permissive
+V320G,V2,4,0.969,"[5000,7499]",Rabbit,Rabbit,2,V320G,11,7,9,5,9,"[5000,7499]",5,permissive
+V320G,V2,5,0.969,"[5000,7499]",Cat,Cat,2,V320G,11,7,9,5,9,"[5000,7499]",5,permissive
+V320G,V2,6,0.969,"[5000,7499]",Pig,Pig,2,V320G,11,7,9,5,9,"[5000,7499]",5,permissive
+V320G,V2,7,0.631,"[7500,Inf)",Puma,Puma,2,V320G,11,7,9,5,9,"[5000,7499]",5,permissive
+V320G,V2,8,0.969,"[5000,7499]",Pangolin,Pangolin,2,V320G,11,7,9,5,9,"[5000,7499]",5,permissive
+V320G,V2,9,0.631,"[7500,Inf)",Dog,Dog,2,V320G,11,7,9,5,9,"[5000,7499]",5,permissive
+V320G,V2,10,0.969,"[5000,7499]",Horse,Horse,2,V320G,11,7,9,5,9,"[5000,7499]",5,permissive
+V320G,V2,11,0.996,"[2500,4999]",Camel,Camel,2,V320G,11,7,9,5,9,"[5000,7499]",5,non-permissive
+V320G,V2,12,0.969,"[5000,7499]",Sea Lion,Sea Lion,2,V320G,11,7,9,5,9,"[5000,7499]",5,permissive
+V320G,V2,13,1,"[500,2499]",Whale,Whale,2,V320G,11,7,9,5,9,"[5000,7499]",5,non-permissive
+V320G,V2,14,0.78,"[100,499]",Ferret,Ferret,2,V320G,11,7,9,5,9,"[5000,7499]",5,non-permissive
+V320G,V2,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,2,V320G,11,7,9,5,9,"[5000,7499]",5,non-permissive
+V320G,V2,16,0.341,"[0,99]",Mouse,Mouse,2,V320G,11,7,9,5,9,"[5000,7499]",5,non-permissive
+V320G,V2,17,0.341,"[0,99]",Tupaia,Tupaia,2,V320G,11,7,9,5,9,"[5000,7499]",5,non-permissive
+V341I,V13,1,0.631,"[7500,Inf)",Human,Human,13,V341I,15,11,11,9,5,"[7500,Inf)",5,permissive
+V341I,V13,2,0.631,"[7500,Inf)",Monkey,Monkey,13,V341I,15,11,11,9,5,"[7500,Inf)",5,permissive
+V341I,V13,3,0.631,"[7500,Inf)",Hamster,Hamster,13,V341I,15,11,11,9,5,"[7500,Inf)",5,permissive
+V341I,V13,4,0.631,"[7500,Inf)",Rabbit,Rabbit,13,V341I,15,11,11,9,5,"[7500,Inf)",5,permissive
+V341I,V13,5,0.969,"[5000,7499]",Cat,Cat,13,V341I,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+V341I,V13,6,0.631,"[7500,Inf)",Pig,Pig,13,V341I,15,11,11,9,5,"[7500,Inf)",5,permissive
+V341I,V13,7,0.631,"[7500,Inf)",Puma,Puma,13,V341I,15,11,11,9,5,"[7500,Inf)",5,permissive
+V341I,V13,8,0.969,"[5000,7499]",Pangolin,Pangolin,13,V341I,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+V341I,V13,9,0.631,"[7500,Inf)",Dog,Dog,13,V341I,15,11,11,9,5,"[7500,Inf)",5,permissive
+V341I,V13,10,0.631,"[7500,Inf)",Horse,Horse,13,V341I,15,11,11,9,5,"[7500,Inf)",5,permissive
+V341I,V13,11,0.631,"[7500,Inf)",Camel,Camel,13,V341I,15,11,11,9,5,"[7500,Inf)",5,permissive
+V341I,V13,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,13,V341I,15,11,11,9,5,"[7500,Inf)",5,permissive
+V341I,V13,13,0.631,"[7500,Inf)",Whale,Whale,13,V341I,15,11,11,9,5,"[7500,Inf)",5,permissive
+V341I,V13,14,0.996,"[2500,4999]",Ferret,Ferret,13,V341I,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+V341I,V13,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,13,V341I,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+V341I,V13,16,0.341,"[0,99]",Mouse,Mouse,13,V341I,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+V341I,V13,17,0.78,"[100,499]",Tupaia,Tupaia,13,V341I,15,11,11,9,5,"[7500,Inf)",5,non-permissive
+V367F,V22,1,0.631,"[7500,Inf)",Human,Human,22,V367F,15,7,11,5,9,"[5000,7499]",5,permissive
+V367F,V22,2,0.969,"[5000,7499]",Monkey,Monkey,22,V367F,15,7,11,5,9,"[5000,7499]",5,permissive
+V367F,V22,3,0.969,"[5000,7499]",Hamster,Hamster,22,V367F,15,7,11,5,9,"[5000,7499]",5,permissive
+V367F,V22,4,0.631,"[7500,Inf)",Rabbit,Rabbit,22,V367F,15,7,11,5,9,"[5000,7499]",5,permissive
+V367F,V22,5,0.969,"[5000,7499]",Cat,Cat,22,V367F,15,7,11,5,9,"[5000,7499]",5,permissive
+V367F,V22,6,0.969,"[5000,7499]",Pig,Pig,22,V367F,15,7,11,5,9,"[5000,7499]",5,permissive
+V367F,V22,7,0.631,"[7500,Inf)",Puma,Puma,22,V367F,15,7,11,5,9,"[5000,7499]",5,permissive
+V367F,V22,8,0.996,"[2500,4999]",Pangolin,Pangolin,22,V367F,15,7,11,5,9,"[5000,7499]",5,non-permissive
+V367F,V22,9,0.969,"[5000,7499]",Dog,Dog,22,V367F,15,7,11,5,9,"[5000,7499]",5,permissive
+V367F,V22,10,0.631,"[7500,Inf)",Horse,Horse,22,V367F,15,7,11,5,9,"[5000,7499]",5,permissive
+V367F,V22,11,1,"[500,2499]",Camel,Camel,22,V367F,15,7,11,5,9,"[5000,7499]",5,non-permissive
+V367F,V22,12,0.969,"[5000,7499]",Sea Lion,Sea Lion,22,V367F,15,7,11,5,9,"[5000,7499]",5,permissive
+V367F,V22,13,0.969,"[5000,7499]",Whale,Whale,22,V367F,15,7,11,5,9,"[5000,7499]",5,permissive
+V367F,V22,14,1,"[500,2499]",Ferret,Ferret,22,V367F,15,7,11,5,9,"[5000,7499]",5,non-permissive
+V367F,V22,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,22,V367F,15,7,11,5,9,"[5000,7499]",5,non-permissive
+V367F,V22,16,0.78,"[100,499]",Mouse,Mouse,22,V367F,15,7,11,5,9,"[5000,7499]",5,non-permissive
+V367F,V22,17,0.78,"[100,499]",Tupaia,Tupaia,22,V367F,15,7,11,5,9,"[5000,7499]",5,non-permissive
+V382L,V26,1,0.631,"[7500,Inf)",Human,Human,26,V382L,13,11,13,9,3,"[7500,Inf)",3,permissive
+V382L,V26,2,0.631,"[7500,Inf)",Monkey,Monkey,26,V382L,13,11,13,9,3,"[7500,Inf)",3,permissive
+V382L,V26,3,0.631,"[7500,Inf)",Hamster,Hamster,26,V382L,13,11,13,9,3,"[7500,Inf)",3,permissive
+V382L,V26,4,0.631,"[7500,Inf)",Rabbit,Rabbit,26,V382L,13,11,13,9,3,"[7500,Inf)",3,permissive
+V382L,V26,5,0.969,"[5000,7499]",Cat,Cat,26,V382L,13,11,13,9,3,"[7500,Inf)",3,non-permissive
+V382L,V26,6,0.631,"[7500,Inf)",Pig,Pig,26,V382L,13,11,13,9,3,"[7500,Inf)",3,permissive
+V382L,V26,7,0.631,"[7500,Inf)",Puma,Puma,26,V382L,13,11,13,9,3,"[7500,Inf)",3,permissive
+V382L,V26,8,0.969,"[5000,7499]",Pangolin,Pangolin,26,V382L,13,11,13,9,3,"[7500,Inf)",3,non-permissive
+V382L,V26,9,0.631,"[7500,Inf)",Dog,Dog,26,V382L,13,11,13,9,3,"[7500,Inf)",3,permissive
+V382L,V26,10,0.631,"[7500,Inf)",Horse,Horse,26,V382L,13,11,13,9,3,"[7500,Inf)",3,permissive
+V382L,V26,11,0.631,"[7500,Inf)",Camel,Camel,26,V382L,13,11,13,9,3,"[7500,Inf)",3,permissive
+V382L,V26,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,26,V382L,13,11,13,9,3,"[7500,Inf)",3,permissive
+V382L,V26,13,0.969,"[5000,7499]",Whale,Whale,26,V382L,13,11,13,9,3,"[7500,Inf)",3,non-permissive
+V382L,V26,14,0.996,"[2500,4999]",Ferret,Ferret,26,V382L,13,11,13,9,3,"[7500,Inf)",3,non-permissive
+V382L,V26,15,1,"[500,2499]",Horseshoe bat,Horseshoe bat,26,V382L,13,11,13,9,3,"[7500,Inf)",3,non-permissive
+V382L,V26,16,0.341,"[0,99]",Mouse,Mouse,26,V382L,13,11,13,9,3,"[7500,Inf)",3,non-permissive
+V382L,V26,17,0.341,"[0,99]",Tupaia,Tupaia,26,V382L,13,11,13,9,3,"[7500,Inf)",3,non-permissive
+V395I,V30,1,0.969,"[5000,7499]",Human,Human,30,V395I,15,11,11,5,11,"[5000,7499]",5,permissive
+V395I,V30,2,0.969,"[5000,7499]",Monkey,Monkey,30,V395I,15,11,11,5,11,"[5000,7499]",5,permissive
+V395I,V30,3,0.969,"[5000,7499]",Hamster,Hamster,30,V395I,15,11,11,5,11,"[5000,7499]",5,permissive
+V395I,V30,4,0.969,"[5000,7499]",Rabbit,Rabbit,30,V395I,15,11,11,5,11,"[5000,7499]",5,permissive
+V395I,V30,5,0.996,"[2500,4999]",Cat,Cat,30,V395I,15,11,11,5,11,"[5000,7499]",5,non-permissive
+V395I,V30,6,0.631,"[7500,Inf)",Pig,Pig,30,V395I,15,11,11,5,11,"[5000,7499]",5,permissive
+V395I,V30,7,0.631,"[7500,Inf)",Puma,Puma,30,V395I,15,11,11,5,11,"[5000,7499]",5,permissive
+V395I,V30,8,0.969,"[5000,7499]",Pangolin,Pangolin,30,V395I,15,11,11,5,11,"[5000,7499]",5,permissive
+V395I,V30,9,0.969,"[5000,7499]",Dog,Dog,30,V395I,15,11,11,5,11,"[5000,7499]",5,permissive
+V395I,V30,10,0.969,"[5000,7499]",Horse,Horse,30,V395I,15,11,11,5,11,"[5000,7499]",5,permissive
+V395I,V30,11,0.969,"[5000,7499]",Camel,Camel,30,V395I,15,11,11,5,11,"[5000,7499]",5,permissive
+V395I,V30,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,30,V395I,15,11,11,5,11,"[5000,7499]",5,permissive
+V395I,V30,13,0.996,"[2500,4999]",Whale,Whale,30,V395I,15,11,11,5,11,"[5000,7499]",5,non-permissive
+V395I,V30,14,0.996,"[2500,4999]",Ferret,Ferret,30,V395I,15,11,11,5,11,"[5000,7499]",5,non-permissive
+V395I,V30,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,30,V395I,15,11,11,5,11,"[5000,7499]",5,non-permissive
+V395I,V30,16,0.341,"[0,99]",Mouse,Mouse,30,V395I,15,11,11,5,11,"[5000,7499]",5,non-permissive
+V395I,V30,17,0.78,"[100,499]",Tupaia,Tupaia,30,V395I,15,11,11,5,11,"[5000,7499]",5,non-permissive
+V483A,V80,1,0.631,"[7500,Inf)",Human,Human,80,V483A,15,11,13,9,5,"[7500,Inf)",5,permissive
+V483A,V80,2,0.631,"[7500,Inf)",Monkey,Monkey,80,V483A,15,11,13,9,5,"[7500,Inf)",5,permissive
+V483A,V80,3,0.631,"[7500,Inf)",Hamster,Hamster,80,V483A,15,11,13,9,5,"[7500,Inf)",5,permissive
+V483A,V80,4,0.631,"[7500,Inf)",Rabbit,Rabbit,80,V483A,15,11,13,9,5,"[7500,Inf)",5,permissive
+V483A,V80,5,0.969,"[5000,7499]",Cat,Cat,80,V483A,15,11,13,9,5,"[7500,Inf)",5,non-permissive
+V483A,V80,6,0.631,"[7500,Inf)",Pig,Pig,80,V483A,15,11,13,9,5,"[7500,Inf)",5,permissive
+V483A,V80,7,0.631,"[7500,Inf)",Puma,Puma,80,V483A,15,11,13,9,5,"[7500,Inf)",5,permissive
+V483A,V80,8,0.969,"[5000,7499]",Pangolin,Pangolin,80,V483A,15,11,13,9,5,"[7500,Inf)",5,non-permissive
+V483A,V80,9,0.631,"[7500,Inf)",Dog,Dog,80,V483A,15,11,13,9,5,"[7500,Inf)",5,permissive
+V483A,V80,10,0.631,"[7500,Inf)",Horse,Horse,80,V483A,15,11,13,9,5,"[7500,Inf)",5,permissive
+V483A,V80,11,0.631,"[7500,Inf)",Camel,Camel,80,V483A,15,11,13,9,5,"[7500,Inf)",5,permissive
+V483A,V80,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,80,V483A,15,11,13,9,5,"[7500,Inf)",5,permissive
+V483A,V80,13,0.631,"[7500,Inf)",Whale,Whale,80,V483A,15,11,13,9,5,"[7500,Inf)",5,permissive
+V483A,V80,14,0.996,"[2500,4999]",Ferret,Ferret,80,V483A,15,11,13,9,5,"[7500,Inf)",5,non-permissive
+V483A,V80,15,1,"[500,2499]",Horseshoe bat,Horseshoe bat,80,V483A,15,11,13,9,5,"[7500,Inf)",5,non-permissive
+V483A,V80,16,0.341,"[0,99]",Mouse,Mouse,80,V483A,15,11,13,9,5,"[7500,Inf)",5,non-permissive
+V483A,V80,17,0.78,"[100,499]",Tupaia,Tupaia,80,V483A,15,11,13,9,5,"[7500,Inf)",5,non-permissive
+V483F,V81,1,0.969,"[5000,7499]",Human,Human,81,V483F,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+V483F,V81,2,0.631,"[7500,Inf)",Monkey,Monkey,81,V483F,13,11,11,9,1,"[7500,Inf)",1,permissive
+V483F,V81,3,0.631,"[7500,Inf)",Hamster,Hamster,81,V483F,13,11,11,9,1,"[7500,Inf)",1,permissive
+V483F,V81,4,0.631,"[7500,Inf)",Rabbit,Rabbit,81,V483F,13,11,11,9,1,"[7500,Inf)",1,permissive
+V483F,V81,5,0.969,"[5000,7499]",Cat,Cat,81,V483F,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+V483F,V81,6,0.631,"[7500,Inf)",Pig,Pig,81,V483F,13,11,11,9,1,"[7500,Inf)",1,permissive
+V483F,V81,7,0.631,"[7500,Inf)",Puma,Puma,81,V483F,13,11,11,9,1,"[7500,Inf)",1,permissive
+V483F,V81,8,0.969,"[5000,7499]",Pangolin,Pangolin,81,V483F,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+V483F,V81,9,0.631,"[7500,Inf)",Dog,Dog,81,V483F,13,11,11,9,1,"[7500,Inf)",1,permissive
+V483F,V81,10,0.631,"[7500,Inf)",Horse,Horse,81,V483F,13,11,11,9,1,"[7500,Inf)",1,permissive
+V483F,V81,11,0.631,"[7500,Inf)",Camel,Camel,81,V483F,13,11,11,9,1,"[7500,Inf)",1,permissive
+V483F,V81,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,81,V483F,13,11,11,9,1,"[7500,Inf)",1,permissive
+V483F,V81,13,0.969,"[5000,7499]",Whale,Whale,81,V483F,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+V483F,V81,14,0.996,"[2500,4999]",Ferret,Ferret,81,V483F,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+V483F,V81,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,81,V483F,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+V483F,V81,16,0.341,"[0,99]",Mouse,Mouse,81,V483F,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+V483F,V81,17,0.78,"[100,499]",Tupaia,Tupaia,81,V483F,13,11,11,9,1,"[7500,Inf)",1,non-permissive
+V503F,V92,1,0.631,"[7500,Inf)",Human,Human,92,V503F,11,9,11,9,3,"[7500,Inf)",3,permissive
+V503F,V92,2,0.631,"[7500,Inf)",Monkey,Monkey,92,V503F,11,9,11,9,3,"[7500,Inf)",3,permissive
+V503F,V92,3,0.631,"[7500,Inf)",Hamster,Hamster,92,V503F,11,9,11,9,3,"[7500,Inf)",3,permissive
+V503F,V92,4,0.631,"[7500,Inf)",Rabbit,Rabbit,92,V503F,11,9,11,9,3,"[7500,Inf)",3,permissive
+V503F,V92,5,0.969,"[5000,7499]",Cat,Cat,92,V503F,11,9,11,9,3,"[7500,Inf)",3,non-permissive
+V503F,V92,6,0.631,"[7500,Inf)",Pig,Pig,92,V503F,11,9,11,9,3,"[7500,Inf)",3,permissive
+V503F,V92,7,0.631,"[7500,Inf)",Puma,Puma,92,V503F,11,9,11,9,3,"[7500,Inf)",3,permissive
+V503F,V92,8,0.969,"[5000,7499]",Pangolin,Pangolin,92,V503F,11,9,11,9,3,"[7500,Inf)",3,non-permissive
+V503F,V92,9,0.631,"[7500,Inf)",Dog,Dog,92,V503F,11,9,11,9,3,"[7500,Inf)",3,permissive
+V503F,V92,10,0.631,"[7500,Inf)",Horse,Horse,92,V503F,11,9,11,9,3,"[7500,Inf)",3,permissive
+V503F,V92,11,0.631,"[7500,Inf)",Camel,Camel,92,V503F,11,9,11,9,3,"[7500,Inf)",3,permissive
+V503F,V92,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,92,V503F,11,9,11,9,3,"[7500,Inf)",3,permissive
+V503F,V92,13,0.969,"[5000,7499]",Whale,Whale,92,V503F,11,9,11,9,3,"[7500,Inf)",3,non-permissive
+V503F,V92,14,1,"[500,2499]",Ferret,Ferret,92,V503F,11,9,11,9,3,"[7500,Inf)",3,non-permissive
+V503F,V92,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,92,V503F,11,9,11,9,3,"[7500,Inf)",3,non-permissive
+V503F,V92,16,0.341,"[0,99]",Mouse,Mouse,92,V503F,11,9,11,9,3,"[7500,Inf)",3,non-permissive
+V503F,V92,17,0.341,"[0,99]",Tupaia,Tupaia,92,V503F,11,9,11,9,3,"[7500,Inf)",3,non-permissive
+V503I,V93,1,0.631,"[7500,Inf)",Human,Human,93,V503I,15,11,11,11,5,"[7500,Inf)",5,permissive
+V503I,V93,2,0.631,"[7500,Inf)",Monkey,Monkey,93,V503I,15,11,11,11,5,"[7500,Inf)",5,permissive
+V503I,V93,3,0.631,"[7500,Inf)",Hamster,Hamster,93,V503I,15,11,11,11,5,"[7500,Inf)",5,permissive
+V503I,V93,4,0.631,"[7500,Inf)",Rabbit,Rabbit,93,V503I,15,11,11,11,5,"[7500,Inf)",5,permissive
+V503I,V93,5,0.631,"[7500,Inf)",Cat,Cat,93,V503I,15,11,11,11,5,"[7500,Inf)",5,permissive
+V503I,V93,6,0.631,"[7500,Inf)",Pig,Pig,93,V503I,15,11,11,11,5,"[7500,Inf)",5,permissive
+V503I,V93,7,0.631,"[7500,Inf)",Puma,Puma,93,V503I,15,11,11,11,5,"[7500,Inf)",5,permissive
+V503I,V93,8,0.969,"[5000,7499]",Pangolin,Pangolin,93,V503I,15,11,11,11,5,"[7500,Inf)",5,non-permissive
+V503I,V93,9,0.631,"[7500,Inf)",Dog,Dog,93,V503I,15,11,11,11,5,"[7500,Inf)",5,permissive
+V503I,V93,10,0.631,"[7500,Inf)",Horse,Horse,93,V503I,15,11,11,11,5,"[7500,Inf)",5,permissive
+V503I,V93,11,0.631,"[7500,Inf)",Camel,Camel,93,V503I,15,11,11,11,5,"[7500,Inf)",5,permissive
+V503I,V93,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,93,V503I,15,11,11,11,5,"[7500,Inf)",5,permissive
+V503I,V93,13,0.969,"[5000,7499]",Whale,Whale,93,V503I,15,11,11,11,5,"[7500,Inf)",5,non-permissive
+V503I,V93,14,0.969,"[5000,7499]",Ferret,Ferret,93,V503I,15,11,11,11,5,"[7500,Inf)",5,non-permissive
+V503I,V93,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,93,V503I,15,11,11,11,5,"[7500,Inf)",5,non-permissive
+V503I,V93,16,0.341,"[0,99]",Mouse,Mouse,93,V503I,15,11,11,11,5,"[7500,Inf)",5,non-permissive
+V503I,V93,17,0.78,"[100,499]",Tupaia,Tupaia,93,V503I,15,11,11,11,5,"[7500,Inf)",5,non-permissive
+V534I,V109,1,0.631,"[7500,Inf)",Human,Human,109,V534I,,9,11,9,1,"[7500,Inf)",1,permissive
+V534I,V109,2,0.631,"[7500,Inf)",Monkey,Monkey,109,V534I,,9,11,9,1,"[7500,Inf)",1,permissive
+V534I,V109,3,0.631,"[7500,Inf)",Hamster,Hamster,109,V534I,,9,11,9,1,"[7500,Inf)",1,permissive
+V534I,V109,4,0.631,"[7500,Inf)",Rabbit,Rabbit,109,V534I,,9,11,9,1,"[7500,Inf)",1,permissive
+V534I,V109,5,0.969,"[5000,7499]",Cat,Cat,109,V534I,,9,11,9,1,"[7500,Inf)",1,non-permissive
+V534I,V109,6,0.969,"[5000,7499]",Pig,Pig,109,V534I,,9,11,9,1,"[7500,Inf)",1,non-permissive
+V534I,V109,7,0.631,"[7500,Inf)",Puma,Puma,109,V534I,,9,11,9,1,"[7500,Inf)",1,permissive
+V534I,V109,8,0.969,"[5000,7499]",Pangolin,Pangolin,109,V534I,,9,11,9,1,"[7500,Inf)",1,non-permissive
+V534I,V109,9,0.631,"[7500,Inf)",Dog,Dog,109,V534I,,9,11,9,1,"[7500,Inf)",1,permissive
+V534I,V109,10,0.631,"[7500,Inf)",Horse,Horse,109,V534I,,9,11,9,1,"[7500,Inf)",1,permissive
+V534I,V109,11,0.631,"[7500,Inf)",Camel,Camel,109,V534I,,9,11,9,1,"[7500,Inf)",1,permissive
+V534I,V109,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,109,V534I,,9,11,9,1,"[7500,Inf)",1,permissive
+V534I,V109,13,0.969,"[5000,7499]",Whale,Whale,109,V534I,,9,11,9,1,"[7500,Inf)",1,non-permissive
+V534I,V109,14,1,"[500,2499]",Ferret,Ferret,109,V534I,,9,11,9,1,"[7500,Inf)",1,non-permissive
+V534I,V109,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,109,V534I,,9,11,9,1,"[7500,Inf)",1,non-permissive
+V534I,V109,16,0.78,"[100,499]",Mouse,Mouse,109,V534I,,9,11,9,1,"[7500,Inf)",1,non-permissive
+V534I,V109,17,0.78,"[100,499]",Tupaia,Tupaia,109,V534I,,9,11,9,1,"[7500,Inf)",1,non-permissive
+Y453F,V53,1,0.631,"[7500,Inf)",Human,Human,53,Y453F,11,11,11,9,1,"[7500,Inf)",1,permissive
+Y453F,V53,2,0.631,"[7500,Inf)",Monkey,Monkey,53,Y453F,11,11,11,9,1,"[7500,Inf)",1,permissive
+Y453F,V53,3,0.631,"[7500,Inf)",Hamster,Hamster,53,Y453F,11,11,11,9,1,"[7500,Inf)",1,permissive
+Y453F,V53,4,0.631,"[7500,Inf)",Rabbit,Rabbit,53,Y453F,11,11,11,9,1,"[7500,Inf)",1,permissive
+Y453F,V53,5,0.969,"[5000,7499]",Cat,Cat,53,Y453F,11,11,11,9,1,"[7500,Inf)",1,non-permissive
+Y453F,V53,6,0.631,"[7500,Inf)",Pig,Pig,53,Y453F,11,11,11,9,1,"[7500,Inf)",1,permissive
+Y453F,V53,7,0.631,"[7500,Inf)",Puma,Puma,53,Y453F,11,11,11,9,1,"[7500,Inf)",1,permissive
+Y453F,V53,8,0.969,"[5000,7499]",Pangolin,Pangolin,53,Y453F,11,11,11,9,1,"[7500,Inf)",1,non-permissive
+Y453F,V53,9,0.631,"[7500,Inf)",Dog,Dog,53,Y453F,11,11,11,9,1,"[7500,Inf)",1,permissive
+Y453F,V53,10,0.969,"[5000,7499]",Horse,Horse,53,Y453F,11,11,11,9,1,"[7500,Inf)",1,non-permissive
+Y453F,V53,11,0.631,"[7500,Inf)",Camel,Camel,53,Y453F,11,11,11,9,1,"[7500,Inf)",1,permissive
+Y453F,V53,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,53,Y453F,11,11,11,9,1,"[7500,Inf)",1,permissive
+Y453F,V53,13,0.996,"[2500,4999]",Whale,Whale,53,Y453F,11,11,11,9,1,"[7500,Inf)",1,non-permissive
+Y453F,V53,14,0.969,"[5000,7499]",Ferret,Ferret,53,Y453F,11,11,11,9,1,"[7500,Inf)",1,non-permissive
+Y453F,V53,15,0.341,"[0,99]",Horseshoe bat,Horseshoe bat,53,Y453F,11,11,11,9,1,"[7500,Inf)",1,non-permissive
+Y453F,V53,16,0.341,"[0,99]",Mouse,Mouse,53,Y453F,11,11,11,9,1,"[7500,Inf)",1,non-permissive
+Y453F,V53,17,0.341,"[0,99]",Tupaia,Tupaia,53,Y453F,11,11,11,9,1,"[7500,Inf)",1,non-permissive
+Y473F,V68,1,0.969,"[5000,7499]",Human,Human,68,Y473F,15,9,11,7,1,"[7500,Inf)",1,non-permissive
+Y473F,V68,2,0.631,"[7500,Inf)",Monkey,Monkey,68,Y473F,15,9,11,7,1,"[7500,Inf)",1,permissive
+Y473F,V68,3,0.631,"[7500,Inf)",Hamster,Hamster,68,Y473F,15,9,11,7,1,"[7500,Inf)",1,permissive
+Y473F,V68,4,0.631,"[7500,Inf)",Rabbit,Rabbit,68,Y473F,15,9,11,7,1,"[7500,Inf)",1,permissive
+Y473F,V68,5,0.969,"[5000,7499]",Cat,Cat,68,Y473F,15,9,11,7,1,"[7500,Inf)",1,non-permissive
+Y473F,V68,6,0.969,"[5000,7499]",Pig,Pig,68,Y473F,15,9,11,7,1,"[7500,Inf)",1,non-permissive
+Y473F,V68,7,0.631,"[7500,Inf)",Puma,Puma,68,Y473F,15,9,11,7,1,"[7500,Inf)",1,permissive
+Y473F,V68,8,0.996,"[2500,4999]",Pangolin,Pangolin,68,Y473F,15,9,11,7,1,"[7500,Inf)",1,non-permissive
+Y473F,V68,9,0.631,"[7500,Inf)",Dog,Dog,68,Y473F,15,9,11,7,1,"[7500,Inf)",1,permissive
+Y473F,V68,10,0.631,"[7500,Inf)",Horse,Horse,68,Y473F,15,9,11,7,1,"[7500,Inf)",1,permissive
+Y473F,V68,11,0.631,"[7500,Inf)",Camel,Camel,68,Y473F,15,9,11,7,1,"[7500,Inf)",1,permissive
+Y473F,V68,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,68,Y473F,15,9,11,7,1,"[7500,Inf)",1,permissive
+Y473F,V68,13,0.631,"[7500,Inf)",Whale,Whale,68,Y473F,15,9,11,7,1,"[7500,Inf)",1,permissive
+Y473F,V68,14,1,"[500,2499]",Ferret,Ferret,68,Y473F,15,9,11,7,1,"[7500,Inf)",1,non-permissive
+Y473F,V68,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,68,Y473F,15,9,11,7,1,"[7500,Inf)",1,non-permissive
+Y473F,V68,16,0.341,"[0,99]",Mouse,Mouse,68,Y473F,15,9,11,7,1,"[7500,Inf)",1,non-permissive
+Y473F,V68,17,0.78,"[100,499]",Tupaia,Tupaia,68,Y473F,15,9,11,7,1,"[7500,Inf)",1,non-permissive
+Y508H,V94,1,0.631,"[7500,Inf)",Human,Human,94,Y508H,13,11,11,9,3,"[7500,Inf)",3,permissive
+Y508H,V94,2,0.631,"[7500,Inf)",Monkey,Monkey,94,Y508H,13,11,11,9,3,"[7500,Inf)",3,permissive
+Y508H,V94,3,0.631,"[7500,Inf)",Hamster,Hamster,94,Y508H,13,11,11,9,3,"[7500,Inf)",3,permissive
+Y508H,V94,4,0.631,"[7500,Inf)",Rabbit,Rabbit,94,Y508H,13,11,11,9,3,"[7500,Inf)",3,permissive
+Y508H,V94,5,0.969,"[5000,7499]",Cat,Cat,94,Y508H,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+Y508H,V94,6,0.631,"[7500,Inf)",Pig,Pig,94,Y508H,13,11,11,9,3,"[7500,Inf)",3,permissive
+Y508H,V94,7,0.631,"[7500,Inf)",Puma,Puma,94,Y508H,13,11,11,9,3,"[7500,Inf)",3,permissive
+Y508H,V94,8,0.969,"[5000,7499]",Pangolin,Pangolin,94,Y508H,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+Y508H,V94,9,0.631,"[7500,Inf)",Dog,Dog,94,Y508H,13,11,11,9,3,"[7500,Inf)",3,permissive
+Y508H,V94,10,0.631,"[7500,Inf)",Horse,Horse,94,Y508H,13,11,11,9,3,"[7500,Inf)",3,permissive
+Y508H,V94,11,0.631,"[7500,Inf)",Camel,Camel,94,Y508H,13,11,11,9,3,"[7500,Inf)",3,permissive
+Y508H,V94,12,0.631,"[7500,Inf)",Sea Lion,Sea Lion,94,Y508H,13,11,11,9,3,"[7500,Inf)",3,permissive
+Y508H,V94,13,0.969,"[5000,7499]",Whale,Whale,94,Y508H,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+Y508H,V94,14,0.996,"[2500,4999]",Ferret,Ferret,94,Y508H,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+Y508H,V94,15,0.78,"[100,499]",Horseshoe bat,Horseshoe bat,94,Y508H,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+Y508H,V94,16,0.341,"[0,99]",Mouse,Mouse,94,Y508H,13,11,11,9,3,"[7500,Inf)",3,non-permissive
+Y508H,V94,17,0.341,"[0,99]",Tupaia,Tupaia,94,Y508H,13,11,11,9,3,"[7500,Inf)",3,non-permissive

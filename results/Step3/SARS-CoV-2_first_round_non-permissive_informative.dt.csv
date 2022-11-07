@@ -1,0 +1,230 @@
+nonpermissive.sequence.protein_accession,position,position.on.human.ACE2,nonpermissive.sequence.residue,all.possible.positive.sequence.residues,is.in.positive.sequences,species,common name
+NP_001123985.1,20,20,L,"I,T",FALSE,Mus musculus,house mouse
+NP_001123985.1,24,24,N,"E,L,Q",FALSE,Mus musculus,house mouse
+NP_001123985.1,30,30,N,"D,E",FALSE,Mus musculus,house mouse
+NP_001123985.1,31,31,N,"E,K,T",FALSE,Mus musculus,house mouse
+NP_001123985.1,63,63,S,"D,N",FALSE,Mus musculus,house mouse
+NP_001123985.1,82,82,S,"M,N,T",FALSE,Mus musculus,house mouse
+NP_001123985.1,83,83,F,Y,FALSE,Mus musculus,house mouse
+NP_001123985.1,91,91,P,"A,D,L,S,T,V",FALSE,Mus musculus,house mouse
+NP_001123985.1,160,160,S,"E,Q,R",FALSE,Mus musculus,house mouse
+NP_001123985.1,197,197,N,"E,K",FALSE,Mus musculus,house mouse
+NP_001123985.1,246,246,R,"A,T",FALSE,Mus musculus,house mouse
+NP_001123985.1,286,286,A,"E,G,R",FALSE,Mus musculus,house mouse
+NP_001123985.1,298,298,M,"E,K,L,V",FALSE,Mus musculus,house mouse
+NP_001123985.1,309,309,Q,"E,K",FALSE,Mus musculus,house mouse
+NP_001123985.1,329,329,A,"D,E,G,N",FALSE,Mus musculus,house mouse
+NP_001123985.1,337,337,A,"G,S",FALSE,Mus musculus,house mouse
+NP_001123985.1,353,353,H,K,FALSE,Mus musculus,house mouse
+NP_001123985.1,387,387,R,"A,E,I,M,S,T,V",FALSE,Mus musculus,house mouse
+NP_001123985.1,465,465,R,"K,Q,S",FALSE,Mus musculus,house mouse
+NP_001123985.1,535,535,Y,H,FALSE,Mus musculus,house mouse
+NP_001123985.1,536,536,N,"D,E",FALSE,Mus musculus,house mouse
+NP_001123985.1,538,538,S,"A,P",FALSE,Mus musculus,house mouse
+NP_001123985.1,556,556,K,"E,N,Q",FALSE,Mus musculus,house mouse
+NP_001123985.1,562,562,N,"E,K,R",FALSE,Mus musculus,house mouse
+NP_001123985.1,589,589,Q,E,FALSE,Mus musculus,house mouse
+NP_001123985.1,593,593,D,"T,V",FALSE,Mus musculus,house mouse
+NP_001123985.1,636,636,T,N,FALSE,Mus musculus,house mouse
+NP_001123985.1,641,641,F,Y,FALSE,Mus musculus,house mouse
+NP_001123985.1,657,657,I,"E,K,S",FALSE,Mus musculus,house mouse
+NP_001123985.1,666,666,L,"E,G,V",FALSE,Mus musculus,house mouse
+NP_001123985.1,682,682,Y,"I,K,N,S",FALSE,Mus musculus,house mouse
+NP_001123985.1,777,774,T,A,FALSE,Mus musculus,house mouse
+NP_001123985.1,804,801,A,"I,V",FALSE,Mus musculus,house mouse
+XP_008987241.1,42,42,E,Q,FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,43,43,N,S,FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,70,70,F,S,FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,73,73,F,"L,Y",FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,118,118,I,"E,S,T",FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,120,120,I,L,FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,137,137,Y,"K,N,T",FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,147,147,D,G,FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,172,172,I,V,FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,218,218,Y,"N,S",FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,316,316,A,V,FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,354,354,Q,"G,H",FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,364,364,T,V,FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,546,546,S,N,FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,698,698,I,"A,N,P,S,T",FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,739,739,I,V,FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,789,786,F,"I,L,M",FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,794,791,D,"N,S",FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,802,799,E,D,FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_008987241.1,803,800,E,D,FALSE,Callithrix jacchus,white-tufted-ear marmoset
+XP_020863153.1,3,3,D,"G,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,4,4,P,S,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,5,5,V,"F,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,8,8,F,L,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,9,9,F,L,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,20,20,S,"I,T",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,24,24,R,"E,L,Q",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,27,27,E,"I,T",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,34,34,K,"H,L,Q,S,Y",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,39,39,I,L,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,74,74,N,"E,K",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,75,75,S,E,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,78,78,N,"K,R,T",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,80,80,S,A,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,83,83,F,Y,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,86,86,N,"A,D,E,Q",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,89,89,S,"H,Q",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,91,91,P,"A,D,L,S,T,V",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,92,92,Q,"I,K,T",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,99,99,S,"A,I",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,102,102,E,"H,L,Q",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,103,103,K,"N,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,106,106,A,"P,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,114,114,T,"K,Q",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,126,126,L,"I,V",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,131,131,T,"E,K",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,132,132,I,"A,V",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,138,138,A,"-,P",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,150,150,K,"A,D,E,N",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,153,153,X,"A,E,G",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,154,154,R,"K,N,S,T",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,159,159,Y,"N,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,171,171,K,"E,V",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,175,175,E,Q,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,176,176,M,L,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,185,185,E,"A,V",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,190,190,V,M,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,192,192,K,"G,R",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,195,195,D,"H,N",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,209,209,I,"A,E,T,V",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,215,215,T,"P,Y",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,228,228,Q,"D,H,L,R",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,231,231,L,"A,E,K,S,T",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,246,246,R,"A,T",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,247,247,R,K,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,248,248,M,L,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,250,250,T,"D,H,N",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,253,253,G,P,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,254,254,P,"F,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,255,255,L,"H,R,Y",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,258,258,E,"P,R",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,261,261,G,C,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,285,285,Y,F,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,286,286,S,"E,G,R",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,295,295,Q,"D,E,N",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,313,313,N,K,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,321,321,Y,P,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,329,329,K,"D,E,G,N",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,337,337,N,"G,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,363,363,E,K,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,365,365,M,T,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,382,382,Y,D,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,416,416,T,"E,H,K,N",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,419,419,Q,K,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,427,427,T,"A,D,G,N,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,432,432,P,"N,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,433,433,D,E,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,440,440,F,L,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,448,448,A,G,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,450,450,M,L,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,462,462,L,M,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,469,469,S,P,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,474,474,I,M,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,502,502,T,"A,C,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,535,535,P,H,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,536,536,S,"D,E",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,537,537,A,G,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,545,545,T,S,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,549,549,A,"D,E",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,552,552,T,"K,Q",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,556,556,D,"E,N,Q",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,568,568,V,"K,L,Y",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,573,573,T,"I,L,V",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,576,576,N,"A,E,I,S,T,V",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,578,578,M,"K,N,T",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,581,581,A,V,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,586,586,E,"K,N,R,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,601,601,D,"K,N",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,602,602,E,S,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,614,614,N,"A,S,T",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,615,615,E,"A,D",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,616,616,N,Q,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,634,634,D,"E,K",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,637,637,E,"D,N",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,649,649,F,Y,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,657,657,Q,"E,K,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,664,664,S,"L,P",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,666,666,R,"E,G,V",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,671,671,K,"R,W",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,673,673,F,"A,N,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,682,682,Y,"I,K,N,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,689,689,P,"A,G,K,N,Q",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,690,690,D,N,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,691,691,G,"A,L,M,V",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,692,692,T,"N,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,693,693,Y,"A,D",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,695,695,-,I,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,696,696,S,P,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,698,698,E,"A,N,P,S,T",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,728,728,S,"E,H,N,Q",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,735,735,S,"D,N,Y",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,755,755,F,"A,I,V",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,758,758,L,"I,V",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,759,759,F,"I,L,V",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,762,762,Y,"A,F,I,V",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,771,771,R,"K,N,Q,T",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,780,777,A,"E,G",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,786,783,E,"F,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,787,784,A,"I,M,V",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,788,785,H,D,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,789,786,S,"I,L,M",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,790,787,I,"G,N,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,791,788,E,K,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,793,790,Q,E,FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,794,791,H,"N,S",FALSE,Phascolarctos cinereus,koala
+XP_020863153.1,802,799,E,D,FALSE,Phascolarctos cinereus,koala
+XP_027986092.1,8,8,F,L,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,23,23,K,"D,E",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,24,24,N,"E,L,Q",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,26,26,T,"E,K",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,31,31,N,"E,K,T",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,42,42,E,Q,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,66,66,D,"A,E,G,R",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,67,67,S,"A,D,E",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,75,75,K,E,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,99,99,V,"A,I",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,109,109,T,S,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,117,117,S,"N,T",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,121,121,T,"N,S",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,143,143,T,"A,L,V",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,145,145,-,"D,E",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,146,146,S,P,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,149,149,E,"D,N",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,164,164,V,A,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,223,223,T,"I,M",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,227,227,D,E,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,231,231,L,"A,E,K,S,T",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,280,280,N,"P,S",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,299,299,E,"D,K,N",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,315,315,Y,F,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,316,316,M,V,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,325,325,P,"E,Q",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,354,354,N,"G,H",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,420,420,G,"A,N,S,T",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,516,516,F,Y,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,536,536,Q,"D,E",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,552,552,N,"K,Q",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,568,568,F,"K,L,Y",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,572,572,K,"D,G,H,I,N,R",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,574,574,T,V,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,581,581,A,V,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,603,603,-,"F,S,Y",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,607,607,H,"D,N,S",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,608,608,S,T,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,610,610,-,W,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,611,611,-,"R,S,T",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,612,612,-,P,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,613,613,-,Y,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,666,666,R,"E,G,V",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,675,675,V,"K,L",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,689,689,T,"A,G,K,N,Q",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,713,713,A,D,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,758,758,G,"I,V",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,777,774,P,A,FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,779,776,N,"G,R,S,T",FALSE,Eptesicus fuscus,big brown bat
+XP_027986092.1,788,785,N,D,FALSE,Eptesicus fuscus,big brown bat

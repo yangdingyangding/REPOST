@@ -1,0 +1,22 @@
+accession,species,label,common name,evidence,group
+XP_027986092.1,Eptesicus fuscus,non-permissive,big brown bat,ours,bats
+ACT66275.1,Rhinolophus sinicus,permissive,Chinese rufous horseshoe bat,Zhou2020,bats
+NP_001158732.1,Canis lupus familiaris,permissive,dog,ours,carnivores
+NP_001034545.1,Felis catus,permissive,domestic cat,ours,carnivores
+AAX63775.1,Paguma larvata,permissive,masked palm civet,ours,carnivores
+XP_026333865.1,Ursus arctos horribilis,permissive,grizzly bear,ours,carnivores
+NP_001019673.2,Bos taurus,permissive,wild yak,ours,even-toed ungulates
+XP_006194263.1,Camelus ferus,permissive,Wild Bactrian camel,ours,even-toed ungulates
+NP_001277036.1,Capra hircus,permissive,goat,ours,even-toed ungulates
+NP_001116542.1,Sus scrofa,permissive,pig,ours,even-toed ungulates
+XP_001490241.1,Equus caballus,permissive,horse,ours,odd-toed ungulates
+XP_017505752.1,Manis javanica,permissive,Malayan pangolin,ours,other placental species
+XP_002719891.1,Oryctolagus cuniculus,permissive,rabbit,ours,other placental species
+XP_008987241.1,Callithrix jacchus,non-permissive,white-tufted-ear marmoset,Lu2020,primates
+XP_007989304.1,Chlorocebus sabaeus,permissive,green monkey,Cross2020,primates
+NP_068576.1,Homo sapiens,permissive,human,ours,primates
+XP_005593094.1,Macaca fascicularis,permissive,crab-eating macaque,Lu2020,primates
+NP_001129168.1,Macaca mulatta,permissive,Rhesus monkey,ours,primates
+XP_003503283.1,Cricetulus griseus,permissive,Chinese hamster,ours,rodents
+NP_001123985.1,Mus musculus,non-permissive,house mouse,ours,rodents
+XP_020863153.1,Phascolarctos cinereus,non-permissive,koala,Liu2020,marsupials

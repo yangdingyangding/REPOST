@@ -1,0 +1,19 @@
+﻿Species,Abbreviation,Sequence ID,Protein sequence ID
+Homo sapiens,Human,NM_021804.3,NP_068576.1
+Macaca mulatta,Monkey,XM_028841825.1,XP_028697658.1
+Tupaia chinensis,Tupaia,XM_006164692.3,XP_006164754.1
+Felis catus,Cat,NM_001039456.1,NP_001034545.1
+Puma concolor,Puma,XM_025934632,XP_025790417.1
+Canis lupus familiaris,Dog,NM_001165260.1,NP_001158732.1
+Mustela putorius furo,Ferret,XM_004758886.2,XP_004758943.1
+Oryctolagus cuniculus,Rabbit,XM_002719845.3,XP_002719891.1
+Mesocricetus auratus,Hamster,XM_005074209.2,XP_005074266.1
+Mus musculus,Mouse,NM_001130513.1,NP_001123985.1
+Equus przewalskii,Horse,XM_008544773.1,XP_008542995.1
+Camelus ferus,Camel,XM_006194201.2,XP_006194263.1
+Sus scrofa,Pig,XM_021079374.1,XP_020935033.1
+Manis javanica,Pangolin,XM_017650263.2,XP_017505752.1
+Rhinolophus ferrumequinum,Horseshoe bat,XM_033107295.1,XP_032963186.1
+Physeter catodon,Whale,XM_024115511.2,XP_023971279.1
+Eumetopias jubatus,Sea Lion,XM_028115021.1,XP_027970822.1
+Salmo trutta,Brown Trout,XM_029747397.1,XP_029603257.1

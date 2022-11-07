@@ -1,0 +1,1361 @@
+first.species,first.species.label,R,first.source,first.species.label.predicted,variant.name
+Cat,non-permissive,1.31175386105575,train,permissive,A344S
+Dog,permissive,0,train,non-permissive,A344S
+Ferret,non-permissive,0,train,non-permissive,A344S
+Hamster,permissive,0.0274382483469396,train,permissive,A344S
+Horse,permissive,-0.0118992232997077,test,non-permissive,A344S
+Horseshoe bat,non-permissive,0.0591214521186566,test,permissive,A344S
+Human,permissive,0.342422680822206,train,permissive,A344S
+Monkey,permissive,0.322219294733919,train,permissive,A344S
+Mouse,non-permissive,0.184865183363186,train,permissive,A344S
+Pangolin,non-permissive,0,test,non-permissive,A344S
+Pig,permissive,-0.0612696567389227,train,non-permissive,A344S
+Puma,permissive,-1.25527250510331,train,non-permissive,A344S
+Rabbit,permissive,0.0386294023561309,test,permissive,A344S
+Sea Lion,permissive,0.0222763947111522,test,permissive,A344S
+Tupaia,non-permissive,0.00965138567618084,train,permissive,A344S
+Whale,non-permissive,-0.0386294023561309,train,non-permissive,A344S
+Camel,non-permissive,0.114954515701699,test,permissive,A344S
+Cat,non-permissive,1.51851393987789,train,permissive,A348S
+Dog,permissive,0.0474246499281381,test,permissive,A348S
+Ferret,non-permissive,0.0993846321359118,train,permissive,A348S
+Hamster,permissive,0.150385858820779,train,permissive,A348S
+Horse,non-permissive,0.0133639615579815,test,permissive,A348S
+Horseshoe bat,non-permissive,-0.0352323764534066,train,non-permissive,A348S
+Human,permissive,0.646263653820016,train,permissive,A348S
+Monkey,permissive,0.686380877027998,train,permissive,A348S
+Mouse,non-permissive,0.10219560946974,train,permissive,A348S
+Pangolin,non-permissive,0.063051745747089,test,permissive,A348S
+Pig,permissive,0.12057393120585,train,permissive,A348S
+Puma,permissive,-1.38021124171161,train,non-permissive,A348S
+Rabbit,permissive,0.12057393120585,test,permissive,A348S
+Sea Lion,permissive,0.0177287669604316,train,permissive,A348S
+Tupaia,non-permissive,-0.00975983728915626,test,non-permissive,A348S
+Whale,permissive,0.245982429333076,test,permissive,A348S
+Camel,permissive,0.221848749616356,train,permissive,A348S
+Cat,non-permissive,1.31175386105575,train,permissive,A352S
+Dog,permissive,0.0271522460436148,test,permissive,A352S
+Ferret,non-permissive,0.110412483411704,train,permissive,A352S
+Hamster,permissive,0.152090982651915,train,permissive,A352S
+Horse,permissive,0.0263289387223491,train,permissive,A352S
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,A352S
+Human,permissive,0.628388930050312,train,permissive,A352S
+Monkey,permissive,0.665111737075051,train,permissive,A352S
+Mouse,non-permissive,0.0969100130080564,train,permissive,A352S
+Pangolin,non-permissive,0.0217192496932363,test,permissive,A352S
+Pig,permissive,0.0321846833714012,train,permissive,A352S
+Puma,permissive,-1.21748394421391,train,non-permissive,A352S
+Rabbit,permissive,0.159700842867512,test,permissive,A352S
+Sea Lion,permissive,0.0271522460436148,test,permissive,A352S
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,A352S
+Whale,non-permissive,0.301029995663981,test,permissive,A352S
+Camel,permissive,-0.0725506671486117,train,non-permissive,A352S
+Cat,non-permissive,1.31175386105575,train,permissive,A411S
+Dog,permissive,0,train,non-permissive,A411S
+Ferret,non-permissive,0,train,non-permissive,A411S
+Hamster,permissive,0.0274382483469396,train,permissive,A411S
+Horse,permissive,-0.0118992232997077,test,non-permissive,A411S
+Horseshoe bat,non-permissive,0.0591214521186566,test,permissive,A411S
+Human,permissive,0.342422680822206,train,permissive,A411S
+Monkey,permissive,0.322219294733919,train,permissive,A411S
+Mouse,non-permissive,0.184865183363186,train,permissive,A411S
+Pangolin,non-permissive,0,test,non-permissive,A411S
+Pig,permissive,-0.0612696567389227,train,non-permissive,A411S
+Puma,permissive,-1.25527250510331,train,non-permissive,A411S
+Rabbit,permissive,0.0386294023561309,test,permissive,A411S
+Sea Lion,permissive,0.0222763947111522,test,permissive,A411S
+Tupaia,non-permissive,0.00965138567618084,train,permissive,A411S
+Whale,non-permissive,-0.0386294023561309,train,non-permissive,A411S
+Camel,non-permissive,0.114954515701699,test,permissive,A411S
+Cat,non-permissive,1.31175386105575,train,permissive,A435S
+Dog,permissive,0.0271522460436148,test,permissive,A435S
+Ferret,non-permissive,0.110412483411704,train,permissive,A435S
+Hamster,permissive,0.152090982651915,train,permissive,A435S
+Horse,permissive,0.0263289387223491,train,permissive,A435S
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,A435S
+Human,permissive,0.628388930050312,train,permissive,A435S
+Monkey,permissive,0.665111737075051,train,permissive,A435S
+Mouse,non-permissive,0.0969100130080564,train,permissive,A435S
+Pangolin,non-permissive,0.0217192496932363,test,permissive,A435S
+Pig,permissive,0.0321846833714012,train,permissive,A435S
+Puma,permissive,-1.21748394421391,train,non-permissive,A435S
+Rabbit,permissive,0.159700842867512,test,permissive,A435S
+Sea Lion,permissive,0.0271522460436148,test,permissive,A435S
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,A435S
+Whale,non-permissive,0.301029995663981,test,permissive,A435S
+Camel,permissive,-0.0725506671486117,train,non-permissive,A435S
+Cat,non-permissive,1.568201724067,train,permissive,A475V
+Dog,permissive,0.0457574905606751,test,permissive,A475V
+Ferret,non-permissive,0.0993846321359118,train,permissive,A475V
+Hamster,permissive,0.146128035678238,train,permissive,A475V
+Horse,permissive,0.0137882844856333,train,permissive,A475V
+Horseshoe bat,non-permissive,0.0234810958495229,train,permissive,A475V
+Human,permissive,0.602059991327962,train,permissive,A475V
+Monkey,permissive,0.640978057358332,train,permissive,A475V
+Mouse,non-permissive,0.100370545117563,train,permissive,A475V
+Pangolin,non-permissive,0.063051745747089,test,permissive,A475V
+Pig,permissive,-0.0163904161881694,train,non-permissive,A475V
+Puma,permissive,-1.38021124171161,train,non-permissive,A475V
+Rabbit,permissive,0.141329152796469,test,permissive,A475V
+Sea Lion,permissive,0.0177287669604316,train,permissive,A475V
+Tupaia,non-permissive,-0.00998422090660089,test,non-permissive,A475V
+Whale,permissive,-0.0889410833367811,test,non-permissive,A475V
+Camel,non-permissive,0.237360915794604,test,permissive,A475V
+Cat,non-permissive,1.31175386105575,train,permissive,A520S
+Dog,permissive,0.0271522460436148,test,permissive,A520S
+Ferret,non-permissive,0.110412483411704,train,permissive,A520S
+Hamster,permissive,0.152090982651915,train,permissive,A520S
+Horse,permissive,0.0263289387223491,train,permissive,A520S
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,A520S
+Human,permissive,0.628388930050312,train,permissive,A520S
+Monkey,permissive,0.665111737075051,train,permissive,A520S
+Mouse,non-permissive,0.0969100130080564,train,permissive,A520S
+Pangolin,non-permissive,0.0217192496932363,test,permissive,A520S
+Pig,permissive,0.0321846833714012,train,permissive,A520S
+Puma,permissive,-1.21748394421391,train,non-permissive,A520S
+Rabbit,permissive,0.159700842867512,test,permissive,A520S
+Sea Lion,permissive,0.0271522460436148,test,permissive,A520S
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,A520S
+Whale,non-permissive,0.301029995663981,test,permissive,A520S
+Camel,permissive,-0.0725506671486117,train,non-permissive,A520S
+Cat,permissive,1.43933269383026,train,permissive,A520V
+Dog,permissive,0.158068154922409,train,permissive,A520V
+Ferret,non-permissive,0.109144469425068,train,permissive,A520V
+Hamster,non-permissive,-0.0588666592208214,test,non-permissive,A520V
+Horse,permissive,0.0627908298594554,train,permissive,A520V
+Horseshoe bat,non-permissive,0.0604159224716554,test,permissive,A520V
+Human,non-permissive,-0.295121136053461,train,non-permissive,A520V
+Monkey,non-permissive,-0.295121136053461,train,non-permissive,A520V
+Mouse,non-permissive,-0.189879543541315,train,non-permissive,A520V
+Pangolin,non-permissive,0.141329152796469,test,permissive,A520V
+Pig,permissive,0.0621479067488444,test,permissive,A520V
+Puma,permissive,1.43933269383026,train,permissive,A520V
+Rabbit,permissive,0.118864588896107,train,permissive,A520V
+Sea Lion,permissive,0.0949755132308568,test,permissive,A520V
+Tupaia,non-permissive,0.0353919750888415,train,permissive,A520V
+Whale,non-permissive,0.284324302161129,train,permissive,A520V
+Camel,permissive,0.00827252596598986,test,permissive,A520V
+Cat,non-permissive,1.31175386105575,train,permissive,A522S
+Dog,permissive,0.0271522460436148,test,permissive,A522S
+Ferret,non-permissive,0.110412483411704,train,permissive,A522S
+Hamster,permissive,0.152090982651915,train,permissive,A522S
+Horse,permissive,0.0263289387223491,train,permissive,A522S
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,A522S
+Human,permissive,0.628388930050312,train,permissive,A522S
+Monkey,permissive,0.665111737075051,train,permissive,A522S
+Mouse,non-permissive,0.0969100130080564,train,permissive,A522S
+Pangolin,non-permissive,0.0217192496932363,test,permissive,A522S
+Pig,permissive,0.0321846833714012,train,permissive,A522S
+Puma,permissive,-1.21748394421391,train,non-permissive,A522S
+Rabbit,permissive,0.159700842867512,test,permissive,A522S
+Sea Lion,permissive,0.0271522460436148,test,permissive,A522S
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,A522S
+Whale,non-permissive,0.301029995663981,test,permissive,A522S
+Camel,permissive,-0.0725506671486117,train,non-permissive,A522S
+Cat,non-permissive,1.31175386105575,train,permissive,A522V
+Dog,permissive,0.0271522460436148,test,permissive,A522V
+Ferret,non-permissive,0.110412483411704,train,permissive,A522V
+Hamster,permissive,0.152090982651915,train,permissive,A522V
+Horse,permissive,0.0263289387223491,train,permissive,A522V
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,A522V
+Human,permissive,0.628388930050312,train,permissive,A522V
+Monkey,permissive,0.665111737075051,train,permissive,A522V
+Mouse,non-permissive,0.0969100130080564,train,permissive,A522V
+Pangolin,non-permissive,0.0217192496932363,test,permissive,A522V
+Pig,permissive,0.0321846833714012,train,permissive,A522V
+Puma,permissive,-1.21748394421391,train,non-permissive,A522V
+Rabbit,permissive,0.159700842867512,test,permissive,A522V
+Sea Lion,permissive,0.0271522460436148,test,permissive,A522V
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,A522V
+Whale,non-permissive,0.301029995663981,test,permissive,A522V
+Camel,permissive,-0.0725506671486117,train,non-permissive,A522V
+Cat,non-permissive,1.30102999566398,test,permissive,D427Y
+Dog,permissive,0.0118992232997077,train,permissive,D427Y
+Ferret,non-permissive,0.0579919469776867,test,permissive,D427Y
+Hamster,permissive,-0.0732319135344236,test,non-permissive,D427Y
+Horse,permissive,0,train,non-permissive,D427Y
+Horseshoe bat,non-permissive,0.0266521947714402,train,permissive,D427Y
+Human,non-permissive,0.326335860928751,train,permissive,D427Y
+Monkey,permissive,-0.24551266781415,train,non-permissive,D427Y
+Mouse,non-permissive,0.282931773571185,train,permissive,D427Y
+Pangolin,non-permissive,0.0369835662531699,test,permissive,D427Y
+Pig,permissive,0.184524426592544,train,permissive,D427Y
+Puma,permissive,-1.26717172840301,train,non-permissive,D427Y
+Rabbit,permissive,0.054848668007345,test,permissive,D427Y
+Sea Lion,permissive,-0.0122344564170116,train,non-permissive,D427Y
+Tupaia,non-permissive,-0.00454762775072063,train,non-permissive,D427Y
+Whale,permissive,0.33206422940395,test,permissive,D427Y
+Camel,permissive,0.2498774732166,train,permissive,D427Y
+Cat,non-permissive,1.31175386105575,train,permissive,E340K
+Dog,permissive,0.0271522460436148,test,permissive,E340K
+Ferret,non-permissive,0.110412483411704,train,permissive,E340K
+Hamster,permissive,0.152090982651915,train,permissive,E340K
+Horse,permissive,0.0263289387223491,train,permissive,E340K
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,E340K
+Human,permissive,0.628388930050312,train,permissive,E340K
+Monkey,permissive,0.665111737075051,train,permissive,E340K
+Mouse,non-permissive,0.0969100130080564,train,permissive,E340K
+Pangolin,non-permissive,0.0217192496932363,test,permissive,E340K
+Pig,permissive,0.0321846833714012,train,permissive,E340K
+Puma,permissive,-1.21748394421391,train,non-permissive,E340K
+Rabbit,permissive,0.159700842867512,test,permissive,E340K
+Sea Lion,permissive,0.0271522460436148,test,permissive,E340K
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,E340K
+Whale,non-permissive,0.301029995663981,test,permissive,E340K
+Camel,permissive,-0.0725506671486117,train,non-permissive,E340K
+Cat,non-permissive,1.26717172840301,train,permissive,E465G
+Dog,permissive,0,train,non-permissive,E465G
+Ferret,non-permissive,0,train,non-permissive,E465G
+Hamster,permissive,0.0274382483469396,train,permissive,E465G
+Horse,non-permissive,0.0118992232997077,test,permissive,E465G
+Horseshoe bat,non-permissive,-0.0591214521186567,test,non-permissive,E465G
+Human,permissive,0.311753861055754,train,permissive,E465G
+Monkey,permissive,0.301029995663981,train,permissive,E465G
+Mouse,non-permissive,0.173126780091942,train,permissive,E465G
+Pangolin,non-permissive,0,test,non-permissive,E465G
+Pig,permissive,0.0612696567389227,train,permissive,E465G
+Puma,permissive,-1.25527250510331,train,non-permissive,E465G
+Rabbit,permissive,0.00998422090660092,test,permissive,E465G
+Sea Lion,permissive,0.0222763947111522,test,permissive,E465G
+Tupaia,non-permissive,-0.00485250279441207,train,non-permissive,E465G
+Whale,non-permissive,0.098925304243382,train,permissive,E465G
+Camel,permissive,0.0377885608893998,test,permissive,E465G
+Cat,permissive,1.24715461488113,test,permissive,E471K
+Dog,permissive,-0.00860017176191758,train,non-permissive,E471K
+Ferret,non-permissive,-0.0658172844896433,train,non-permissive,E471K
+Hamster,non-permissive,-0.0920575102136443,train,non-permissive,E471K
+Horse,non-permissive,0.020203386088287,train,permissive,E471K
+Horseshoe bat,non-permissive,-0.0218284374956727,train,non-permissive,E471K
+Human,permissive,0.498310553789601,train,permissive,E471K
+Monkey,permissive,0.505149978319906,train,permissive,E471K
+Mouse,non-permissive,-0.167973368833502,train,non-permissive,E471K
+Pangolin,non-permissive,-0.00575232888909132,train,non-permissive,E471K
+Pig,non-permissive,0.138302698166281,test,permissive,E471K
+Puma,permissive,1.23888208891514,test,permissive,E471K
+Rabbit,non-permissive,0.0791812460476248,test,permissive,E471K
+Sea Lion,non-permissive,0.0413926851582251,test,permissive,E471K
+Tupaia,non-permissive,0.0263289387223491,train,permissive,E471K
+Whale,permissive,0.127786579481126,test,permissive,E471K
+Camel,permissive,0.101457640758777,train,permissive,E471K
+Cat,non-permissive,1.31175386105575,train,permissive,E471Q
+Dog,permissive,0.0271522460436148,test,permissive,E471Q
+Ferret,non-permissive,0.110412483411704,train,permissive,E471Q
+Hamster,permissive,0.152090982651915,train,permissive,E471Q
+Horse,permissive,0.0263289387223491,train,permissive,E471Q
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,E471Q
+Human,permissive,0.628388930050312,train,permissive,E471Q
+Monkey,permissive,0.665111737075051,train,permissive,E471Q
+Mouse,non-permissive,0.0969100130080564,train,permissive,E471Q
+Pangolin,non-permissive,0.0217192496932363,test,permissive,E471Q
+Pig,permissive,0.0321846833714012,train,permissive,E471Q
+Puma,permissive,-1.21748394421391,train,non-permissive,E471Q
+Rabbit,permissive,0.159700842867512,test,permissive,E471Q
+Sea Lion,permissive,0.0271522460436148,test,permissive,E471Q
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,E471Q
+Whale,non-permissive,0.301029995663981,test,permissive,E471Q
+Camel,permissive,-0.0725506671486117,train,non-permissive,E471Q
+Cat,non-permissive,1.34895354798116,test,permissive,E484A
+Dog,permissive,0,train,non-permissive,E484A
+Ferret,non-permissive,0.077886775694626,train,permissive,E484A
+Hamster,permissive,-0.104735350520013,test,non-permissive,E484A
+Horse,non-permissive,0.020203386088287,train,permissive,E484A
+Horseshoe bat,non-permissive,-0.0218284374956727,train,non-permissive,E484A
+Human,permissive,0.470490675820649,train,permissive,E484A
+Monkey,permissive,0.477121254719662,train,permissive,E484A
+Mouse,non-permissive,0.233534507941551,train,permissive,E484A
+Pangolin,non-permissive,0,train,non-permissive,E484A
+Pig,non-permissive,0.0511525224473813,test,permissive,E484A
+Puma,permissive,-1.23888208891514,test,non-permissive,E484A
+Rabbit,non-permissive,0.0716932246550749,train,permissive,E484A
+Sea Lion,permissive,0.0248235837250321,test,permissive,E484A
+Tupaia,non-permissive,0.0113795457434988,train,permissive,E484A
+Whale,non-permissive,0.141329152796469,test,permissive,E484A
+Camel,permissive,-0.260193741692576,train,non-permissive,E484A
+Cat,non-permissive,1.33243845991561,train,permissive,E484D
+Dog,permissive,0.0248235837250321,test,permissive,E484D
+Ferret,non-permissive,0.10790539730952,train,permissive,E484D
+Hamster,permissive,0.0771659548122993,train,permissive,E484D
+Horse,permissive,0.0118992232997077,train,permissive,E484D
+Horseshoe bat,non-permissive,0.0273231272112348,train,permissive,E484D
+Human,non-permissive,0.374458912822515,train,permissive,E484D
+Monkey,permissive,-0.252725316089426,train,non-permissive,E484D
+Mouse,non-permissive,0.114573221136466,train,permissive,E484D
+Pangolin,non-permissive,0.0314084642516241,test,permissive,E484D
+Pig,permissive,0.0561159419789314,train,permissive,E484D
+Puma,permissive,-1.23044892137827,train,non-permissive,E484D
+Rabbit,permissive,0.048304679574555,test,permissive,E484D
+Sea Lion,permissive,0,test,non-permissive,E484D
+Tupaia,non-permissive,-0.00860017176191758,test,non-permissive,E484D
+Whale,non-permissive,0.255272505103306,test,permissive,E484D
+Camel,permissive,-0.0644579892269185,train,non-permissive,E484D
+Cat,non-permissive,1.31175386105575,train,permissive,F456L
+Dog,permissive,0.0271522460436148,test,permissive,F456L
+Ferret,non-permissive,0.110412483411704,train,permissive,F456L
+Hamster,permissive,0.152090982651915,train,permissive,F456L
+Horse,permissive,0.0263289387223491,train,permissive,F456L
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,F456L
+Human,permissive,0.628388930050312,train,permissive,F456L
+Monkey,permissive,0.665111737075051,train,permissive,F456L
+Mouse,non-permissive,0.0969100130080564,train,permissive,F456L
+Pangolin,non-permissive,0.0217192496932363,test,permissive,F456L
+Pig,permissive,0.0321846833714012,train,permissive,F456L
+Puma,permissive,-1.21748394421391,train,non-permissive,F456L
+Rabbit,permissive,0.159700842867512,test,permissive,F456L
+Sea Lion,permissive,0.0271522460436148,test,permissive,F456L
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,F456L
+Whale,non-permissive,0.301029995663981,test,permissive,F456L
+Camel,permissive,-0.0725506671486117,train,non-permissive,F456L
+Cat,non-permissive,1.30102999566398,test,permissive,F490L
+Dog,permissive,0.0118992232997077,train,permissive,F490L
+Ferret,non-permissive,0.0579919469776867,test,permissive,F490L
+Hamster,permissive,-0.0732319135344236,test,non-permissive,F490L
+Horse,permissive,0,train,non-permissive,F490L
+Horseshoe bat,non-permissive,0.0266521947714402,train,permissive,F490L
+Human,non-permissive,0.326335860928751,train,permissive,F490L
+Monkey,permissive,-0.24551266781415,train,non-permissive,F490L
+Mouse,non-permissive,0.282931773571185,train,permissive,F490L
+Pangolin,non-permissive,0.0369835662531699,test,permissive,F490L
+Pig,permissive,0.184524426592544,train,permissive,F490L
+Puma,permissive,-1.26717172840301,train,non-permissive,F490L
+Rabbit,permissive,0.054848668007345,test,permissive,F490L
+Sea Lion,permissive,-0.0122344564170116,train,non-permissive,F490L
+Tupaia,non-permissive,-0.00454762775072063,train,non-permissive,F490L
+Whale,permissive,0.33206422940395,test,permissive,F490L
+Camel,permissive,0.2498774732166,train,permissive,F490L
+Cat,non-permissive,1.13566260200007,train,permissive,F490S
+Dog,non-permissive,-0.010465433678165,test,non-permissive,F490S
+Ferret,non-permissive,0.0710633558254454,train,permissive,F490S
+Hamster,permissive,0.0741017205183499,train,permissive,F490S
+Horse,non-permissive,0.0299632233774432,train,permissive,F490S
+Horseshoe bat,non-permissive,-0.0449671455165232,test,non-permissive,F490S
+Human,permissive,0.436692597664054,train,permissive,F490S
+Monkey,permissive,0.425968732272281,train,permissive,F490S
+Mouse,non-permissive,0.184524426592544,train,permissive,F490S
+Pangolin,non-permissive,0,test,non-permissive,F490S
+Pig,permissive,0.200359833782618,train,permissive,F490S
+Puma,permissive,-1.11394335230684,train,non-permissive,F490S
+Rabbit,permissive,0.0969100130080564,test,permissive,F490S
+Sea Lion,permissive,0.0107238653917731,test,permissive,F490S
+Tupaia,non-permissive,0.00965138567618084,train,permissive,F490S
+Whale,permissive,0.291886616224111,test,permissive,F490S
+Camel,permissive,0.243038048686294,train,permissive,F490S
+Cat,non-permissive,1.31175386105575,train,permissive,G339D
+Dog,permissive,0.0271522460436148,test,permissive,G339D
+Ferret,non-permissive,0.110412483411704,train,permissive,G339D
+Hamster,permissive,0.152090982651915,train,permissive,G339D
+Horse,permissive,0.0263289387223491,train,permissive,G339D
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,G339D
+Human,permissive,0.628388930050312,train,permissive,G339D
+Monkey,permissive,0.665111737075051,train,permissive,G339D
+Mouse,non-permissive,0.0969100130080564,train,permissive,G339D
+Pangolin,non-permissive,0.0217192496932363,test,permissive,G339D
+Pig,permissive,0.0321846833714012,train,permissive,G339D
+Puma,permissive,-1.21748394421391,train,non-permissive,G339D
+Rabbit,permissive,0.159700842867512,test,permissive,G339D
+Sea Lion,permissive,0.0271522460436148,test,permissive,G339D
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,G339D
+Whale,non-permissive,0.301029995663981,test,permissive,G339D
+Camel,permissive,-0.0725506671486117,train,non-permissive,G339D
+Cat,permissive,Inf,train,permissive,G413E
+Dog,permissive,-0.0389180660303697,test,non-permissive,G413E
+Ferret,non-permissive,-0.0810332509092183,train,non-permissive,G413E
+Hamster,permissive,0.1249387366083,train,permissive,G413E
+Horse,permissive,0.0734289171585335,train,permissive,G413E
+Horseshoe bat,non-permissive,0.0424038485530874,train,permissive,G413E
+Human,permissive,0.707570176097936,train,permissive,G413E
+Monkey,permissive,0.707570176097936,train,permissive,G413E
+Mouse,non-permissive,0.132625565274591,train,permissive,G413E
+Pangolin,non-permissive,0,test,non-permissive,G413E
+Pig,non-permissive,0.210110346345112,train,permissive,G413E
+Puma,permissive,Inf,train,permissive,G413E
+Rabbit,permissive,0.133893579261226,test,permissive,G413E
+Sea Lion,non-permissive,0.0859146287065932,test,permissive,G413E
+Tupaia,non-permissive,0.0589778599593379,test,permissive,G413E
+Whale,permissive,0.134698573897456,test,permissive,G413E
+Camel,permissive,0.189056236220049,train,permissive,G413E
+Cat,non-permissive,1.23888208891514,test,permissive,G446V
+Dog,non-permissive,-0.00796892967127534,train,non-permissive,G446V
+Ferret,non-permissive,0.0234810958495229,train,permissive,G446V
+Hamster,permissive,0.0163904161881694,train,permissive,G446V
+Horse,permissive,0.0564813559524482,train,permissive,G446V
+Horseshoe bat,non-permissive,0.0763883458634547,test,permissive,G446V
+Human,permissive,0.477121254719662,train,permissive,G446V
+Monkey,permissive,0.477121254719662,train,permissive,G446V
+Mouse,non-permissive,0.216996246821944,train,permissive,G446V
+Pangolin,non-permissive,0.0258072636062855,test,permissive,G446V
+Pig,permissive,0.187673131605496,test,permissive,G446V
+Puma,permissive,-1.13566260200007,train,non-permissive,G446V
+Rabbit,non-permissive,0.0606978403536117,train,permissive,G446V
+Sea Lion,permissive,0.00954531790623036,test,permissive,G446V
+Tupaia,non-permissive,0.0268721464003013,train,permissive,G446V
+Whale,permissive,0.271066772286538,test,permissive,G446V
+Camel,permissive,0.238882088915137,train,permissive,G446V
+Cat,non-permissive,1.34242268082221,train,permissive,G447V
+Dog,permissive,0,train,non-permissive,G447V
+Ferret,non-permissive,0.0234810958495229,train,permissive,G447V
+Hamster,permissive,0.0160868198934548,train,permissive,G447V
+Horse,permissive,0,train,non-permissive,G447V
+Horseshoe bat,non-permissive,0.0511525224473813,test,permissive,G447V
+Human,non-permissive,0.301029995663981,train,permissive,G447V
+Monkey,permissive,-0.202104691420599,train,non-permissive,G447V
+Mouse,non-permissive,0.183916596567638,train,permissive,G447V
+Pangolin,non-permissive,0.020203386088287,test,permissive,G447V
+Pig,non-permissive,0.0627908298594554,test,permissive,G447V
+Puma,permissive,-1.27875360095283,train,non-permissive,G447V
+Rabbit,permissive,0.0521780116650716,test,permissive,G447V
+Sea Lion,permissive,0.0197440581957572,test,permissive,G447V
+Tupaia,non-permissive,-0.00469512120837984,train,non-permissive,G447V
+Whale,non-permissive,0.0170333392987804,train,permissive,G447V
+Camel,permissive,-0.0791812460476248,test,non-permissive,G447V
+Cat,non-permissive,1.38916608436453,test,permissive,G476S
+Dog,permissive,0,train,non-permissive,G476S
+Ferret,non-permissive,0.0230653040686934,train,permissive,G476S
+Hamster,permissive,-0.0365168338257625,train,non-permissive,G476S
+Horse,permissive,0,train,non-permissive,G476S
+Horseshoe bat,non-permissive,0.0616569010640921,test,permissive,G476S
+Human,permissive,0.39378404890088,train,permissive,G476S
+Monkey,permissive,0.367976785294594,train,permissive,G476S
+Mouse,non-permissive,0.207912971673064,train,permissive,G476S
+Pangolin,non-permissive,0.0180982220927962,test,permissive,G476S
+Pig,permissive,0.0579919469776867,test,permissive,G476S
+Puma,permissive,-1.32221929473392,train,non-permissive,G476S
+Rabbit,non-permissive,0.0372480574196295,train,permissive,G476S
+Sea Lion,permissive,0.0188853441603738,test,permissive,G476S
+Tupaia,non-permissive,-0.00440911890505504,train,non-permissive,G476S
+Whale,non-permissive,0.2120889123272,train,permissive,G476S
+Camel,permissive,0.0421976797944548,test,permissive,G476S
+Cat,non-permissive,1.38021124171161,test,permissive,H519P
+Dog,permissive,0,train,non-permissive,H519P
+Ferret,non-permissive,0.0591214521186566,train,permissive,H519P
+Hamster,permissive,-0.0304893221479004,train,non-permissive,H519P
+Horse,non-permissive,0.0347621062592119,train,permissive,H519P
+Horseshoe bat,non-permissive,-0.0413926851582251,test,non-permissive,H519P
+Human,non-permissive,0.317420411852151,train,permissive,H519P
+Monkey,permissive,-0.266267889404769,train,non-permissive,H519P
+Mouse,non-permissive,0.209027317150669,train,permissive,H519P
+Pangolin,non-permissive,0,test,non-permissive,H519P
+Pig,permissive,0.0808231931146016,test,permissive,H519P
+Puma,permissive,-1.26717172840301,train,non-permissive,H519P
+Rabbit,non-permissive,0.0271522460436148,train,permissive,H519P
+Sea Lion,permissive,0.0211892990699381,test,permissive,H519P
+Tupaia,non-permissive,-0.00450050122667642,train,non-permissive,H519P
+Whale,permissive,0.241032065988696,test,permissive,H519P
+Camel,permissive,0.180736164101445,train,permissive,H519P
+Cat,non-permissive,1.38916608436453,test,permissive,H519Y
+Dog,permissive,0,train,non-permissive,H519Y
+Ferret,non-permissive,0.0230653040686934,train,permissive,H519Y
+Hamster,permissive,-0.0365168338257625,train,non-permissive,H519Y
+Horse,permissive,0,train,non-permissive,H519Y
+Horseshoe bat,non-permissive,0.0616569010640921,test,permissive,H519Y
+Human,permissive,0.39378404890088,train,permissive,H519Y
+Monkey,permissive,0.367976785294594,train,permissive,H519Y
+Mouse,non-permissive,0.207912971673064,train,permissive,H519Y
+Pangolin,non-permissive,0.0180982220927962,test,permissive,H519Y
+Pig,permissive,0.0579919469776867,test,permissive,H519Y
+Puma,permissive,-1.32221929473392,train,non-permissive,H519Y
+Rabbit,non-permissive,0.0372480574196295,train,permissive,H519Y
+Sea Lion,permissive,0.0188853441603738,test,permissive,H519Y
+Tupaia,non-permissive,-0.00440911890505504,train,non-permissive,H519Y
+Whale,non-permissive,0.2120889123272,train,permissive,H519Y
+Camel,permissive,0.0421976797944548,test,permissive,H519Y
+Cat,non-permissive,1.20411998265592,train,permissive,I326V
+Dog,permissive,-0.00860017176191758,test,non-permissive,I326V
+Ferret,non-permissive,-0.0177287669604316,test,non-permissive,I326V
+Hamster,permissive,0.0430346322252019,train,permissive,I326V
+Horse,permissive,0,test,non-permissive,I326V
+Horseshoe bat,non-permissive,0.0347621062592119,train,permissive,I326V
+Human,permissive,0.43724974268197,train,permissive,I326V
+Monkey,permissive,0.411442479075685,train,permissive,I326V
+Mouse,non-permissive,0.22020680254938,train,permissive,I326V
+Pangolin,non-permissive,0,test,non-permissive,I326V
+Pig,permissive,-0.149298082467745,train,non-permissive,I326V
+Puma,permissive,-1.21307482530885,train,non-permissive,I326V
+Rabbit,permissive,0.0931170239909173,test,permissive,I326V
+Sea Lion,non-permissive,-0.0413926851582251,train,non-permissive,I326V
+Tupaia,non-permissive,0,train,non-permissive,I326V
+Whale,non-permissive,-0.0791812460476248,train,non-permissive,I326V
+Camel,non-permissive,0.0621479067488444,test,permissive,I326V
+Cat,non-permissive,Inf,test,permissive,I468T
+Dog,permissive,0.0492180226701817,train,permissive,I468T
+Ferret,non-permissive,0.131278914639319,train,permissive,I468T
+Hamster,permissive,0.0947863193782009,train,permissive,I468T
+Horse,permissive,0,test,non-permissive,I468T
+Horseshoe bat,non-permissive,0.0457574905606751,train,permissive,I468T
+Human,permissive,0.602059991327962,train,permissive,I468T
+Monkey,permissive,0.636822097587174,train,permissive,I468T
+Mouse,non-permissive,0.139046990519667,train,permissive,I468T
+Pangolin,non-permissive,0.0222763947111522,test,permissive,I468T
+Pig,permissive,0.180456064458131,test,permissive,I468T
+Puma,permissive,-Inf,train,non-permissive,I468T
+Rabbit,non-permissive,0.0644579892269185,train,permissive,I468T
+Sea Lion,permissive,0.0170333392987804,train,permissive,I468T
+Tupaia,non-permissive,0,test,non-permissive,I468T
+Whale,permissive,0.27415784926368,test,permissive,I468T
+Camel,permissive,0.235528446907549,train,permissive,I468T
+Cat,non-permissive,1.16136800223497,test,permissive,I468V
+Dog,permissive,0.00827252596598986,train,permissive,I468V
+Ferret,non-permissive,0.0558578174650009,test,permissive,I468V
+Hamster,non-permissive,-0.0803107511885947,test,non-permissive,I468V
+Horse,permissive,0.0155121661782476,train,permissive,I468V
+Horseshoe bat,non-permissive,0.044354276151237,train,permissive,I468V
+Human,non-permissive,-0.344495689445071,train,non-permissive,I468V
+Monkey,non-permissive,-0.339294495759264,train,non-permissive,I468V
+Mouse,non-permissive,-0.193820026016113,train,non-permissive,I468V
+Pangolin,non-permissive,0.0413926851582251,train,permissive,I468V
+Pig,permissive,0.11539341870207,train,permissive,I468V
+Puma,permissive,-1.13830269816628,test,non-permissive,I468V
+Rabbit,permissive,0.0563183630881206,train,permissive,I468V
+Sea Lion,permissive,-0.00843316753686281,test,non-permissive,I468V
+Tupaia,non-permissive,0.00748802139254992,train,permissive,I468V
+Whale,non-permissive,0.264046429410811,train,permissive,I468V
+Camel,permissive,0.0274382483469396,test,permissive,I468V
+Cat,non-permissive,1.31175386105575,train,permissive,K444N
+Dog,permissive,0.0271522460436148,test,permissive,K444N
+Ferret,non-permissive,0.110412483411704,train,permissive,K444N
+Hamster,permissive,0.152090982651915,train,permissive,K444N
+Horse,permissive,0.0263289387223491,train,permissive,K444N
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,K444N
+Human,permissive,0.628388930050312,train,permissive,K444N
+Monkey,permissive,0.665111737075051,train,permissive,K444N
+Mouse,non-permissive,0.0969100130080564,train,permissive,K444N
+Pangolin,non-permissive,0.0217192496932363,test,permissive,K444N
+Pig,permissive,0.0321846833714012,train,permissive,K444N
+Puma,permissive,-1.21748394421391,train,non-permissive,K444N
+Rabbit,permissive,0.159700842867512,test,permissive,K444N
+Sea Lion,permissive,0.0271522460436148,test,permissive,K444N
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,K444N
+Whale,non-permissive,0.301029995663981,test,permissive,K444N
+Camel,permissive,-0.0725506671486117,train,non-permissive,K444N
+Cat,non-permissive,1.31175386105575,train,permissive,K444R
+Dog,permissive,0.0271522460436148,test,permissive,K444R
+Ferret,non-permissive,0.110412483411704,train,permissive,K444R
+Hamster,permissive,0.152090982651915,train,permissive,K444R
+Horse,permissive,0.0263289387223491,train,permissive,K444R
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,K444R
+Human,permissive,0.628388930050312,train,permissive,K444R
+Monkey,permissive,0.665111737075051,train,permissive,K444R
+Mouse,non-permissive,0.0969100130080564,train,permissive,K444R
+Pangolin,non-permissive,0.0217192496932363,test,permissive,K444R
+Pig,permissive,0.0321846833714012,train,permissive,K444R
+Puma,permissive,-1.21748394421391,train,non-permissive,K444R
+Rabbit,permissive,0.159700842867512,test,permissive,K444R
+Sea Lion,permissive,0.0271522460436148,test,permissive,K444R
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,K444R
+Whale,non-permissive,0.301029995663981,test,permissive,K444R
+Camel,permissive,-0.0725506671486117,train,non-permissive,K444R
+Cat,non-permissive,1.33243845991561,train,permissive,K458N
+Dog,permissive,0.0137882844856333,test,permissive,K458N
+Ferret,non-permissive,0.116505569071437,train,permissive,K458N
+Hamster,permissive,0.166331421766525,train,permissive,K458N
+Horse,permissive,0.0137882844856333,train,permissive,K458N
+Horseshoe bat,non-permissive,0.0408362539714052,train,permissive,K458N
+Human,permissive,0.615423952885944,train,permissive,K458N
+Monkey,permissive,0.653212513775344,train,permissive,K458N
+Mouse,non-permissive,0.0952680659410796,train,permissive,K458N
+Pangolin,permissive,0.0118992232997077,train,permissive,K458N
+Pig,non-permissive,0.0147232568207064,test,permissive,K458N
+Puma,permissive,-1.19033169817029,train,non-permissive,K458N
+Rabbit,permissive,0.1249387366083,test,permissive,K458N
+Sea Lion,permissive,0.0137882844856333,test,permissive,K458N
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,K458N
+Whale,non-permissive,0.134698573897456,test,permissive,K458N
+Camel,permissive,-0.176091259055681,train,non-permissive,K458N
+Cat,non-permissive,1.31175386105575,train,permissive,K458Q
+Dog,permissive,0.0271522460436148,test,permissive,K458Q
+Ferret,non-permissive,0.110412483411704,train,permissive,K458Q
+Hamster,permissive,0.152090982651915,train,permissive,K458Q
+Horse,permissive,0.0263289387223491,train,permissive,K458Q
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,K458Q
+Human,permissive,0.628388930050312,train,permissive,K458Q
+Monkey,permissive,0.665111737075051,train,permissive,K458Q
+Mouse,non-permissive,0.0969100130080564,train,permissive,K458Q
+Pangolin,non-permissive,0.0217192496932363,test,permissive,K458Q
+Pig,permissive,0.0321846833714012,train,permissive,K458Q
+Puma,permissive,-1.21748394421391,train,non-permissive,K458Q
+Rabbit,permissive,0.159700842867512,test,permissive,K458Q
+Sea Lion,permissive,0.0271522460436148,test,permissive,K458Q
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,K458Q
+Whale,non-permissive,0.301029995663981,test,permissive,K458Q
+Camel,permissive,-0.0725506671486117,train,non-permissive,K458Q
+Cat,non-permissive,1.21307482530885,test,permissive,K529M
+Dog,permissive,0.00934002625414343,train,permissive,K529M
+Ferret,non-permissive,0.0774122233087782,test,permissive,K529M
+Hamster,permissive,-0.0230653040686934,train,non-permissive,K529M
+Horse,non-permissive,0.0160868198934548,train,permissive,K529M
+Horseshoe bat,non-permissive,-0.00954531790623039,train,non-permissive,K529M
+Human,permissive,-0.292912105441802,train,non-permissive,K529M
+Monkey,non-permissive,0.292912105441802,train,permissive,K529M
+Mouse,non-permissive,0.151731913196237,train,permissive,K529M
+Pangolin,non-permissive,0.0195955560633808,train,permissive,K529M
+Pig,permissive,0.200914842780713,train,permissive,K529M
+Puma,permissive,-1.16633142176653,test,non-permissive,K529M
+Rabbit,non-permissive,0.0167056935028527,test,permissive,K529M
+Sea Lion,permissive,-0.030668819766452,test,non-permissive,K529M
+Tupaia,non-permissive,0.00436480540245011,train,permissive,K529M
+Whale,permissive,0.308454013743188,test,permissive,K529M
+Camel,permissive,0.261877871701833,train,permissive,K529M
+Cat,non-permissive,1.38916608436453,test,permissive,L441I
+Dog,permissive,0,train,non-permissive,L441I
+Ferret,non-permissive,0.0230653040686934,train,permissive,L441I
+Hamster,permissive,-0.0365168338257625,train,non-permissive,L441I
+Horse,permissive,0,train,non-permissive,L441I
+Horseshoe bat,non-permissive,0.0616569010640921,test,permissive,L441I
+Human,permissive,0.39378404890088,train,permissive,L441I
+Monkey,permissive,0.367976785294594,train,permissive,L441I
+Mouse,non-permissive,0.207912971673064,train,permissive,L441I
+Pangolin,non-permissive,0.0180982220927962,test,permissive,L441I
+Pig,permissive,0.0579919469776867,test,permissive,L441I
+Puma,permissive,-1.32221929473392,train,non-permissive,L441I
+Rabbit,non-permissive,0.0372480574196295,train,permissive,L441I
+Sea Lion,permissive,0.0188853441603738,test,permissive,L441I
+Tupaia,non-permissive,-0.00440911890505504,train,non-permissive,L441I
+Whale,non-permissive,0.2120889123272,train,permissive,L441I
+Camel,permissive,0.0421976797944548,test,permissive,L441I
+Cat,non-permissive,1.42324587393681,test,permissive,L452R
+Dog,permissive,0,train,non-permissive,L452R
+Ferret,non-permissive,0.0430346322252019,test,permissive,L452R
+Hamster,permissive,-0.0626468091378892,train,non-permissive,L452R
+Horse,non-permissive,0,train,non-permissive,L452R
+Horseshoe bat,non-permissive,-0.00454762775072063,train,non-permissive,L452R
+Human,permissive,0.455931955649724,train,permissive,L452R
+Monkey,permissive,0.433655560938572,train,permissive,L452R
+Mouse,non-permissive,0.240893380219705,train,permissive,L452R
+Pangolin,non-permissive,0,test,non-permissive,L452R
+Pig,permissive,0.0359125558906444,test,permissive,L452R
+Puma,permissive,-1.35218251811136,train,non-permissive,L452R
+Rabbit,non-permissive,0.0392532991476735,train,permissive,L452R
+Sea Lion,permissive,0,test,non-permissive,L452R
+Tupaia,non-permissive,-0.00400274245367391,train,non-permissive,L452R
+Whale,non-permissive,0.218843239476631,train,permissive,L452R
+Camel,permissive,0,test,non-permissive,L452R
+Cat,non-permissive,1.45484486000851,train,permissive,L455F
+Dog,permissive,0,train,non-permissive,L455F
+Ferret,non-permissive,0.00706185448748685,train,permissive,L455F
+Hamster,permissive,-0.0336831132025726,test,non-permissive,L455F
+Horse,non-permissive,0,train,non-permissive,L455F
+Horseshoe bat,non-permissive,-0.0132282657337552,train,non-permissive,L455F
+Human,permissive,0.405765346183994,train,permissive,L455F
+Monkey,permissive,0.421005312740731,train,permissive,L455F
+Mouse,non-permissive,0.252931289288404,train,permissive,L455F
+Pangolin,non-permissive,0,test,non-permissive,L455F
+Pig,non-permissive,0.0591214521186566,test,permissive,L455F
+Puma,permissive,-1.34242268082221,train,non-permissive,L455F
+Rabbit,permissive,0.0457574905606751,test,permissive,L455F
+Sea Lion,non-permissive,0.0234810958495229,train,permissive,L455F
+Tupaia,non-permissive,-0.00389504388352416,train,non-permissive,L455F
+Whale,non-permissive,0.106894233914657,test,permissive,L455F
+Camel,permissive,-0.21162958443467,test,non-permissive,L455F
+Cat,non-permissive,1.568201724067,train,permissive,L518I
+Dog,permissive,0.0696359281413945,train,permissive,L518I
+Ferret,non-permissive,0.109144469425068,train,permissive,L518I
+Hamster,permissive,0.146128035678238,train,permissive,L518I
+Horse,permissive,0.0133639615579815,test,permissive,L518I
+Horseshoe bat,non-permissive,0.0413926851582251,train,permissive,L518I
+Human,permissive,0.660051938305649,train,permissive,L518I
+Monkey,permissive,0.698970004336019,train,permissive,L518I
+Mouse,non-permissive,0.0986097978859508,train,permissive,L518I
+Pangolin,non-permissive,0.0367228070247398,test,permissive,L518I
+Pig,non-permissive,0.181054678587231,test,permissive,L518I
+Puma,permissive,-1.38021124171161,train,non-permissive,L518I
+Rabbit,permissive,0.133538908370218,test,permissive,L518I
+Sea Lion,permissive,0.0362121726544447,train,permissive,L518I
+Tupaia,non-permissive,-0.00975983728915626,test,non-permissive,L518I
+Whale,permissive,0.11997531707675,test,permissive,L518I
+Camel,permissive,0.11997531707675,train,permissive,L518I
+Cat,non-permissive,1.31175386105575,train,permissive,N354K
+Dog,permissive,0.0271522460436148,test,permissive,N354K
+Ferret,non-permissive,0.110412483411704,train,permissive,N354K
+Hamster,permissive,0.152090982651915,train,permissive,N354K
+Horse,permissive,0.0263289387223491,train,permissive,N354K
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,N354K
+Human,permissive,0.628388930050312,train,permissive,N354K
+Monkey,permissive,0.665111737075051,train,permissive,N354K
+Mouse,non-permissive,0.0969100130080564,train,permissive,N354K
+Pangolin,non-permissive,0.0217192496932363,test,permissive,N354K
+Pig,permissive,0.0321846833714012,train,permissive,N354K
+Puma,permissive,-1.21748394421391,train,non-permissive,N354K
+Rabbit,permissive,0.159700842867512,test,permissive,N354K
+Sea Lion,permissive,0.0271522460436148,test,permissive,N354K
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,N354K
+Whale,non-permissive,0.301029995663981,test,permissive,N354K
+Camel,permissive,-0.0725506671486117,train,non-permissive,N354K
+Cat,non-permissive,1.30102999566398,test,permissive,N354S
+Dog,permissive,0.0118992232997077,train,permissive,N354S
+Ferret,non-permissive,0.0579919469776867,test,permissive,N354S
+Hamster,permissive,-0.0732319135344236,test,non-permissive,N354S
+Horse,permissive,0,train,non-permissive,N354S
+Horseshoe bat,non-permissive,0.0266521947714402,train,permissive,N354S
+Human,non-permissive,0.326335860928751,train,permissive,N354S
+Monkey,permissive,-0.24551266781415,train,non-permissive,N354S
+Mouse,non-permissive,0.282931773571185,train,permissive,N354S
+Pangolin,non-permissive,0.0369835662531699,test,permissive,N354S
+Pig,permissive,0.184524426592544,train,permissive,N354S
+Puma,permissive,-1.26717172840301,train,non-permissive,N354S
+Rabbit,permissive,0.054848668007345,test,permissive,N354S
+Sea Lion,permissive,-0.0122344564170116,train,non-permissive,N354S
+Tupaia,non-permissive,-0.00454762775072063,train,non-permissive,N354S
+Whale,permissive,0.33206422940395,test,permissive,N354S
+Camel,permissive,0.2498774732166,train,permissive,N354S
+Cat,non-permissive,1.31175386105575,train,permissive,N370K
+Dog,permissive,0,train,non-permissive,N370K
+Ferret,non-permissive,0,train,non-permissive,N370K
+Hamster,permissive,0.0274382483469396,train,permissive,N370K
+Horse,permissive,-0.0118992232997077,test,non-permissive,N370K
+Horseshoe bat,non-permissive,0.0591214521186566,test,permissive,N370K
+Human,permissive,0.342422680822206,train,permissive,N370K
+Monkey,permissive,0.322219294733919,train,permissive,N370K
+Mouse,non-permissive,0.184865183363186,train,permissive,N370K
+Pangolin,non-permissive,0,test,non-permissive,N370K
+Pig,permissive,-0.0612696567389227,train,non-permissive,N370K
+Puma,permissive,-1.25527250510331,train,non-permissive,N370K
+Rabbit,permissive,0.0386294023561309,test,permissive,N370K
+Sea Lion,permissive,0.0222763947111522,test,permissive,N370K
+Tupaia,non-permissive,0.00965138567618084,train,permissive,N370K
+Whale,non-permissive,-0.0386294023561309,train,non-permissive,N370K
+Camel,non-permissive,0.114954515701699,test,permissive,N370K
+Cat,non-permissive,1.20411998265592,train,permissive,N370S
+Dog,permissive,-0.00860017176191758,test,non-permissive,N370S
+Ferret,non-permissive,-0.0177287669604316,test,non-permissive,N370S
+Hamster,permissive,0.0430346322252019,train,permissive,N370S
+Horse,permissive,0,test,non-permissive,N370S
+Horseshoe bat,non-permissive,0.0347621062592119,train,permissive,N370S
+Human,permissive,0.43724974268197,train,permissive,N370S
+Monkey,permissive,0.411442479075685,train,permissive,N370S
+Mouse,non-permissive,0.22020680254938,train,permissive,N370S
+Pangolin,non-permissive,0,test,non-permissive,N370S
+Pig,permissive,-0.149298082467745,train,non-permissive,N370S
+Puma,permissive,-1.21307482530885,train,non-permissive,N370S
+Rabbit,permissive,0.0931170239909173,test,permissive,N370S
+Sea Lion,non-permissive,-0.0413926851582251,train,non-permissive,N370S
+Tupaia,non-permissive,0,train,non-permissive,N370S
+Whale,non-permissive,-0.0791812460476248,train,non-permissive,N370S
+Camel,non-permissive,0.0621479067488444,test,permissive,N370S
+Cat,permissive,1.63346845557959,train,permissive,N439K
+Dog,permissive,0.185046101708608,train,permissive,N439K
+Ferret,non-permissive,0.209949526316649,train,permissive,N439K
+Hamster,permissive,0.105510184769974,train,permissive,N439K
+Horse,permissive,0.0129649771643676,train,permissive,N439K
+Horseshoe bat,non-permissive,0.0222763947111522,train,permissive,N439K
+Human,permissive,0.500602350569185,train,permissive,N439K
+Monkey,permissive,0.564271430438563,train,permissive,N439K
+Mouse,non-permissive,0.0936810428778579,train,permissive,N439K
+Pangolin,non-permissive,0.0365168338257625,train,permissive,N439K
+Pig,permissive,-0.0871501757189001,train,non-permissive,N439K
+Puma,permissive,1.63346845557959,test,permissive,N439K
+Rabbit,permissive,0.142106761745314,test,permissive,N439K
+Sea Lion,permissive,0.0910804693473326,test,permissive,N439K
+Tupaia,non-permissive,0,test,non-permissive,N439K
+Whale,non-permissive,-0.0644579892269185,test,non-permissive,N439K
+Camel,non-permissive,-0.0334237554869497,test,non-permissive,N439K
+Cat,non-permissive,1.34242268082221,train,permissive,N440K
+Dog,permissive,0,train,non-permissive,N440K
+Ferret,non-permissive,0.0234810958495229,train,permissive,N440K
+Hamster,permissive,0.0243593458594447,train,permissive,N440K
+Horse,permissive,0,train,non-permissive,N440K
+Horseshoe bat,non-permissive,0.0511525224473813,test,permissive,N440K
+Human,permissive,0.371067862271736,train,permissive,N440K
+Monkey,permissive,0.352182518111362,train,permissive,N440K
+Mouse,non-permissive,0.183916596567638,train,permissive,N440K
+Pangolin,non-permissive,0.020203386088287,test,permissive,N440K
+Pig,non-permissive,0.064117499611749,test,permissive,N440K
+Puma,permissive,-1.27875360095283,train,non-permissive,N440K
+Rabbit,permissive,0.0532455119532251,test,permissive,N440K
+Sea Lion,permissive,0.0197440581957572,test,permissive,N440K
+Tupaia,non-permissive,-0.00469512120837984,train,non-permissive,N440K
+Whale,non-permissive,0.00860017176191757,train,permissive,N440K
+Camel,permissive,-0.0889410833367811,test,non-permissive,N440K
+Cat,non-permissive,1.43933269383026,test,permissive,N448D
+Dog,permissive,0,train,non-permissive,N448D
+Ferret,non-permissive,0.0413926851582251,test,permissive,N448D
+Hamster,permissive,-0.0626468091378892,train,non-permissive,N448D
+Horse,permissive,0,test,non-permissive,N448D
+Horseshoe bat,non-permissive,0.028333598643935,train,permissive,N448D
+Human,permissive,0.455931955649724,train,permissive,N448D
+Monkey,permissive,0.433655560938572,train,permissive,N448D
+Mouse,non-permissive,0.232207201034613,train,permissive,N448D
+Pangolin,non-permissive,0,test,non-permissive,N448D
+Pig,permissive,-0.123155183867883,test,non-permissive,N448D
+Puma,permissive,-1.36172783601759,train,non-permissive,N448D
+Rabbit,non-permissive,0.0392532991476735,train,permissive,N448D
+Sea Lion,permissive,0.0268721464003013,test,permissive,N448D
+Tupaia,non-permissive,-0.00400274245367391,train,non-permissive,N448D
+Whale,non-permissive,0.0137882844856333,train,permissive,N448D
+Camel,non-permissive,0.0208501389731202,train,permissive,N448D
+Cat,non-permissive,1.33243845991561,train,permissive,N448H
+Dog,permissive,0.0248235837250321,test,permissive,N448H
+Ferret,non-permissive,0.10790539730952,train,permissive,N448H
+Hamster,permissive,0.0771659548122993,train,permissive,N448H
+Horse,permissive,0.0118992232997077,train,permissive,N448H
+Horseshoe bat,non-permissive,0.0273231272112348,train,permissive,N448H
+Human,non-permissive,0.374458912822515,train,permissive,N448H
+Monkey,permissive,-0.252725316089426,train,non-permissive,N448H
+Mouse,non-permissive,0.114573221136466,train,permissive,N448H
+Pangolin,non-permissive,0.0314084642516241,test,permissive,N448H
+Pig,permissive,0.0561159419789314,train,permissive,N448H
+Puma,permissive,-1.23044892137827,train,non-permissive,N448H
+Rabbit,permissive,0.048304679574555,test,permissive,N448H
+Sea Lion,permissive,0,test,non-permissive,N448H
+Tupaia,non-permissive,-0.00860017176191758,test,non-permissive,N448H
+Whale,non-permissive,0.255272505103306,test,permissive,N448H
+Camel,permissive,-0.0644579892269185,train,non-permissive,N448H
+Cat,non-permissive,1.21748394421391,train,permissive,N481D
+Dog,permissive,-0.0271522460436148,test,non-permissive,N481D
+Ferret,non-permissive,-0.0734289171585335,train,non-permissive,N481D
+Hamster,permissive,0.152090982651915,train,permissive,N481D
+Horse,permissive,0.0263289387223491,train,permissive,N481D
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,N481D
+Human,permissive,0.628388930050312,train,permissive,N481D
+Monkey,permissive,0.665111737075051,train,permissive,N481D
+Mouse,non-permissive,0.110071459066027,train,permissive,N481D
+Pangolin,non-permissive,-0.0109953843014632,test,non-permissive,N481D
+Pig,permissive,0.238239165804526,train,permissive,N481D
+Puma,permissive,-1.21748394421391,train,non-permissive,N481D
+Rabbit,permissive,0.159700842867512,test,permissive,N481D
+Sea Lion,non-permissive,0.0271522460436148,test,permissive,N481D
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,N481D
+Whale,permissive,0.301029995663981,test,permissive,N481D
+Camel,permissive,0.270361175897529,train,permissive,N481D
+Cat,non-permissive,1.21307482530885,train,permissive,P337R
+Dog,permissive,-0.00914337943986977,test,non-permissive,P337R
+Ferret,non-permissive,0.0369835662531699,test,permissive,P337R
+Hamster,permissive,0.0167056935028527,train,permissive,P337R
+Horse,non-permissive,0,test,non-permissive,P337R
+Horseshoe bat,non-permissive,-0.0395085412836736,train,non-permissive,P337R
+Human,permissive,0.44552226864796,train,permissive,P337R
+Monkey,permissive,0.42021640338319,train,permissive,P337R
+Mouse,non-permissive,0.22020680254938,train,permissive,P337R
+Pangolin,non-permissive,0,test,non-permissive,P337R
+Pig,permissive,-0.10219560946974,train,non-permissive,P337R
+Puma,permissive,-1.20411998265592,train,non-permissive,P337R
+Rabbit,permissive,0.0806559316136305,test,permissive,P337R
+Sea Lion,permissive,-0.03698356625317,test,non-permissive,P337R
+Tupaia,non-permissive,-0.00423705294325464,train,non-permissive,P337R
+Whale,non-permissive,0,train,non-permissive,P337R
+Camel,non-permissive,0.0501666094657302,train,permissive,P337R
+Cat,non-permissive,1.34242268082221,train,permissive,P337S
+Dog,permissive,0,train,non-permissive,P337S
+Ferret,non-permissive,0.0234810958495229,train,permissive,P337S
+Hamster,permissive,0.0243593458594447,train,permissive,P337S
+Horse,permissive,0,train,non-permissive,P337S
+Horseshoe bat,non-permissive,0.0511525224473813,test,permissive,P337S
+Human,permissive,0.371067862271736,train,permissive,P337S
+Monkey,permissive,0.352182518111362,train,permissive,P337S
+Mouse,non-permissive,0.183916596567638,train,permissive,P337S
+Pangolin,non-permissive,0.020203386088287,test,permissive,P337S
+Pig,non-permissive,0.064117499611749,test,permissive,P337S
+Puma,permissive,-1.27875360095283,train,non-permissive,P337S
+Rabbit,permissive,0.0532455119532251,test,permissive,P337S
+Sea Lion,permissive,0.0197440581957572,test,permissive,P337S
+Tupaia,non-permissive,-0.00469512120837984,train,non-permissive,P337S
+Whale,non-permissive,0.00860017176191757,train,permissive,P337S
+Camel,permissive,-0.0889410833367811,test,non-permissive,P337S
+Cat,non-permissive,1.43933269383026,test,permissive,P384I
+Dog,permissive,0,train,non-permissive,P384I
+Ferret,non-permissive,0.0413926851582251,test,permissive,P384I
+Hamster,permissive,-0.0754210971743181,train,non-permissive,P384I
+Horse,permissive,0,test,non-permissive,P384I
+Horseshoe bat,non-permissive,0.028333598643935,train,permissive,P384I
+Human,non-permissive,0.388180171382881,train,permissive,P384I
+Monkey,permissive,-0.339488247483157,train,non-permissive,P384I
+Mouse,non-permissive,0.232207201034613,train,permissive,P384I
+Pangolin,non-permissive,0,test,non-permissive,P384I
+Pig,permissive,-0.121422162885463,test,non-permissive,P384I
+Puma,permissive,-1.36172783601759,train,non-permissive,P384I
+Rabbit,non-permissive,0.0392532991476735,train,permissive,P384I
+Sea Lion,permissive,0.0268721464003013,test,permissive,P384I
+Tupaia,non-permissive,-0.00400274245367391,train,non-permissive,P384I
+Whale,non-permissive,0.00683942453030544,train,permissive,P384I
+Camel,non-permissive,0.0137882844856333,train,permissive,P384I
+Cat,non-permissive,1.24303804868629,train,permissive,P479S
+Dog,permissive,0,train,non-permissive,P479S
+Ferret,non-permissive,-0.00895484265292645,train,non-permissive,P479S
+Hamster,permissive,0.0280287236002435,train,permissive,P479S
+Horse,non-permissive,0.0255541044723881,test,permissive,P479S
+Horseshoe bat,non-permissive,-0.0602959018872511,test,non-permissive,P479S
+Human,non-permissive,0.282546589969968,train,permissive,P479S
+Monkey,permissive,-0.23257261500813,train,non-permissive,P479S
+Mouse,non-permissive,0.182081622744869,train,permissive,P479S
+Pangolin,non-permissive,0,test,non-permissive,P479S
+Pig,permissive,0.0768400302327223,train,permissive,P479S
+Puma,permissive,-1.23044892137827,train,non-permissive,P479S
+Rabbit,permissive,-0.0102191651816861,test,non-permissive,P479S
+Sea Lion,non-permissive,0.0197440581957572,train,permissive,P479S
+Tupaia,non-permissive,-0.0049634195315501,train,non-permissive,P479S
+Whale,permissive,0.131887596563628,test,permissive,P479S
+Camel,permissive,0.0271522460436148,test,permissive,P479S
+Cat,non-permissive,1.31175386105575,train,permissive,P521S
+Dog,permissive,0.0271522460436148,test,permissive,P521S
+Ferret,non-permissive,0.110412483411704,train,permissive,P521S
+Hamster,permissive,0.152090982651915,train,permissive,P521S
+Horse,permissive,0.0263289387223491,train,permissive,P521S
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,P521S
+Human,permissive,0.628388930050312,train,permissive,P521S
+Monkey,permissive,0.665111737075051,train,permissive,P521S
+Mouse,non-permissive,0.0969100130080564,train,permissive,P521S
+Pangolin,non-permissive,0.0217192496932363,test,permissive,P521S
+Pig,permissive,0.0321846833714012,train,permissive,P521S
+Puma,permissive,-1.21748394421391,train,non-permissive,P521S
+Rabbit,permissive,0.159700842867512,test,permissive,P521S
+Sea Lion,permissive,0.0271522460436148,test,permissive,P521S
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,P521S
+Whale,non-permissive,0.301029995663981,test,permissive,P521S
+Camel,permissive,-0.0725506671486117,train,non-permissive,P521S
+Cat,non-permissive,1.31175386105575,train,permissive,Q321L
+Dog,permissive,0,train,non-permissive,Q321L
+Ferret,non-permissive,0,train,non-permissive,Q321L
+Hamster,permissive,0.0274382483469396,train,permissive,Q321L
+Horse,permissive,-0.0118992232997077,test,non-permissive,Q321L
+Horseshoe bat,non-permissive,0.0591214521186566,test,permissive,Q321L
+Human,permissive,0.342422680822206,train,permissive,Q321L
+Monkey,permissive,0.322219294733919,train,permissive,Q321L
+Mouse,non-permissive,0.184865183363186,train,permissive,Q321L
+Pangolin,non-permissive,0,test,non-permissive,Q321L
+Pig,permissive,-0.0612696567389227,train,non-permissive,Q321L
+Puma,permissive,-1.25527250510331,train,non-permissive,Q321L
+Rabbit,permissive,0.0386294023561309,test,permissive,Q321L
+Sea Lion,permissive,0.0222763947111522,test,permissive,Q321L
+Tupaia,non-permissive,0.00965138567618084,train,permissive,Q321L
+Whale,non-permissive,-0.0386294023561309,train,non-permissive,Q321L
+Camel,non-permissive,0.114954515701699,test,permissive,Q321L
+Cat,non-permissive,1.31175386105575,train,permissive,Q414R
+Dog,permissive,0.0271522460436148,test,permissive,Q414R
+Ferret,non-permissive,0.110412483411704,train,permissive,Q414R
+Hamster,permissive,0.152090982651915,train,permissive,Q414R
+Horse,permissive,0.0263289387223491,train,permissive,Q414R
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,Q414R
+Human,permissive,0.628388930050312,train,permissive,Q414R
+Monkey,permissive,0.665111737075051,train,permissive,Q414R
+Mouse,non-permissive,0.0969100130080564,train,permissive,Q414R
+Pangolin,non-permissive,0.0217192496932363,test,permissive,Q414R
+Pig,permissive,0.0321846833714012,train,permissive,Q414R
+Puma,permissive,-1.21748394421391,train,non-permissive,Q414R
+Rabbit,permissive,0.159700842867512,test,permissive,Q414R
+Sea Lion,permissive,0.0271522460436148,test,permissive,Q414R
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,Q414R
+Whale,non-permissive,0.301029995663981,test,permissive,Q414R
+Camel,permissive,-0.0725506671486117,train,non-permissive,Q414R
+Cat,non-permissive,1.31175386105575,train,permissive,Q474K
+Dog,permissive,0.0271522460436148,test,permissive,Q474K
+Ferret,non-permissive,0.110412483411704,train,permissive,Q474K
+Hamster,permissive,0.152090982651915,train,permissive,Q474K
+Horse,permissive,0.0263289387223491,train,permissive,Q474K
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,Q474K
+Human,permissive,0.628388930050312,train,permissive,Q474K
+Monkey,permissive,0.665111737075051,train,permissive,Q474K
+Mouse,non-permissive,0.0969100130080564,train,permissive,Q474K
+Pangolin,non-permissive,0.0217192496932363,test,permissive,Q474K
+Pig,permissive,0.0321846833714012,train,permissive,Q474K
+Puma,permissive,-1.21748394421391,train,non-permissive,Q474K
+Rabbit,permissive,0.159700842867512,test,permissive,Q474K
+Sea Lion,permissive,0.0271522460436148,test,permissive,Q474K
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,Q474K
+Whale,non-permissive,0.301029995663981,test,permissive,Q474K
+Camel,permissive,-0.0725506671486117,train,non-permissive,Q474K
+Cat,non-permissive,1.31175386105575,train,permissive,Q493L
+Dog,permissive,0,train,non-permissive,Q493L
+Ferret,non-permissive,0,train,non-permissive,Q493L
+Hamster,permissive,0.0274382483469396,train,permissive,Q493L
+Horse,permissive,-0.0118992232997077,test,non-permissive,Q493L
+Horseshoe bat,non-permissive,0.0591214521186566,test,permissive,Q493L
+Human,permissive,0.342422680822206,train,permissive,Q493L
+Monkey,permissive,0.322219294733919,train,permissive,Q493L
+Mouse,non-permissive,0.184865183363186,train,permissive,Q493L
+Pangolin,non-permissive,0,test,non-permissive,Q493L
+Pig,permissive,-0.0612696567389227,train,non-permissive,Q493L
+Puma,permissive,-1.25527250510331,train,non-permissive,Q493L
+Rabbit,permissive,0.0386294023561309,test,permissive,Q493L
+Sea Lion,permissive,0.0222763947111522,test,permissive,Q493L
+Tupaia,non-permissive,0.00965138567618084,train,permissive,Q493L
+Whale,non-permissive,-0.0386294023561309,train,non-permissive,Q493L
+Camel,non-permissive,0.114954515701699,test,permissive,Q493L
+Cat,non-permissive,1.30102999566398,test,permissive,R346K
+Dog,permissive,0.0118992232997077,train,permissive,R346K
+Ferret,non-permissive,0.0579919469776867,test,permissive,R346K
+Hamster,permissive,-0.0732319135344236,test,non-permissive,R346K
+Horse,permissive,0,train,non-permissive,R346K
+Horseshoe bat,non-permissive,0.0266521947714402,train,permissive,R346K
+Human,non-permissive,0.326335860928751,train,permissive,R346K
+Monkey,permissive,-0.24551266781415,train,non-permissive,R346K
+Mouse,non-permissive,0.282931773571185,train,permissive,R346K
+Pangolin,non-permissive,0.0369835662531699,test,permissive,R346K
+Pig,permissive,0.184524426592544,train,permissive,R346K
+Puma,permissive,-1.26717172840301,train,non-permissive,R346K
+Rabbit,permissive,0.054848668007345,test,permissive,R346K
+Sea Lion,permissive,-0.0122344564170116,train,non-permissive,R346K
+Tupaia,non-permissive,-0.00454762775072063,train,non-permissive,R346K
+Whale,permissive,0.33206422940395,test,permissive,R346K
+Camel,permissive,0.2498774732166,train,permissive,R346K
+Cat,non-permissive,1.31175386105575,train,permissive,R357K
+Dog,permissive,0.0271522460436148,test,permissive,R357K
+Ferret,non-permissive,0.110412483411704,train,permissive,R357K
+Hamster,permissive,0.152090982651915,train,permissive,R357K
+Horse,permissive,0.0263289387223491,train,permissive,R357K
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,R357K
+Human,permissive,0.628388930050312,train,permissive,R357K
+Monkey,permissive,0.665111737075051,train,permissive,R357K
+Mouse,non-permissive,0.0969100130080564,train,permissive,R357K
+Pangolin,non-permissive,0.0217192496932363,test,permissive,R357K
+Pig,permissive,0.0321846833714012,train,permissive,R357K
+Puma,permissive,-1.21748394421391,train,non-permissive,R357K
+Rabbit,permissive,0.159700842867512,test,permissive,R357K
+Sea Lion,permissive,0.0271522460436148,test,permissive,R357K
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,R357K
+Whale,non-permissive,0.301029995663981,test,permissive,R357K
+Camel,permissive,-0.0725506671486117,train,non-permissive,R357K
+Cat,non-permissive,1.31175386105575,train,permissive,R403K
+Dog,permissive,0.0271522460436148,test,permissive,R403K
+Ferret,non-permissive,0.110412483411704,train,permissive,R403K
+Hamster,permissive,0.152090982651915,train,permissive,R403K
+Horse,permissive,0.0263289387223491,train,permissive,R403K
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,R403K
+Human,permissive,0.628388930050312,train,permissive,R403K
+Monkey,permissive,0.665111737075051,train,permissive,R403K
+Mouse,non-permissive,0.0969100130080564,train,permissive,R403K
+Pangolin,non-permissive,0.0217192496932363,test,permissive,R403K
+Pig,permissive,0.0321846833714012,train,permissive,R403K
+Puma,permissive,-1.21748394421391,train,non-permissive,R403K
+Rabbit,permissive,0.159700842867512,test,permissive,R403K
+Sea Lion,permissive,0.0271522460436148,test,permissive,R403K
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,R403K
+Whale,non-permissive,0.301029995663981,test,permissive,R403K
+Camel,permissive,-0.0725506671486117,train,non-permissive,R403K
+Cat,permissive,1.47712125471966,train,permissive,S-614D
+Dog,permissive,0,train,non-permissive,S-614D
+Ferret,non-permissive,-0.103896133868722,train,non-permissive,S-614D
+Hamster,permissive,0.105510184769974,train,permissive,S-614D
+Horse,permissive,0.0496877841891075,train,permissive,S-614D
+Horseshoe bat,non-permissive,0.0330002601029253,train,permissive,S-614D
+Human,permissive,0.500602350569185,train,permissive,S-614D
+Monkey,permissive,0.564271430438563,train,permissive,S-614D
+Mouse,non-permissive,0.0936810428778579,train,permissive,S-614D
+Pangolin,non-permissive,0.00755313789044591,train,permissive,S-614D
+Pig,permissive,0.0310342337399688,train,permissive,S-614D
+Puma,permissive,1.49136169383427,test,permissive,S-614D
+Rabbit,permissive,0.161850819941071,test,permissive,S-614D
+Sea Lion,non-permissive,0.0910804693473326,test,permissive,S-614D
+Tupaia,non-permissive,0,test,non-permissive,S-614D
+Whale,non-permissive,0.326335860928751,test,permissive,S-614D
+Camel,permissive,-0.0334237554869497,test,non-permissive,S-614D
+Cat,non-permissive,1.20411998265592,train,permissive,S-614G
+Dog,permissive,-0.00860017176191758,test,non-permissive,S-614G
+Ferret,non-permissive,-0.0177287669604316,test,non-permissive,S-614G
+Hamster,permissive,0.0430346322252019,train,permissive,S-614G
+Horse,non-permissive,0,test,non-permissive,S-614G
+Horseshoe bat,non-permissive,-0.0347621062592119,train,non-permissive,S-614G
+Human,permissive,0.43724974268197,train,permissive,S-614G
+Monkey,permissive,0.411442479075685,train,permissive,S-614G
+Mouse,non-permissive,0.22020680254938,train,permissive,S-614G
+Pangolin,non-permissive,0,test,non-permissive,S-614G
+Pig,permissive,0.141329152796469,train,permissive,S-614G
+Puma,permissive,-1.21307482530885,train,non-permissive,S-614G
+Rabbit,permissive,0.0931170239909173,test,permissive,S-614G
+Sea Lion,non-permissive,-0.0413926851582251,train,non-permissive,S-614G
+Tupaia,non-permissive,0,train,non-permissive,S-614G
+Whale,non-permissive,0.198045834943732,train,permissive,S-614G
+Camel,permissive,0.0621479067488444,test,permissive,S-614G
+Cat,permissive,1.36172783601759,train,permissive,S325F
+Dog,permissive,0.0362121726544447,test,permissive,S325F
+Ferret,non-permissive,-0.00782533751195659,train,non-permissive,S325F
+Hamster,permissive,0,train,non-permissive,S325F
+Horse,permissive,-0.020203386088287,test,non-permissive,S325F
+Horseshoe bat,non-permissive,0.087830355156138,test,permissive,S325F
+Human,permissive,0.470172394764335,train,permissive,S325F
+Monkey,permissive,0.463110540276848,train,permissive,S325F
+Mouse,non-permissive,0.221848749616356,train,permissive,S325F
+Pangolin,non-permissive,0.0389180660303697,train,permissive,S325F
+Pig,permissive,-0.0621479067488445,train,non-permissive,S325F
+Puma,permissive,1.36172783601759,train,permissive,S325F
+Rabbit,permissive,0.1249387366083,test,permissive,S325F
+Sea Lion,non-permissive,0.0776048578126698,test,permissive,S325F
+Tupaia,non-permissive,0.0129649771643676,train,permissive,S325F
+Whale,non-permissive,-0.0521780116650716,train,non-permissive,S325F
+Camel,non-permissive,0.0810332509092182,test,permissive,S325F
+Cat,non-permissive,1.31175386105575,train,permissive,S373L
+Dog,permissive,0.0271522460436148,test,permissive,S373L
+Ferret,non-permissive,0.110412483411704,train,permissive,S373L
+Hamster,permissive,0.152090982651915,train,permissive,S373L
+Horse,permissive,0.0263289387223491,train,permissive,S373L
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,S373L
+Human,permissive,0.628388930050312,train,permissive,S373L
+Monkey,permissive,0.665111737075051,train,permissive,S373L
+Mouse,non-permissive,0.0969100130080564,train,permissive,S373L
+Pangolin,non-permissive,0.0217192496932363,test,permissive,S373L
+Pig,permissive,0.0321846833714012,train,permissive,S373L
+Puma,permissive,-1.21748394421391,train,non-permissive,S373L
+Rabbit,permissive,0.159700842867512,test,permissive,S373L
+Sea Lion,permissive,0.0271522460436148,test,permissive,S373L
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,S373L
+Whale,non-permissive,0.301029995663981,test,permissive,S373L
+Camel,permissive,-0.0725506671486117,train,non-permissive,S373L
+Cat,non-permissive,1.21748394421391,train,permissive,S459F
+Dog,non-permissive,0.0271522460436148,test,permissive,S459F
+Ferret,non-permissive,0.0734289171585335,train,permissive,S459F
+Hamster,permissive,0.152090982651915,train,permissive,S459F
+Horse,permissive,0.0263289387223491,train,permissive,S459F
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,S459F
+Human,permissive,0.628388930050312,train,permissive,S459F
+Monkey,permissive,0.665111737075051,train,permissive,S459F
+Mouse,non-permissive,0.0969100130080564,train,permissive,S459F
+Pangolin,permissive,0.0217192496932363,test,permissive,S459F
+Pig,permissive,0.0321846833714012,train,permissive,S459F
+Puma,permissive,-1.21748394421391,train,non-permissive,S459F
+Rabbit,permissive,0.159700842867512,test,permissive,S459F
+Sea Lion,permissive,-0.0271522460436148,test,non-permissive,S459F
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,S459F
+Whale,non-permissive,0.301029995663981,test,permissive,S459F
+Camel,permissive,-0.0725506671486117,train,non-permissive,S459F
+Cat,non-permissive,1.31175386105575,train,permissive,S494P
+Dog,permissive,0.0271522460436148,test,permissive,S494P
+Ferret,non-permissive,0.110412483411704,train,permissive,S494P
+Hamster,permissive,0.152090982651915,train,permissive,S494P
+Horse,permissive,0.0263289387223491,train,permissive,S494P
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,S494P
+Human,permissive,0.628388930050312,train,permissive,S494P
+Monkey,permissive,0.665111737075051,train,permissive,S494P
+Mouse,non-permissive,0.0969100130080564,train,permissive,S494P
+Pangolin,non-permissive,0.0217192496932363,test,permissive,S494P
+Pig,permissive,0.0321846833714012,train,permissive,S494P
+Puma,permissive,-1.21748394421391,train,non-permissive,S494P
+Rabbit,permissive,0.159700842867512,test,permissive,S494P
+Sea Lion,permissive,0.0271522460436148,test,permissive,S494P
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,S494P
+Whale,non-permissive,0.301029995663981,test,permissive,S494P
+Camel,permissive,-0.0725506671486117,train,non-permissive,S494P
+Cat,non-permissive,-1.27875360095283,test,non-permissive,S514F
+Dog,permissive,0.0621479067488444,test,permissive,S514F
+Ferret,non-permissive,0.116969806937025,train,permissive,S514F
+Hamster,permissive,-0.00673338265896838,train,non-permissive,S514F
+Horse,permissive,0.048304679574555,train,permissive,S514F
+Horseshoe bat,non-permissive,0.0717992924250253,train,permissive,S514F
+Human,permissive,-0.277964691595288,train,non-permissive,S514F
+Monkey,non-permissive,0.4009248622215,train,permissive,S514F
+Mouse,non-permissive,0.185046101708608,train,permissive,S514F
+Pangolin,non-permissive,0.0652667315125915,train,permissive,S514F
+Pig,non-permissive,0.0457574905606751,test,permissive,S514F
+Puma,non-permissive,-1.27106677228654,train,non-permissive,S514F
+Rabbit,permissive,0.0144778233686228,test,permissive,S514F
+Sea Lion,permissive,0.0243593458594447,test,permissive,S514F
+Tupaia,non-permissive,0,train,non-permissive,S514F
+Whale,non-permissive,0.142667503568732,test,permissive,S514F
+Camel,permissive,-0.151267675330649,train,non-permissive,S514F
+Cat,permissive,Inf,train,permissive,T323I
+Dog,permissive,0.0142404391146103,train,permissive,T323I
+Ferret,non-permissive,-0.103896133868722,train,non-permissive,T323I
+Hamster,permissive,0.167491087293764,train,permissive,T323I
+Horse,permissive,0.0894004112293109,test,permissive,T323I
+Horseshoe bat,non-permissive,0.0601872059833166,train,permissive,T323I
+Human,permissive,0.636822097587174,train,permissive,T323I
+Monkey,permissive,0.679225946140262,train,permissive,T323I
+Mouse,non-permissive,0.139879086401236,train,permissive,T323I
+Pangolin,permissive,0.0228628829595042,train,permissive,T323I
+Pig,permissive,-0.0768400302327223,train,non-permissive,T323I
+Puma,permissive,Inf,test,permissive,T323I
+Rabbit,permissive,0.148062535455438,test,permissive,T323I
+Sea Lion,non-permissive,0.105803726168039,test,permissive,T323I
+Tupaia,non-permissive,0.0243593458594447,test,permissive,T323I
+Whale,non-permissive,0.0649408069330146,test,permissive,T323I
+Camel,non-permissive,-0.0457574905606751,train,non-permissive,T323I
+Cat,non-permissive,1.31175386105575,train,permissive,T323S
+Dog,permissive,0,train,non-permissive,T323S
+Ferret,non-permissive,0,train,non-permissive,T323S
+Hamster,permissive,0.0274382483469396,train,permissive,T323S
+Horse,permissive,-0.0118992232997077,test,non-permissive,T323S
+Horseshoe bat,non-permissive,0.0591214521186566,test,permissive,T323S
+Human,permissive,0.342422680822206,train,permissive,T323S
+Monkey,permissive,0.322219294733919,train,permissive,T323S
+Mouse,non-permissive,0.184865183363186,train,permissive,T323S
+Pangolin,non-permissive,0,test,non-permissive,T323S
+Pig,permissive,-0.0612696567389227,train,non-permissive,T323S
+Puma,permissive,-1.25527250510331,train,non-permissive,T323S
+Rabbit,permissive,0.0386294023561309,test,permissive,T323S
+Sea Lion,permissive,0.0222763947111522,test,permissive,T323S
+Tupaia,non-permissive,0.00965138567618084,train,permissive,T323S
+Whale,non-permissive,-0.0386294023561309,train,non-permissive,T323S
+Camel,non-permissive,0.114954515701699,test,permissive,T323S
+Cat,non-permissive,1.47712125471966,test,permissive,T385A
+Dog,permissive,0,train,non-permissive,T385A
+Ferret,non-permissive,0.0299632233774432,train,permissive,T385A
+Hamster,permissive,-0.0457574905606751,train,non-permissive,T385A
+Horse,permissive,0,test,non-permissive,T385A
+Horseshoe bat,non-permissive,0.0471790776954693,test,permissive,T385A
+Human,permissive,0.423245873936808,train,permissive,T385A
+Monkey,permissive,0.389166084364533,train,permissive,T385A
+Mouse,non-permissive,0.24073409377673,train,permissive,T385A
+Pangolin,permissive,0,train,non-permissive,T385A
+Pig,permissive,-0.129094696379458,test,non-permissive,T385A
+Puma,permissive,-1.32221929473392,train,non-permissive,T385A
+Rabbit,non-permissive,0.0308139474142196,train,permissive,T385A
+Sea Lion,permissive,0.0184834056940131,test,permissive,T385A
+Tupaia,non-permissive,0,train,non-permissive,T385A
+Whale,non-permissive,-0.00768682866629101,train,non-permissive,T385A
+Camel,non-permissive,0.0321846833714012,test,permissive,T385A
+Cat,non-permissive,1.29003461136252,train,permissive,T478I
+Dog,permissive,0,train,non-permissive,T478I
+Ferret,non-permissive,-0.00895484265292645,train,non-permissive,T478I
+Hamster,permissive,0.0280287236002435,train,permissive,T478I
+Horse,permissive,-0.0255541044723882,test,non-permissive,T478I
+Horseshoe bat,non-permissive,0.0602959018872511,test,permissive,T478I
+Human,non-permissive,0.301029995663981,train,permissive,T478I
+Monkey,permissive,-0.221848749616356,train,non-permissive,T478I
+Mouse,non-permissive,0.193820026016113,train,permissive,T478I
+Pangolin,non-permissive,0,test,non-permissive,T478I
+Pig,permissive,-0.0649408069330146,train,non-permissive,T478I
+Puma,permissive,-1.23044892137827,train,non-permissive,T478I
+Rabbit,permissive,0.0299632233774432,test,permissive,T478I
+Sea Lion,non-permissive,0.0197440581957572,train,permissive,T478I
+Tupaia,non-permissive,0.00496341953155014,train,permissive,T478I
+Whale,permissive,-0.0649408069330146,test,non-permissive,T478I
+Camel,non-permissive,0.121422162885463,test,permissive,T478I
+Cat,non-permissive,Inf,test,permissive,T478K
+Dog,permissive,0.0492180226701817,train,permissive,T478K
+Ferret,non-permissive,0.131278914639319,train,permissive,T478K
+Hamster,permissive,0.0947863193782009,train,permissive,T478K
+Horse,permissive,0,test,non-permissive,T478K
+Horseshoe bat,non-permissive,0.0457574905606751,train,permissive,T478K
+Human,permissive,0.602059991327962,train,permissive,T478K
+Monkey,permissive,0.636822097587174,train,permissive,T478K
+Mouse,non-permissive,0.139046990519667,train,permissive,T478K
+Pangolin,non-permissive,0.0222763947111522,test,permissive,T478K
+Pig,permissive,0.180456064458131,test,permissive,T478K
+Puma,permissive,-Inf,train,non-permissive,T478K
+Rabbit,non-permissive,0.0644579892269185,train,permissive,T478K
+Sea Lion,permissive,0.0170333392987804,train,permissive,T478K
+Tupaia,non-permissive,0,test,non-permissive,T478K
+Whale,permissive,0.27415784926368,test,permissive,T478K
+Camel,permissive,0.235528446907549,train,permissive,T478K
+Cat,non-permissive,1.51851393987789,train,permissive,T478R
+Dog,permissive,0.0474246499281381,test,permissive,T478R
+Ferret,non-permissive,0.0993846321359118,train,permissive,T478R
+Hamster,permissive,0.150385858820779,train,permissive,T478R
+Horse,non-permissive,0.0133639615579815,test,permissive,T478R
+Horseshoe bat,non-permissive,-0.0352323764534066,train,non-permissive,T478R
+Human,permissive,0.646263653820016,train,permissive,T478R
+Monkey,permissive,0.686380877027998,train,permissive,T478R
+Mouse,non-permissive,0.10219560946974,train,permissive,T478R
+Pangolin,non-permissive,0.063051745747089,test,permissive,T478R
+Pig,permissive,0.12057393120585,train,permissive,T478R
+Puma,permissive,-1.38021124171161,train,non-permissive,T478R
+Rabbit,permissive,0.12057393120585,test,permissive,T478R
+Sea Lion,permissive,0.0177287669604316,train,permissive,T478R
+Tupaia,non-permissive,-0.00975983728915626,test,non-permissive,T478R
+Whale,permissive,0.245982429333076,test,permissive,T478R
+Camel,permissive,0.221848749616356,train,permissive,T478R
+Cat,non-permissive,1.31175386105575,train,permissive,V382L
+Dog,permissive,0.0271522460436148,test,permissive,V382L
+Ferret,non-permissive,0.110412483411704,train,permissive,V382L
+Hamster,permissive,0.152090982651915,train,permissive,V382L
+Horse,permissive,0.0263289387223491,train,permissive,V382L
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,V382L
+Human,permissive,0.628388930050312,train,permissive,V382L
+Monkey,permissive,0.665111737075051,train,permissive,V382L
+Mouse,non-permissive,0.0969100130080564,train,permissive,V382L
+Pangolin,non-permissive,0.0217192496932363,test,permissive,V382L
+Pig,permissive,0.0321846833714012,train,permissive,V382L
+Puma,permissive,-1.21748394421391,train,non-permissive,V382L
+Rabbit,permissive,0.159700842867512,test,permissive,V382L
+Sea Lion,permissive,0.0271522460436148,test,permissive,V382L
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,V382L
+Whale,non-permissive,0.301029995663981,test,permissive,V382L
+Camel,permissive,-0.0725506671486117,train,non-permissive,V382L
+Cat,non-permissive,1.33243845991561,train,permissive,V483F
+Dog,permissive,0.0248235837250321,test,permissive,V483F
+Ferret,non-permissive,0.10790539730952,train,permissive,V483F
+Hamster,permissive,0.0771659548122993,train,permissive,V483F
+Horse,permissive,0.0118992232997077,train,permissive,V483F
+Horseshoe bat,non-permissive,0.0273231272112348,train,permissive,V483F
+Human,non-permissive,0.374458912822515,train,permissive,V483F
+Monkey,permissive,-0.252725316089426,train,non-permissive,V483F
+Mouse,non-permissive,0.114573221136466,train,permissive,V483F
+Pangolin,non-permissive,0.0314084642516241,test,permissive,V483F
+Pig,permissive,0.0561159419789314,train,permissive,V483F
+Puma,permissive,-1.23044892137827,train,non-permissive,V483F
+Rabbit,permissive,0.048304679574555,test,permissive,V483F
+Sea Lion,permissive,0,test,non-permissive,V483F
+Tupaia,non-permissive,-0.00860017176191758,test,non-permissive,V483F
+Whale,non-permissive,0.255272505103306,test,permissive,V483F
+Camel,permissive,-0.0644579892269185,train,non-permissive,V483F
+Cat,non-permissive,1.31175386105575,train,permissive,V503F
+Dog,permissive,0.0271522460436148,test,permissive,V503F
+Ferret,non-permissive,0.110412483411704,train,permissive,V503F
+Hamster,permissive,0.152090982651915,train,permissive,V503F
+Horse,permissive,0.0263289387223491,train,permissive,V503F
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,V503F
+Human,permissive,0.628388930050312,train,permissive,V503F
+Monkey,permissive,0.665111737075051,train,permissive,V503F
+Mouse,non-permissive,0.0969100130080564,train,permissive,V503F
+Pangolin,non-permissive,0.0217192496932363,test,permissive,V503F
+Pig,permissive,0.0321846833714012,train,permissive,V503F
+Puma,permissive,-1.21748394421391,train,non-permissive,V503F
+Rabbit,permissive,0.159700842867512,test,permissive,V503F
+Sea Lion,permissive,0.0271522460436148,test,permissive,V503F
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,V503F
+Whale,non-permissive,0.301029995663981,test,permissive,V503F
+Camel,permissive,-0.0725506671486117,train,non-permissive,V503F
+Cat,non-permissive,1.34242268082221,train,permissive,V534I
+Dog,permissive,0,train,non-permissive,V534I
+Ferret,non-permissive,0.0234810958495229,train,permissive,V534I
+Hamster,permissive,0.0243593458594447,train,permissive,V534I
+Horse,permissive,0,train,non-permissive,V534I
+Horseshoe bat,non-permissive,0.0511525224473813,test,permissive,V534I
+Human,permissive,0.371067862271736,train,permissive,V534I
+Monkey,permissive,0.352182518111362,train,permissive,V534I
+Mouse,non-permissive,0.183916596567638,train,permissive,V534I
+Pangolin,non-permissive,0.020203386088287,test,permissive,V534I
+Pig,non-permissive,0.064117499611749,test,permissive,V534I
+Puma,permissive,-1.27875360095283,train,non-permissive,V534I
+Rabbit,permissive,0.0532455119532251,test,permissive,V534I
+Sea Lion,permissive,0.0197440581957572,test,permissive,V534I
+Tupaia,non-permissive,-0.00469512120837984,train,non-permissive,V534I
+Whale,non-permissive,0.00860017176191757,train,permissive,V534I
+Camel,permissive,-0.0889410833367811,test,non-permissive,V534I
+Cat,non-permissive,1.26717172840301,train,permissive,Y453F
+Dog,permissive,0,train,non-permissive,Y453F
+Ferret,non-permissive,0,train,non-permissive,Y453F
+Hamster,permissive,0.0274382483469396,train,permissive,Y453F
+Horse,non-permissive,0.0118992232997077,test,permissive,Y453F
+Horseshoe bat,non-permissive,-0.0591214521186567,test,non-permissive,Y453F
+Human,permissive,0.311753861055754,train,permissive,Y453F
+Monkey,permissive,0.301029995663981,train,permissive,Y453F
+Mouse,non-permissive,0.173126780091942,train,permissive,Y453F
+Pangolin,non-permissive,0,test,non-permissive,Y453F
+Pig,permissive,0.0612696567389227,train,permissive,Y453F
+Puma,permissive,-1.25527250510331,train,non-permissive,Y453F
+Rabbit,permissive,0.00998422090660092,test,permissive,Y453F
+Sea Lion,permissive,0.0222763947111522,test,permissive,Y453F
+Tupaia,non-permissive,-0.00485250279441207,train,non-permissive,Y453F
+Whale,non-permissive,0.098925304243382,train,permissive,Y453F
+Camel,permissive,0.0377885608893998,test,permissive,Y453F
+Cat,non-permissive,1.5910646070265,train,permissive,Y473F
+Dog,permissive,0.0644579892269185,train,permissive,Y473F
+Ferret,non-permissive,0.106455330914287,train,permissive,Y473F
+Hamster,permissive,0.111973759443932,train,permissive,Y473F
+Horse,permissive,0.0122344564170116,test,permissive,Y473F
+Horseshoe bat,non-permissive,0.0347621062592119,train,permissive,Y473F
+Human,non-permissive,0.364699075533359,train,permissive,Y473F
+Monkey,permissive,-0.212608092881444,train,non-permissive,Y473F
+Mouse,non-permissive,0.11850462660289,train,permissive,Y473F
+Pangolin,non-permissive,0.0469965626762236,test,permissive,Y473F
+Pig,non-permissive,0.166947879615811,test,permissive,Y473F
+Puma,permissive,-1.39794000867204,train,non-permissive,Y473F
+Rabbit,permissive,0.0649408069330146,test,permissive,Y473F
+Sea Lion,permissive,0.0170333392987804,train,permissive,Y473F
+Tupaia,non-permissive,-0.0093400262541434,test,non-permissive,Y473F
+Whale,permissive,0.133538908370218,test,permissive,Y473F
+Camel,permissive,0.107209969647868,train,permissive,Y473F
+Cat,non-permissive,1.31175386105575,train,permissive,Y508H
+Dog,permissive,0.0271522460436148,test,permissive,Y508H
+Ferret,non-permissive,0.110412483411704,train,permissive,Y508H
+Hamster,permissive,0.152090982651915,train,permissive,Y508H
+Horse,permissive,0.0263289387223491,train,permissive,Y508H
+Horseshoe bat,non-permissive,0.0334237554869497,train,permissive,Y508H
+Human,permissive,0.628388930050312,train,permissive,Y508H
+Monkey,permissive,0.665111737075051,train,permissive,Y508H
+Mouse,non-permissive,0.0969100130080564,train,permissive,Y508H
+Pangolin,non-permissive,0.0217192496932363,test,permissive,Y508H
+Pig,permissive,0.0321846833714012,train,permissive,Y508H
+Puma,permissive,-1.21748394421391,train,non-permissive,Y508H
+Rabbit,permissive,0.159700842867512,test,permissive,Y508H
+Sea Lion,permissive,0.0271522460436148,test,permissive,Y508H
+Tupaia,non-permissive,-0.00877392430750515,test,non-permissive,Y508H
+Whale,non-permissive,0.301029995663981,test,permissive,Y508H
+Camel,permissive,-0.0725506671486117,train,non-permissive,Y508H
